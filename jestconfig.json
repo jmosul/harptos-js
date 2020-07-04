@@ -1,0 +1,19 @@
+{
+    "transform": {
+        "^.+\\.(t|j)sx?$": "ts-jest"
+    },
+    "setupFilesAfterEnv": [
+        "<rootDir>/tests/matchers/toBeParsedStamp.matcher.ts"
+    ],
+    "testMatch": [
+        "**/tests/**/*.test.ts"
+    ],
+    "moduleFileExtensions": [
+        "ts",
+        "tsx",
+        "js",
+        "jsx",
+        "json",
+        "node"
+    ]
+}

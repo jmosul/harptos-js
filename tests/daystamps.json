@@ -1,0 +1,138 @@
+[
+    {
+        "description": "Last day of the 1st year",
+        "daystamp": 365,
+        "parsed": {
+            "day": 30,
+            "month": 12,
+            "year": 1
+        }
+    },
+    {
+        "description": "First day of second year",
+        "daystamp": 366,
+        "parsed": {
+            "day": 1,
+            "month": 1,
+            "year": 2
+        }
+    },
+    {
+        "description": "First day of leap year (year 4 is a leap year)",
+        "daystamp": 1096,
+        "parsed": {
+            "day": 1,
+            "month": 1,
+            "year": 4
+        }
+    },
+    {
+        "description": "Penultimate day of leap year (year 4 is a leap year)",
+        "daystamp": 1460,
+        "parsed": {
+            "day": 29,
+            "month": 12,
+            "year": 4
+        }
+    },
+    {
+        "description": "Last day of leap year (year 4 is a leap year)",
+        "daystamp": 1461,
+        "parsed": {
+            "day": 30,
+            "month": 12,
+            "year": 4
+        }
+    },
+    {
+        "description": "Midwinter, 1st 'leap' month day",
+        "daystamp": 31,
+        "parsed": {
+            "day": 31,
+            "month": 1,
+            "year": 1
+        }
+    },
+    {
+        "description": "Greengrass, 2nd 'leap' month day",
+        "daystamp": 122,
+        "parsed": {
+            "day": 31,
+            "month": 4,
+            "year": 1
+        }
+    },
+    {
+        "description": "Midsummer, 3rd 'leap' month day",
+        "daystamp": 213,
+        "parsed": {
+            "day": 31,
+            "month": 7,
+            "year": 1
+        }
+    },
+    {
+        "description": "Highharvestide, 4th 'leap' month day",
+        "daystamp": 274,
+        "parsed": {
+            "day": 31,
+            "month": 9,
+            "year": 1
+        }
+    },
+    {
+        "description": "Feast of the Moon, 5th 'leap' month day",
+        "daystamp": 335,
+        "parsed": {
+            "day": 31,
+            "month": 11,
+            "year": 1
+        }
+    },
+    {
+        "description": "Day before Midsummer, 3rd 'leap' month day",
+        "daystamp": 212,
+        "parsed": {
+            "day": 30,
+            "month": 7,
+            "year": 1
+        }
+    },
+    {
+        "description": "Day after Midsummer, 3rd 'leap' month day (not a leap year)",
+        "daystamp": 214,
+        "parsed": {
+            "day": 1,
+            "month": 8,
+            "year": 1
+        }
+    },
+    {
+        "description": "Two days after Midsummer, 3rd 'leap' month day (not a leap year)",
+        "daystamp": 215,
+        "parsed": {
+            "day": 2,
+            "month": 8,
+            "year": 1
+        }
+    },
+    {
+        "description": "Shieldmeet, leap day on leap year ",
+        "daystamp": 1309,
+        "parsed": {
+            "day": 32,
+            "month": 7,
+            "year": 4
+        }
+    },
+    {
+        "description": "Day after Shieldmeet, leap day on leap year ",
+        "daystamp": 1310,
+        "parsed": {
+            "day": 1,
+            "month": 8,
+            "year": 4
+        }
+    }
+]
+
