@@ -23,7 +23,7 @@ Harptos follows the structure of:
 
 ## Planned Features:
 
-#### Format date into string
+### Format date into string
 
 Display your Harptos dates using common date parser formats.
 ```js
@@ -36,7 +36,7 @@ The additional days between months will be treated as special cases.
 As an example, though Midsummer is presented as the 31st day of Flamerule (1000-07-31), this is purely to allow dates to be stored in common formats.
 The string parser however will display Midsummer as its own unique entity. I.e `Midsummer 1000`.
 
-#### Locales for different built in formats
+### Locales for different built in formats
  * Switch between British and US date formats
      * 1st Marpenoth 1000 v Marpenoth 1st, 1000
  * Switch between Harptos and Common names
@@ -53,7 +53,7 @@ It will be extended to match MomentJS's api.  For example: `harpos.add(3, months
 ### Tendays
 Implement counting by Tendays. With tendays starting on the 1st of every month as defined in the Harptos calendar.
 
-#### Customise calendar structure
+### Customise calendar structure
 HarptosJS follows the structure of twelve months of 30 days, with 5 inbetween days and a leap year every 4 years.
 I will aim to allow HarptosJS to be highly configurable allowing the date structure to be changed.  This will include custom week lengths (tendays).
 
