@@ -1,0 +1,39 @@
+{
+    "name": "harptos",
+    "version": "0.0.0",
+    "description": "Faerun Harptos Calendar library",
+    "main": "index.js",
+    "scripts": {
+        "build": "tsc",
+        "test": "jest --config jestconfig.json",
+        "test-nocache": "jest --config jestconfig.json --clearCache",
+        "format": "prettier --write \"src/**/*.ts\" \"src/**/*.js\"",
+        "lint": "tslint -p tsconfig.json"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/jmosul/harptos-js.git"
+    },
+    "keywords": [
+        "dnd",
+        "harptos"
+    ],
+    "author": "James O'Sullivan",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/jmosul/harptos-js/issues"
+    },
+    "files": [
+        "build/**/*"
+    ],
+    "homepage": "https://github.com/jmosul/harptos-js#readme",
+    "devDependencies": {
+        "@types/jest": "^26.0.3",
+        "jest": "^26.1.0",
+        "prettier": "^2.0.5",
+        "ts-jest": "^26.1.1",
+        "tslint": "^6.1.2",
+        "tslint-config-prettier": "^1.18.0",
+        "typescript": "^3.9.6"
+    }
+}

@@ -4,13 +4,40 @@ on:
   pull_request:
     branches: [ master ]
 
-jobs:
+jobs:        
   test:
-    # The type of runner that the job will run on
     runs-on: ubuntu-latest
 
     steps:
     - uses: actions/checkout@v2
 
+    - name: Cache node modules
+      uses: bahmutov/npm-install@v1.1.0
+
+    - name: install
+      run: npm ci
+
     - name: Jest
+      env:
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       uses: mattallty/jest-github-action@v1.0.3
+
+  linter:
+    runs-on: ubuntu-latest
+
+    steps:
+    - uses: actions/checkout@v2
+
+    - name: Cache node modules
+      uses: bahmutov/npm-install@v1.1.0
+
+    - name: install
+      run: npm ci
+
+    - name: TSLint
+      uses: mooyoul/tslint-actions@v1.1.1
+      with:
+        token: ${{secrets.GITHUB_TOKEN}}
+        pattern: '*.ts'
+
+   
