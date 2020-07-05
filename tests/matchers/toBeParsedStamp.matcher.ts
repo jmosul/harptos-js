@@ -1,7 +1,7 @@
-import ParsedStamp from '../../src/types/ParsedStamp';
+import YmdDate from '../../src/types/YmdDate';
 
 expect.extend({
-    toBeParsedStamp(received: ParsedStamp, expected: ParsedStamp) : jest.CustomMatcherResult {
+    toBeParsedStamp(received: YmdDate, expected: YmdDate) : jest.CustomMatcherResult {
         let failedOn: string = '';
 
         if (received.year !== expected.year) {
@@ -21,7 +21,7 @@ expect.extend({
 declare global {
     namespace jest {
         interface Matchers<R> {
-            toBeParsedStamp(expected: ParsedStamp): jest.CustomMatcherResult;
+            toBeParsedStamp(expected: YmdDate): jest.CustomMatcherResult;
         }
     }
 }

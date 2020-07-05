@@ -1,21 +1,21 @@
 import parseNumber from './parsers/parseNumber';
-import ParsedStamp, { DISCRIMINATOR } from './types/ParsedStamp';
+import YmdDate, { DISCRIMINATOR } from './types/YmdDate';
 import parseObject from './parsers/parseObject';
 import parseDaystamp from './parsers/parseDaystamp';
 
-export default class HarptosDate implements ParsedStamp{
+export default class HarptosDate implements YmdDate{
     private _day: number;
     private _month: number;
     private _year: number;
 
-    public constructor(input: ParsedStamp) {
+    public constructor(input: YmdDate) {
         this._year = input.year - 1;
         this._month = input.month - 1;
         this._day = input.day - 1;
     }
 
     [index: string]: any;
-    _discriminator: 'IParsedStamp' = DISCRIMINATOR;
+    _discriminator: 'IYmnDate' = DISCRIMINATOR;
 
     public get day(): number {
         return this._day + 1;

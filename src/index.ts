@@ -1,6 +1,6 @@
 import HarptosDate from './HarptosDate';
 import parseDaystamp from './parsers/parseDaystamp';
-import ParsedStamp, { isParsedStamp } from './types/ParsedStamp';
+import YmdDate, { isParsedStamp } from './types/YmdDate';
 import parseYmd from './parsers/parseYmd';
 
 export default function(input: any): HarptosDate {
@@ -17,7 +17,7 @@ export default function(input: any): HarptosDate {
 
         case 'object':
             if (isParsedStamp(input)) {
-                return new HarptosDate(<ParsedStamp>input);
+                return new HarptosDate(<YmdDate>input);
             }
             break;
     }

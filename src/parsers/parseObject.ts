@@ -1,4 +1,4 @@
-import ParsedStamp from '../types/ParsedStamp';
+import YmdDate from '../types/YmdDate';
 import { DAYS_IN_YEAR, LEAP_YEAR_FREQUENCY } from '../constants';
 import monthRepo from '../MonthsRepository';
 import Month from '../types/Month';
@@ -22,7 +22,7 @@ function parseMonths(months: number): number {
     return matchMonth[daysField] - 1;
 }
 
-export default function(obj: ParsedStamp): number {
+export default function(obj: YmdDate): number {
     return parseYears(obj.year)
         + parseMonths(obj.month)
         + obj.day;

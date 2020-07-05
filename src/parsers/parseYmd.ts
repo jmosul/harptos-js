@@ -1,4 +1,4 @@
-import ParsedStamp from '../types/ParsedStamp';
+import YmdDate from '../types/YmdDate';
 import parseObject from './parseObject';
 
 export default function (Ymd: string): number {
@@ -8,7 +8,7 @@ export default function (Ymd: string): number {
         year: YmdParts[0],
         month: YmdParts[1],
         day: YmdParts[2]
-    } as ParsedStamp;
+    } as YmdDate;
 
     return parseObject(parsedStamp);
 }

@@ -2,13 +2,13 @@ import fromDay from '../helpers/fromDay';
 import toDay from '../helpers/toDay';
 import parseNumber from './parseNumber';
 import { DAYS_IN_YEAR, LEAP_YEAR_FREQUENCY } from '../constants';
-import ParsedStamp from '../types/ParsedStamp';
+import YmdDate from '../types/YmdDate';
 import months from '../MonthsRepository';
 import Month from '../types/Month';
 
 let isLeapYear: boolean = false;
 
-let parsed: ParsedStamp;
+let parsed: YmdDate;
 
 function parseUnit(days: number, unit: string): number {
     parsed[unit] = fromDay[unit](days) + 1;
@@ -50,10 +50,10 @@ function parseMonths(days: number): number {
     return days;
 }
 
-export default function(amount: number): ParsedStamp {
+export default function(amount: number): YmdDate {
     let days = parseNumber(amount);
 
-    parsed = { day: 0, month: 0, year: 0 } as ParsedStamp;
+    parsed = { day: 0, month: 0, year: 0 } as YmdDate;
 
     days = parseYears(days);
 

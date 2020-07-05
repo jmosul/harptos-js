@@ -1,11 +1,11 @@
 import daystamps from '../daystamps.json';
-import ParsedStamp from '../../src/types/ParsedStamp';
+import YmdDate from '../../src/types/YmdDate';
 import parseDaystamp from '../../src/parsers/parseDaystamp';
 
 describe('parseDaystamp', () => {
     daystamps.forEach(({ daystamp, parsed, description }) => {
         describe(`parsers ${daystamp}: : ${description}`, () => {
-            let result: ParsedStamp;
+            let result: YmdDate;
 
             beforeAll(() => result = parseDaystamp(daystamp))
 
