@@ -2,16 +2,20 @@ import parseNumber from './parsers/parseNumber';
 import YmdDate, { DISCRIMINATOR } from './types/YmdDate';
 import parseObject from './parsers/parseObject';
 import parseDaystamp from './parsers/parseDaystamp';
+import Harptos from './types/Harptos';
+import { DEFAULT_LOCALE } from './constants';
 
-export default class HarptosDate implements YmdDate{
+export default class HarptosDate implements YmdDate, Harptos {
     private _day: number;
     private _month: number;
     private _year: number;
+    private _locale: string = DEFAULT_LOCALE;
 
-    public constructor(input: YmdDate) {
+    public constructor(input: YmdDate, locale?: string) {
         this._year = input.year - 1;
         this._month = input.month - 1;
         this._day = input.day - 1;
+        this.locale = locale || this.locale;
     }
 
     [index: string]: any;
@@ -33,15 +37,28 @@ export default class HarptosDate implements YmdDate{
         return parseObject(this);
     }
 
-    public add(amount: number): HarptosDate {
+    public get locale(): string {
+        return this._locale;
+    }
+
+    public set locale(locale: string) {
+        this._locale = locale;
+    }
+
+    public add(amount: number): Harptos {
         amount = parseNumber(amount);
 
         const parsed = parseDaystamp(amount + this.daystamp);
 
-        return new HarptosDate(parsed);
+        return new HarptosDate(parsed, this.locale);
     }
 
-    public subtract(amount: number): HarptosDate {
+    public subtract(amount: number): Harptos {
         return this.add(amount * -1);
     }
+
+    public format(format: string): string {
+        return '';
+    }
+
 }

@@ -1,30 +1,6 @@
-import HarptosDate from './HarptosDate';
-import parseDaystamp from './parsers/parseDaystamp';
-import YmdDate, { isParsedStamp } from './types/YmdDate';
-import parseYmd from './parsers/parseYmd';
+import builder from './builder';
+import harptos_gb from './locales/harptos_gb';
 
-export default function(input: any): HarptosDate {
-    let daystamp: number = (new Date()).getTime() / 86400000;
+builder.addLocale(harptos_gb);
 
-    switch (typeof input) {
-        case 'number':
-            daystamp = <number>input;
-            break;
-
-        case 'string':
-            daystamp = parseYmd(<string>input);
-            break;
-
-        case 'object':
-            if (isParsedStamp(input)) {
-                return new HarptosDate(<YmdDate>input);
-            }
-            break;
-    }
-
-    daystamp = Math.floor(daystamp);
-
-    const parsedStamp = parseDaystamp(<number>input);
-
-    return new HarptosDate(parsedStamp);
-}
+export default builder;

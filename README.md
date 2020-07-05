@@ -7,11 +7,11 @@ HarptosJS is an attempt to implement a [MomentJS](https://momentjs.com/)-esque d
 It is being built out of need for my own personal project, but presented separately in case it helps another.
 
 ```js
-import harptos from 'path/to/harptosjs';
+import builder from 'path/to/harptosjs';
 
 const date = harpotos('1000-10-01');
 
-const tomorrow = harptos.add(1); // 1000-01-01
+const tomorrow = builder.add(1); // 1000-01-01
 ```
 
 Harptos follows the structure of:

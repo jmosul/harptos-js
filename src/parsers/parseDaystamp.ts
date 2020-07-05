@@ -3,7 +3,7 @@ import toDay from '../helpers/toDay';
 import parseNumber from './parseNumber';
 import { DAYS_IN_YEAR, LEAP_YEAR_FREQUENCY } from '../constants';
 import YmdDate from '../types/YmdDate';
-import months from '../MonthsRepository';
+import months from '../repositories/MonthsRepository';
 import Month from '../types/Month';
 
 let isLeapYear: boolean = false;

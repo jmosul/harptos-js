@@ -1,6 +1,6 @@
 import YmdDate from '../types/YmdDate';
 import { DAYS_IN_YEAR, LEAP_YEAR_FREQUENCY } from '../constants';
-import monthRepo from '../MonthsRepository';
+import monthRepo from '../repositories/MonthsRepository';
 import Month from '../types/Month';
 
 let isLeapYear: boolean = false;
