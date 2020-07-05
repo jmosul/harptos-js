@@ -4,21 +4,48 @@ on:
   pull_request:
     branches: [ master ]
 
-jobs:
+jobs:        
   test:
     runs-on: ubuntu-latest
 
     steps:
     - uses: actions/checkout@v2
 
+    - name: Cache node modules
+      uses: actions/cache@v2
+      with:
+        path: ~/.npm
+        key: npm-${{ hashFiles('**/package-lock.json') }}
+        restore-keys: |
+          npm-${{ hashFiles('**/package-lock.json') }}
+          npm-
+
     - name: install
-      run: npm ci
+      run: npm i
 
     - name: Jest
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       uses: mattallty/jest-github-action@v1.0.3
-      
+
+  linter:
+    runs-on: ubuntu-latest
+
+    steps:
+    - uses: actions/checkout@v2
+
+    - name: Cache node modules
+      uses: actions/cache@v2
+      with:
+        path: ~/.npm
+        key: npm-${{ hashFiles('**/package-lock.json') }}
+        restore-keys: |
+          npm-${{ hashFiles('**/package-lock.json') }}
+          npm-
+
+    - name: install
+      run: npm i
+
     - name: TSLint
       uses: mooyoul/tslint-actions@v1.1.1
       with:
