@@ -12,16 +12,10 @@ jobs:
     - uses: actions/checkout@v2
 
     - name: Cache node modules
-      uses: actions/cache@v2
-      with:
-        path: ~/.npm
-        key: npm-${{ hashFiles('**/package-lock.json') }}
-        restore-keys: |
-          npm-${{ hashFiles('**/package-lock.json') }}
-          npm-
+      uses: bahmutov/npm-install@v1.1.0
 
     - name: install
-      run: npm i
+      run: npm ci
 
     - name: Jest
       env:
@@ -35,16 +29,10 @@ jobs:
     - uses: actions/checkout@v2
 
     - name: Cache node modules
-      uses: actions/cache@v2
-      with:
-        path: ~/.npm
-        key: npm-${{ hashFiles('**/package-lock.json') }}
-        restore-keys: |
-          npm-${{ hashFiles('**/package-lock.json') }}
-          npm-
+      uses: bahmutov/npm-install@v1.1.0
 
     - name: install
-      run: npm i
+      run: npm ci
 
     - name: TSLint
       uses: mooyoul/tslint-actions@v1.1.1
