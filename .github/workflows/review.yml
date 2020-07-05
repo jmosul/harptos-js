@@ -11,17 +11,18 @@ jobs:
     steps:
     - uses: actions/checkout@v2
 
+    - name: install
+      run: npm ci
+
     - name: Jest
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       uses: mattallty/jest-github-action@v1.0.3
       
-  lint:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: actions/checkout@v2
-      - name: TSLint
-        uses: mooyoul/tslint-actions@v1.1.1
-        with:
-          token: secrets.GITHUB_TOKEN
+    - name: TSLint
+      uses: mooyoul/tslint-actions@v1.1.1
+      with:
+        token: secrets.GITHUB_TOKEN
+        pattern: '*.ts'
+
    
