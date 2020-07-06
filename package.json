@@ -29,6 +29,8 @@
         "url": "https://github.com/jmosul/harptos-js/issues"
     },
     "files": [
+        "index.d.ts",
+        "index.js",
         "build/**/*"
     ],
     "homepage": "https://github.com/jmosul/harptos-js#readme",
