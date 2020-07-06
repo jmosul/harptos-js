@@ -13,9 +13,9 @@ export default class HarptosDate implements YmdDate, Harptos {
     private _locale: string = DEFAULT_LOCALE;
 
     public constructor(input: YmdDate, locale?: string) {
-        this._year = input.year - 1;
-        this._month = input.month - 1;
-        this._day = input.day - 1;
+        this._year = input.year;
+        this._month = input.month;
+        this._day = input.day;
         this.locale = locale || this.locale;
     }
 
@@ -23,15 +23,15 @@ export default class HarptosDate implements YmdDate, Harptos {
     _discriminator: 'IYmnDate' = DISCRIMINATOR;
 
     public get day(): number {
-        return this._day + 1;
+        return this._day;
     }
 
     public get month(): number {
-        return this._month + 1;
+        return this._month;
     }
 
     public get year(): number {
-        return this._year + 1;
+        return this._year;
     }
 
     public get daystamp(): number {
