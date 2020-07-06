@@ -1,6 +1,6 @@
 {
-    "name": "harptos",
-    "version": "0.0.0",
+    "name": "harptosjs",
+    "version": "0.0.1",
     "description": "Faerun Harptos Calendar library",
     "main": "index.js",
     "scripts": {
