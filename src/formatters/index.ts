@@ -105,7 +105,13 @@ function dateFormatter(harptos: Harptos, format: string): string {
     formatted = matches.reduce((formattedDate, replace, index): string => formattedDate.replace(`${index}%`, replace), formatted);
 
     // trim non alpha numeric
-    return formatted.replace(/^[^a-z\d]*|[^a-z\d]*$/gi, '');
+    return formatted.replace(/^[^a-z\d]*|[^a-z\d]*$/gi, '')
+        .replace('--', '-')
+        .replace('//', '/')
+        .replace('..', '.')
+        .replace('__', '_')
+        .replace('__', '_')
+        .replace(/  +/g, ' ');
 }
 
 const formatter = Object.assign(
