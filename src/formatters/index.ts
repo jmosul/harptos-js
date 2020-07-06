@@ -5,7 +5,7 @@ import { DAYS_IN_MONTH, LEAP_DAY, LEAP_MONTH, LEAP_MONTHS } from '../constants';
 
 let locale: Locale;
 
-let matches: Array<string> = [];
+let matches: string[] = [];
 
 let additionalDay: undefined | number;
 
@@ -14,11 +14,9 @@ interface Search {
     parse: (harptos: Harptos) => string
 }
 
-function isAdditionalDay() {
-    return additionalDay !== undefined || additionalDay === 0;
-}
+const isAdditionalDay = () => additionalDay !== undefined || additionalDay === 0;
 
-const searches: Array<Search> = [
+const searches: Search[] = [
     {
         format: 'YYYY',
         parse: (harptos: Harptos) => `${harptos.year}`.padStart(4, '0'),
@@ -29,19 +27,19 @@ const searches: Array<Search> = [
     },
     {
         format: 'MMMM',
-        parse: (harptos: Harptos) => isAdditionalDay() ? locale.additionals[<number>additionalDay] : locale.months[harptos.month - 1],
+        parse: (harptos: Harptos) => isAdditionalDay() ? locale.additionals[additionalDay as number] : locale.months[harptos.month - 1],
     },
     {
         format: 'MMM',
-        parse: (harptos: Harptos) => isAdditionalDay() ? locale.additionalsShort[<number>additionalDay] : locale.monthsShort[harptos.month - 1],
+        parse: (harptos: Harptos) => isAdditionalDay() ? locale.additionalsShort[additionalDay as number] : locale.monthsShort[harptos.month - 1],
     },
     {
         format: 'MM',
-        parse: (harptos: Harptos) => isAdditionalDay() ? locale.additionalsShort[<number>additionalDay] : `${harptos.month}`.padStart(2, '0'),
+        parse: (harptos: Harptos) => isAdditionalDay() ? locale.additionalsShort[additionalDay as number] : `${harptos.month}`.padStart(2, '0'),
     },
     {
         format: 'M',
-        parse: (harptos: Harptos) => isAdditionalDay() ? locale.additionalsShort[<number>additionalDay] : `${harptos.month}`,
+        parse: (harptos: Harptos) => isAdditionalDay() ? locale.additionalsShort[additionalDay as number] : `${harptos.month}`,
     },
     {
         format: 'DD',
@@ -69,7 +67,7 @@ const searches: Array<Search> = [
     },
 ];
 
-function getAdditionalDay(harptos: Harptos): number | undefined {
+const getAdditionalDay = (harptos: Harptos): number | undefined => {
     if (harptos.month === LEAP_MONTH && harptos.day === LEAP_DAY) {
         return LEAP_MONTHS.length;
     }
@@ -81,16 +79,16 @@ function getAdditionalDay(harptos: Harptos): number | undefined {
     }
 
     return undefined;
-}
+};
 
-function dateFormatter(harptos: Harptos, format: string, localeCode?: string): string {
+const dateFormatter = (harptos: Harptos, formatString: string, localeCode?: string): string => {
     matches = [];
     locale = LocalesRepository.get(localeCode || harptos.locale);
     additionalDay = getAdditionalDay(harptos);
 
-    format = format.replace('LLL', locale.formats.LLL);
-    format = format.replace('LL', locale.formats.LL);
-    format = format.replace('L', locale.formats.L);
+    formatString = formatString.replace('LLL', locale.formats.LLL);
+    formatString = formatString.replace('LL', locale.formats.LL);
+    formatString = formatString.replace('L', locale.formats.L);
 
     let formatted = searches.reduce((formattedDate, { format, parse }): string => {
         if (formattedDate.indexOf(format) >= 0) {
@@ -100,7 +98,7 @@ function dateFormatter(harptos: Harptos, format: string, localeCode?: string): s
         }
 
         return formattedDate;
-    }, format);
+    }, formatString);
 
     formatted = matches.reduce((formattedDate, replace, index): string => formattedDate.replace(`${index}%`, replace), formatted);
 
@@ -112,7 +110,7 @@ function dateFormatter(harptos: Harptos, format: string, localeCode?: string): s
         .replace('__', '_')
         .replace('__', '_')
         .replace(/  +/g, ' ');
-}
+};
 
 const formatter = Object.assign(
     dateFormatter,

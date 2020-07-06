@@ -1,28 +1,18 @@
 import * as constants from '../constants';
 
-function toDays(amount: number, factor: number): number {
-    return Math.floor(amount * factor);
-}
+const toDays = (amount: number, factor: number): number => Math.floor(amount * factor);
 
-export function day(tenday:number): number {
-    return toDays(tenday, 1);
-}
+export const day = (amount:number): number => toDays(amount, 1);
 
-export function tenday(tenday:number): number {
-    return toDays(tenday, constants.DAYS_IN_TENDAY);
-}
+export const tenday = (amount:number): number => toDays(amount, constants.DAYS_IN_TENDAY);
 
-export function month(month:number): number {
-    return toDays(month - 1, constants.DAYS_IN_MONTH);
-}
+export const month = (amount:number): number => toDays(amount - 1, constants.DAYS_IN_MONTH);
 
-export function year(year:number): number {
-    return toDays(year - 1, constants.DAYS_IN_YEAR);
-}
+export const year = (amount:number): number => toDays(amount - 1, constants.DAYS_IN_YEAR);
 
-const convert: {[index: string]: Function} = {
+const convert: {[index: string]: (amount:number) => number} = {
     day,
-    tenday,
+    amount: tenday,
     month,
     year,
 };

@@ -2,7 +2,7 @@ import Locale from '../types/Locale';
 import harptos_gb from '../locales/harptos_gb';
 
 export class LocalesRepository {
-    private locales:Array<Locale> = [
+    private locales: Locale[] = [
         harptos_gb,
     ];
 
@@ -13,7 +13,7 @@ export class LocalesRepository {
             throw Error(`Locale ${locale} has not been loaded.`);
         }
 
-        return <Locale>locales.shift();
+        return locales.shift() as Locale;
     }
 
     add(locale: Locale): this {
