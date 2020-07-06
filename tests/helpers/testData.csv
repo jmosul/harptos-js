@@ -1,0 +1,16 @@
+﻿description,daystamp,locale,day,month,year,M,MM,MMM,MMMM,D,Do,DD,y,YYYY,N,NN,NNN,L,LL,LLL
+Last day of the 1st year,365,harptos_gb,30,12,1,12,12,Nig,Nightal,30,30th,30,1,0001,DR,DR,Dale Reckoning,30/12/0001,30 Nightal 0001,30 Nightal 0001 DR
+First day of second year,366,harptos_gb,1,1,2,1,01,Ham,Hammer,1,1st,01,2,0002,DR,DR,Dale Reckoning,01/01/0002,1 Hammer 0002,1 Hammer 0002 DR
+First day of leap year (year 4 is a leap year),1096,harptos_gb,1,1,4,1,01,Ham,Hammer,1,1st,01,4,0004,DR,DR,Dale Reckoning,01/01/0004,1 Hammer 0004,1 Hammer 0004 DR
+Penultimate day of leap year (year 4 is a leap year),1460,harptos_gb,29,12,4,12,12,Nig,Nightal,29,29th,29,4,0004,DR,DR,Dale Reckoning,29/12/0004,29 Nightal 0004,29 Nightal 0004 DR
+Last day of leap year (year 4 is a leap year),1461,harptos_gb,30,12,4,12,12,Nig,Nightal,30,30th,30,4,0004,DR,DR,Dale Reckoning,30/12/0004,30 Nightal 0004,30 Nightal 0004 DR
+Midwinter: 1st 'leap' month day,31,harptos_gb,31,1,1,MW,MW,MW,Midwinter,,,,1,0001,DR,DR,Dale Reckoning,MW/0001,Midwinter 0001,Midwinter 0001 DR
+Greengrass: 2nd 'leap' month day,122,harptos_gb,31,4,1,GG,GG,GG,Greengrass,,,,1,0001,DR,DR,Dale Reckoning,GG/0001,Greengrass 0001,Greengrass 0001 DR
+Midsummer: 3rd 'leap' month day,213,harptos_gb,31,7,1,MS,MS,MS,Midsummer,,,,1,0001,DR,DR,Dale Reckoning,MS/0001,Midsummer 0001,Midsummer 0001 DR
+Highharvestide: 4th 'leap' month day,274,harptos_gb,31,9,1,HH,HH,HH,Highharvestide,,,,1,0001,DR,DR,Dale Reckoning,HH/0001,Highharvestide 0001,Highharvestide 0001 DR
+Feast of the Moon: 5th 'leap' month day,335,harptos_gb,31,11,1,FM,FM,FM,Feast of the Moon,,,,1,0001,DR,DR,Dale Reckoning,FM/0001,Feast of the Moon 0001,Feast of the Moon 0001 DR
+Day before Midsummer: 3rd 'leap' month day,212,harptos_gb,30,7,1,7,07,Fla,Flamerule,30,30th,30,1,0001,DR,DR,Dale Reckoning,30/07/0001,30 Flamerule 0001,30 Flamerule 0001 DR
+Day after Midsummer: 3rd 'leap' month day (not a leap year),214,harptos_gb,1,8,1,8,08,Els,Eleasis,1,1st,01,1,0001,DR,DR,Dale Reckoning,01/08/0001,1 Eleasis 0001,1 Eleasis 0001 DR
+Two days after Midsummer: 3rd 'leap' month day (not a leap year),215,harptos_gb,2,8,1,8,08,Els,Eleasis,2,2nd,02,1,0001,DR,DR,Dale Reckoning,02/08/0001,2 Eleasis 0001,2 Eleasis 0001 DR
+"Shieldmeet: leap day on leap year ",1309,harptos_gb,32,7,4,SM,SM,SM,Shieldmeet,,,,4,0004,DR,DR,Dale Reckoning,SM/0004,Shieldmeet 0004,Shieldmeet 0004 DR
+"Day after Shieldmeet: leap day on leap year ",1310,harptos_gb,1,8,4,8,08,Els,Eleasis,1,1st,01,4,0004,DR,DR,Dale Reckoning,01/08/0004,1 Eleasis 0004,1 Eleasis 0004 DR

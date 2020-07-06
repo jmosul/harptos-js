@@ -1,6 +1,7 @@
-import daystamps from '../daystamps.json';
-import YmdDate from '../../src/types/YmdDate';
-import parseDaystamp from '../../src/parsers/parseDaystamp';
+import YmdDate from '../../../src/types/YmdDate';
+import parseDaystamp from '../../../src/parsers/parseDaystamp';
+
+import daystamps from '../../helpers/testData';
 
 describe('parseDaystamp', () => {
     daystamps.forEach(({ daystamp, parsed, description }) => {

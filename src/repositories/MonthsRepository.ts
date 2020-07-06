@@ -1,5 +1,5 @@
-import Month from './types/Month';
-import { DAYS_IN_MONTH, LEAP_MONTH, LEAP_MONTHS, MONTHS_IN_YEAR } from './constants';
+import Month from '../types/Month';
+import { DAYS_IN_MONTH, LEAP_MONTH, LEAP_MONTHS, MONTHS_IN_YEAR } from '../constants';
 
 const months: Array<Month> = [];
 let standardDays = 1;

@@ -15,3 +15,6 @@ export const LEAP_MONTHS = [
 ];
 
 export const LEAP_MONTH = 7;
+export const LEAP_DAY = 32;
+
+export const DEFAULT_LOCALE = 'harptos_gb';
