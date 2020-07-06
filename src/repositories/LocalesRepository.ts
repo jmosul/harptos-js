@@ -1,13 +1,13 @@
 import Locale from '../types/Locale';
 import harptos_gb from '../locales/harptos_gb';
 
-class LocalesRepository {
+export class LocalesRepository {
     private locales:Array<Locale> = [
         harptos_gb,
     ];
 
     get(locale: string): Locale {
-        const locales = this.locales.filter(({name}):boolean => name === 'locale');
+        const locales = this.locales.filter(({name}):boolean => name === locale);
 
         if (!locales) {
             throw Error(`Locale ${locale} has not been loaded.`);

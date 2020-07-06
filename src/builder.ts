@@ -7,6 +7,14 @@ import Locale from './types/Locale';
 import { DEFAULT_LOCALE } from './constants';
 import LocalesRepository from './repositories/LocalesRepository';
 
+interface HarptosJS {
+    (input: any, locale ?: string): Harptos,
+    locale: (locale: string) => void,
+    addLocale: (locale: Locale) => void,
+}
+
+let defaultLocale: string = DEFAULT_LOCALE;
+
 const builder = function(input: any): HarptosDate {
     let daystamp: number = (new Date()).getTime() / 86400000;
 
@@ -32,15 +40,6 @@ const builder = function(input: any): HarptosDate {
 
     return new HarptosDate(parsedStamp);
 }
-
-interface HarptosJS {
-    (input: any, locale ?: string): Harptos,
-    locale: (locale: string) => void,
-    addLocale: (locale: Locale) => void,
-}
-
-let defaultLocale: string = DEFAULT_LOCALE;
-
 const base = {
     locale(locale: string): void {
         defaultLocale = locale;

@@ -1,9 +1,8 @@
-import builder from '../src/index';
-import HarptosDate from '../src/HarptosDate';
-import { DEFAULT_LOCALE } from '../src/constants';
+import builder from '../../src';
+import HarptosDate from '../../src/HarptosDate';
+import { DEFAULT_LOCALE } from '../../src/constants';
 
 describe( 'HarptosDate', () => {
-
     describe( 'daystamp', () => {
         it('takes and returns the day stamp', () => {
             const date = builder(123461);

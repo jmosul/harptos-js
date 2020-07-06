@@ -5,8 +5,10 @@ export default interface Locale {
     weekdaysMin: Array<string>,
     months: Array<string>,
     monthsShort: Array<string>,
-    reckoning: string,
-    reckoningShort: string,
+    era: string,
+    eraShort: string,
+    additionals: Array<string>,
+    additionalsShort: Array<string>,
     formats: {
         [index:string]: string
     },

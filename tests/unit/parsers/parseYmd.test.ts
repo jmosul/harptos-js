@@ -1,9 +1,6 @@
-import daystamps from '../daystamps.json';
-import parseInput from '../../src/parsers/parseYmd';
-
-function padNum(num: number): string {
-    return num <= 9 ? `0${num}` : `${num}`;
-}
+import daystamps from '../../helpers/testData';
+import parseInput from '../../../src/parsers/parseYmd';
+import padNum from '../../../src/helpers/padNum';
 
 describe('parseYmd', () => {
     daystamps.forEach(({ daystamp, parsed, description }) => {

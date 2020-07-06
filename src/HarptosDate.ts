@@ -4,6 +4,7 @@ import parseObject from './parsers/parseObject';
 import parseDaystamp from './parsers/parseDaystamp';
 import Harptos from './types/Harptos';
 import { DEFAULT_LOCALE } from './constants';
+import formatter from './formatters';
 
 export default class HarptosDate implements YmdDate, Harptos {
     private _day: number;
@@ -58,7 +59,6 @@ export default class HarptosDate implements YmdDate, Harptos {
     }
 
     public format(format: string): string {
-        return '';
+        return formatter(this, format);
     }
-
 }
