@@ -58,7 +58,7 @@ export default class HarptosDate implements YmdDate, Harptos {
         return this.add(amount * -1);
     }
 
-    public format(format: string): string {
-        return formatter(this, format);
+    public format(format: string, locale?: string): string {
+        return formatter(this, format, locale);
     }
 }

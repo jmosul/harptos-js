@@ -83,9 +83,9 @@ function getAdditionalDay(harptos: Harptos): number | undefined {
     return undefined;
 }
 
-function dateFormatter(harptos: Harptos, format: string): string {
+function dateFormatter(harptos: Harptos, format: string, localeCode?: string): string {
     matches = [];
-    locale = LocalesRepository.get(harptos.locale);
+    locale = LocalesRepository.get(localeCode || harptos.locale);
     additionalDay = getAdditionalDay(harptos);
 
     format = format.replace('LLL', locale.formats.LLL);
