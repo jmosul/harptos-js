@@ -2,5 +2,11 @@
     "extends": [
         "tslint:recommended",
         "tslint-config-prettier"
-    ]
+    ],
+    "linterOptions": {
+        "exclude": [
+            "./build/**/*",
+            "./node_modules/**/*"
+        ]
+    }
 }

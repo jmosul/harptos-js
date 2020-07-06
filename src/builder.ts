@@ -15,28 +15,28 @@ interface HarptosJS {
 
 let defaultLocale: string = DEFAULT_LOCALE;
 
-const builder = function(input: any): HarptosDate {
+const builder = (input: any): HarptosDate => {
     let daystamp: number = (new Date()).getTime() / 86400000;
 
     switch (typeof input) {
         case 'number':
-            daystamp = <number>input;
+            daystamp = input as number;
             break;
 
         case 'string':
-            daystamp = parseYmd(<string>input);
+            daystamp = parseYmd(input as string);
             break;
 
         case 'object':
             if (isParsedStamp(input)) {
-                return new HarptosDate(<YmdDate>input);
+                return new HarptosDate(input as YmdDate);
             }
             break;
     }
 
     daystamp = Math.floor(daystamp);
 
-    const parsedStamp = parseDaystamp(<number>input);
+    const parsedStamp = parseDaystamp(input as number);
 
     return new HarptosDate(parsedStamp);
 }
@@ -50,7 +50,7 @@ const base = {
     },
 };
 
-const build = function(input: any, locale?: string): Harptos {
+const build = (input: any, locale?: string): Harptos => {
     const harptos = builder(input);
 
     harptos.locale = locale || defaultLocale;

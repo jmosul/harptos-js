@@ -1,7 +1,7 @@
 import Month from '../types/Month';
 import { DAYS_IN_MONTH, LEAP_MONTH, LEAP_MONTHS, MONTHS_IN_YEAR } from '../constants';
 
-const months: Array<Month> = [];
+const months: Month[] = [];
 let standardDays = 1;
 let leapDays = 1;
 

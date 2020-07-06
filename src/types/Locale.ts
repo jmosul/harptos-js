@@ -1,14 +1,14 @@
 export default interface Locale {
     name: string,
-    weekdays: Array<string>,
-    weekdaysShort: Array<string>,
-    weekdaysMin: Array<string>,
-    months: Array<string>,
-    monthsShort: Array<string>,
+    weekdays: string[],
+    weekdaysShort: string[],
+    weekdaysMin: string[],
+    months: string[],
+    monthsShort: string[],
     era: string,
     eraShort: string,
-    additionals: Array<string>,
-    additionalsShort: Array<string>,
+    additionals: string[],
+    additionalsShort: string[],
     formats: {
         [index:string]: string
     },
