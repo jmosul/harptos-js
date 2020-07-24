@@ -68,7 +68,7 @@ A few predefined formats are available based on the set locale (see below for ch
 ## Locales
 The default locale for HarptosJS is `harptos_gb` (Day, Month Year).  This is format commonly associated with Harptos.  It is however possible to choose a different locale.
 
-To reduce distribution sixes of your project locales are not imported by default.  But you can add any of the provided as below.
+To reduce distribution size of your project locales are not imported by default.  But you can add any of the provided as below.
 ```js
 import harptos from 'harptosjs';
 import harptos_us from 'harptosjs/build/locales/harptos_us';
