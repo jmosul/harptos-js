@@ -14,9 +14,6 @@ jobs:
     - name: Cache node modules
       uses: bahmutov/npm-install@v1.1.0
 
-    - name: install
-      run: npm ci
-
     - name: Jest
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
@@ -30,9 +27,6 @@ jobs:
 
     - name: Cache node modules
       uses: bahmutov/npm-install@v1.1.0
-
-    - name: install
-      run: npm ci
 
     - name: TSLint
       uses: mooyoul/tslint-actions@v1.1.1
