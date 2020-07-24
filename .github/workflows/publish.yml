@@ -16,6 +16,10 @@ jobs:
       - name: NPM CI
         uses: bahmutov/npm-install@v1.1.0
 
+      - name: Get tag
+        id: tag
+        uses: dawidd6/action-get-tag@v1
+
       - name: Create Release
         id: create_release
         uses: actions/create-release@v1
@@ -24,7 +28,6 @@ jobs:
         with:
           tag_name: ${{ github.ref }}
           release_name: Release ${{ github.ref }}
-          body: |
-            Alpha Relase
+          body: ${{ steps.tag.outputs.tag }}
           draft: false
           prerelease: true
