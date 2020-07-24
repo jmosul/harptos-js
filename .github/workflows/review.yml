@@ -4,14 +4,14 @@ on:
   pull_request:
     branches: [ master ]
 
-jobs:        
+jobs:
   test:
     runs-on: ubuntu-latest
 
     steps:
     - uses: actions/checkout@v2
 
-    - name: Cache node modules
+    - name: NPM CI
       uses: bahmutov/npm-install@v1.1.0
 
     - name: Jest
@@ -34,4 +34,4 @@ jobs:
         token: ${{secrets.GITHUB_TOKEN}}
         pattern: '*.ts'
 
-   
+
