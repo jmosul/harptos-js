@@ -84,7 +84,7 @@ Once a locale has been loaded as above, you can choose to use it in different wa
 import harptos from 'harptosjs';
 
 // set default locale
-harptos.locale(harptos_us);
+harptos.locale('harptos_us');
 ```
 
 **Set locale on single date**
@@ -107,8 +107,8 @@ date.format('L', 'common_gb');
 |----|----|----|
 | harptos_gb _default_ | Standard Harptos date format | 1 Hammer 1000 |
 | harptos_us | Harptos dates formatted using American date structure | Hammer 1, 1000 |
-| common_gb | Same as harptos_gb, but months are given their common name | 1 Deepwinter 1000 |
-| common_gb | Same as harptos_us, but months are given their common name | Deepwinter 1, 1000 |
+| common_gb | Same as harptos_gb, but months are given their "common" name | 1 Deepwinter 1000 |
+| common_us | Same as harptos_us, but months are given their "common" name | Deepwinter 1, 1000 |
 | en_gb | Months are converted to English Gregorian names | 1 January 1000 |
 | en_us | Months are converted to English Gregorian names | January 1, 1000 |
 
@@ -137,3 +137,4 @@ Aim to be able to handle negative Dale Reckoning dates.
 Currently Harptos does not implement time (hours, minutes, etc...).
 
 Dates are calculated from "daystamps"; days since the start of epoc, 1st Hammer 1 DR
+As it stand this is not a planned feature of HarptosJS
