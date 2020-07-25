@@ -2,7 +2,7 @@
 
 > **Early Development**: HarptosJS's features are very limited and only an alpha release version is avaliable
 
-HarptosJS is an attempt to implement a [MomentJS](https://momentjs.com/)-esque date library for Dungeon and Dragon's [Harptos Calender](https://forgottenrealms.fandom.com/wiki/Calendar_of_Harptos).
+HarptosJS is an attempt to implement a [MomentJS](https://momentjs.com/)-esque date library for Dungeon and Dragon's [Harptos Calender](https://forgottenrealms.fandom.com/wiki/Calendar_of_Harptos) useable in both TypeScript and JavaScript.
 
 It is being built out of need for my own personal project, but presented separately in case it helps another.
 
