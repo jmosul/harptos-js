@@ -1,13 +1,24 @@
 # HarptosJS
 
-> **Early Development**: HarptosJS's features are very limited and only an alpha release version is avaliable
+> **Early Development**: HarptosJS's features are limited and only an alpha release version is avaliable
 
 HarptosJS is an attempt to implement a [MomentJS](https://momentjs.com/)-esque date library for Dungeon and Dragon's [Harptos Calender](https://forgottenrealms.fandom.com/wiki/Calendar_of_Harptos) useable in both TypeScript and JavaScript.
 
 It is being built out of need for my own personal project, but presented separately in case it helps another.
 
+### Usage
+To install use either npm or yarn.
+
+```bash
+npm install jmosul/harptos-js
+
+yarn add jmosul/harptos-js
+```
+
+Then it can be imported into your project.
+
 ```js
-import harptos from 'harptosjs';
+import harptosJS from '@jmosul/harptosjs';
 
 const date = harptos('1000-10-01');
 
