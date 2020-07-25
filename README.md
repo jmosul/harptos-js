@@ -6,8 +6,19 @@ HarptosJS is an attempt to implement a [MomentJS](https://momentjs.com/)-esque d
 
 It is being built out of need for my own personal project, but presented separately in case it helps another.
 
+### Usage
+To install use either npm or yarn.
+
+```bash
+npm install jmosul/harptos-js
+
+yarn add jmosul/harptos-js
+```
+
+Then it can be imported into your project.
+
 ```js
-import harptos from 'harptosjs';
+import harptosJS from '@jmosul/harptosjs';
 
 const date = harptos('1000-10-01');
 
