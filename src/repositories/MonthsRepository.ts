@@ -24,6 +24,10 @@ while(months.length < MONTHS_IN_YEAR) {
         leapDays++;
     }
 
+    if (index > LEAP_MONTH) {
+        leapDays++;
+    }
+
     months.push(month);
 }
 

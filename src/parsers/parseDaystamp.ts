@@ -17,22 +17,32 @@ function parseUnit(days: number, unit: string): number {
 }
 
 function parseYears(days: number): number {
+    const isMe = days === 735979;
+
     days = parseUnit(days, 'year');
 
+    if(isMe) {
+        console.log(days, parsed.year / LEAP_YEAR_FREQUENCY);
+    }
     // remove extra day for each leap year
     days -= Math.floor(parsed.year / LEAP_YEAR_FREQUENCY);
 
-    isLeapYear = parsed.year % LEAP_YEAR_FREQUENCY === 0;
 
     if (isLeapYear) {
         days++;
     }
 
-    if (days <= 0) {
+    while (days <= 0) {
         parsed.year--;
 
         days += DAYS_IN_YEAR;
     }
+
+    if(isMe) {
+        console.log(days, parsed.year);
+    }
+
+    isLeapYear = parsed.year % LEAP_YEAR_FREQUENCY === 0;
 
     return days;
 }
@@ -56,6 +66,10 @@ export default function(amount: number): YmdDate {
     parsed = { day: 0, month: 0, year: 0 } as YmdDate;
 
     days = parseYears(days);
+    //
+    // if(735979 === amount) {
+    //     console.log(days);
+    // }
 
     days = parseMonths(days);
 
