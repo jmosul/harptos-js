@@ -1,4 +1,5 @@
 import Locale from '../types/Locale';
+import ordinal from '../helpers/ordinal';
 
 const locale: Locale = {
     name: 'harptos_gb',
@@ -17,12 +18,7 @@ const locale: Locale = {
         LLL: 'D MMMM YYYY N',
         LLLL: 'dddd, Do MMMM YYYY N',
     },
-    ordinal: (n: number) => {
-        const s = ['th', 'st', 'nd', 'rd'];
-        const v = n % 100;
-
-        return s[v] || s[0];
-    },
+    ordinal,
 };
 
 export default locale;
