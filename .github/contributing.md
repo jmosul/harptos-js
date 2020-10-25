@@ -19,3 +19,6 @@ Not essential to making a contribution, but I'd appreciate it if contributors wo
 
 #### Testing
 HarptosJS is written in Typescript and its unit tests are run using Jest. HarptosJS has a 95%+ test coverage which should be maintained with each Pull Request.  Coverage reports are automatically posted to the Pull Request on by Github Actions.
+
+##### Test Data
+The file `dataGenerator` is capable of creating a sample of test cases by using a 4 year pattern to generate dates.  This data is stored in a csv and used within the tests.

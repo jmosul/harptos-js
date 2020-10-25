@@ -125,7 +125,7 @@ date.format('L', 'common_gb');
 
 
 ### Custom locales
-It is possible to add your own custom locales by following the same format as shown in [https://github.com/jmosul/harptos-js/blob/master/src/locales/harptos_gb.ts](src/locales/harptos_gb.ts).
+It is possible to add your own custom locales by following the same format as shown in [https://github.com/jmosul/harptos-js/blob/master/src/locales/locales.test.ts](src/locales/locales.test.ts).
 Be sure to give it a unique name, then you can import it like any of the provided locales as show above.
 
 ## Planned Features:

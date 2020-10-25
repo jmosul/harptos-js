@@ -20,7 +20,7 @@ while(months.length < MONTHS_IN_YEAR) {
     standardDays += month.maxDays;
     leapDays += month.maxDays;
 
-    if (month.leapMonth) {
+    if (index === LEAP_MONTH) {
         leapDays++;
     }
 

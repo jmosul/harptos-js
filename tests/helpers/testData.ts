@@ -8,6 +8,8 @@ const dates: Array<{
     day: string
     month: string
     year: string
+    y: string
+    YYYY: string
     M: string
     MM: string
     MMM: string
@@ -15,8 +17,6 @@ const dates: Array<{
     D: string
     Do: string
     DD: string
-    y: string
-    YYYY: string
     N: string
     NN: string
     NNN: string
@@ -24,7 +24,6 @@ const dates: Array<{
     LL: string
     LLL: string
 }> = loader('tests/helpers/testData.csv');
-
 
 export default dates.map((data) => ({
     description: data.description,
@@ -36,6 +35,14 @@ export default dates.map((data) => ({
         year: parseInt(data.year),
     },
     formats: [
+        {
+            format: 'y',
+            expected: data.y,
+        },
+        {
+            format: 'YYYY',
+            expected: data.YYYY,
+        },
         {
             format: 'M',
             expected: data.M,
@@ -63,14 +70,6 @@ export default dates.map((data) => ({
         {
             format: 'DD',
             expected: data.DD,
-        },
-        {
-            format: 'y',
-            expected: data.y,
-        },
-        {
-            format: 'YYYY',
-            expected: data.YYYY,
         },
         {
             format: 'N',

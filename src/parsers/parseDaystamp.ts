@@ -5,7 +5,6 @@ import { DAYS_IN_YEAR, LEAP_YEAR_FREQUENCY } from '../constants';
 import YmdDate from '../types/YmdDate';
 import months from '../repositories/MonthsRepository';
 import Month from '../types/Month';
-
 let isLeapYear: boolean = false;
 
 let parsed: YmdDate;
@@ -22,16 +21,20 @@ function parseYears(days: number): number {
     // remove extra day for each leap year
     days -= Math.floor(parsed.year / LEAP_YEAR_FREQUENCY);
 
+    while (days <= 0) {
+        parsed.year--;
+
+        days += DAYS_IN_YEAR;
+
+        if (parsed.year % LEAP_YEAR_FREQUENCY === LEAP_YEAR_FREQUENCY - 1) {
+            days++;
+        }
+    }
+
     isLeapYear = parsed.year % LEAP_YEAR_FREQUENCY === 0;
 
     if (isLeapYear) {
         days++;
-    }
-
-    if (days <= 0) {
-        parsed.year--;
-
-        days += DAYS_IN_YEAR;
     }
 
     return days;
@@ -43,7 +46,7 @@ function parseMonths(days: number): number {
 
     months.forEach((month: Month) => thisMonth = month[daysField] <= days ? month : thisMonth);
 
-    days -= (thisMonth[daysField] - 1);
+    days = days - thisMonth[daysField] + 1;
 
     parsed.month = thisMonth.index;
 
@@ -56,7 +59,6 @@ export default function(amount: number): YmdDate {
     parsed = { day: 0, month: 0, year: 0 } as YmdDate;
 
     days = parseYears(days);
-
     days = parseMonths(days);
 
     parsed.day = days;

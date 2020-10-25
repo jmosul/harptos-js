@@ -6,13 +6,12 @@ import Month from '../types/Month';
 let isLeapYear: boolean = false;
 
 function parseYears(years: number): number {
-    let days = (years - 1) * DAYS_IN_YEAR;
-
-    days += Math.floor(years / LEAP_YEAR_FREQUENCY);
+    const leapYearPercent = 1 / LEAP_YEAR_FREQUENCY;
+    const days = (years - 1) * (DAYS_IN_YEAR + leapYearPercent);
 
     isLeapYear = years % LEAP_YEAR_FREQUENCY === 0;
 
-    return isLeapYear ? days - 1 : days;
+    return Math.floor(days);
 }
 
 function parseMonths(months: number): number {
