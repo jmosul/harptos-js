@@ -1,412 +1,432 @@
-description,daystamp,locale,day,month,year,M,MM,MMM,MMMM,D,Do,DD,N,NN,NNN,L,LL,LLL
-3 Eleasis 0017 DR,6060,harptos_gb,3,8,17,8,08,Els,Eleasis,3,3rd,03,DR,DR,Dale Reckoning,03/08/0017,3 Eleasis 0017,3 Eleasis 0017 DR
-5 Eleint 0019 DR,6822,harptos_gb,5,9,19,9,09,Elt,Eleint,5,5th,05,DR,DR,Dale Reckoning,05/09/0019,5 Eleint 0019,5 Eleint 0019 DR
-5 Flamerule 0023 DR,8222,harptos_gb,5,7,23,7,07,Fla,Flamerule,5,5th,05,DR,DR,Dale Reckoning,05/07/0023,5 Flamerule 0023,5 Flamerule 0023 DR
-16 Uktar 0030 DR,10912,harptos_gb,16,11,30,11,11,Ukt,Uktar,16,16th,16,DR,DR,Dale Reckoning,16/11/0030,16 Uktar 0030,16 Uktar 0030 DR
-16 Tarsakh 0039 DR,13986,harptos_gb,16,4,39,4,04,Tar,Tarsakh,16,16th,16,DR,DR,Dale Reckoning,16/04/0039,16 Tarsakh 0039,16 Tarsakh 0039 DR
-26 Eleasis 0045 DR,16310,harptos_gb,26,8,45,8,08,Els,Eleasis,26,26th,26,DR,DR,Dale Reckoning,26/08/0045,26 Eleasis 0045,26 Eleasis 0045 DR
-30 Eleasis 0049 DR,17775,harptos_gb,30,8,49,8,08,Els,Eleasis,30,30th,30,DR,DR,Dale Reckoning,30/08/0049,30 Eleasis 0049,30 Eleasis 0049 DR
-Midsummer 0051 DR,18475,harptos_gb,31,7,51,MS,MS,MS,Midsummer,31,31st,31,DR,DR,Dale Reckoning,MS/0051,Midsummer 0051,Midsummer 0051 DR
-16 Alturiak 0070 DR,25249,harptos_gb,16,2,70,2,02,Alt,Alturiak,16,16th,16,DR,DR,Dale Reckoning,16/02/0070,16 Alturiak 0070,16 Alturiak 0070 DR
-Highharvestide 0072 DR,26207,harptos_gb,31,9,72,HH,HH,HH,Highharvestide,31,31st,31,DR,DR,Dale Reckoning,HH/0072,Highharvestide 0072,Highharvestide 0072 DR
-25 Eleint 0079 DR,28757,harptos_gb,25,9,79,9,09,Elt,Eleint,25,25th,25,DR,DR,Dale Reckoning,25/09/0079,25 Eleint 0079,25 Eleint 0079 DR
-2 Hammer 0082 DR,29587,harptos_gb,2,1,82,1,01,Ham,Hammer,2,2nd,02,DR,DR,Dale Reckoning,02/01/0082,2 Hammer 0082,2 Hammer 0082 DR
-16 Eleasis 0103 DR,37484,harptos_gb,16,8,103,8,08,Els,Eleasis,16,16th,16,DR,DR,Dale Reckoning,16/08/0103,16 Eleasis 0103,16 Eleasis 0103 DR
-6 Eleasis 0107 DR,38935,harptos_gb,6,8,107,8,08,Els,Eleasis,6,6th,06,DR,DR,Dale Reckoning,06/08/0107,6 Eleasis 0107,6 Eleasis 0107 DR
-8 Flamerule 0114 DR,41463,harptos_gb,8,7,114,7,07,Fla,Flamerule,8,8th,08,DR,DR,Dale Reckoning,08/07/0114,8 Flamerule 0114,8 Flamerule 0114 DR
-10 Marpenoth 0120 DR,43749,harptos_gb,10,10,120,10,10,Mar,Marpenoth,10,10th,10,DR,DR,Dale Reckoning,10/10/0120,10 Marpenoth 0120,10 Marpenoth 0120 DR
-8 Eleint 0122 DR,44446,harptos_gb,8,9,122,9,09,Elt,Eleint,8,8th,08,DR,DR,Dale Reckoning,08/09/0122,8 Eleint 0122,8 Eleint 0122 DR
-21 Eleint 0138 DR,50303,harptos_gb,21,9,138,9,09,Elt,Eleint,21,21st,21,DR,DR,Dale Reckoning,21/09/0138,21 Eleint 0138,21 Eleint 0138 DR
-2 Mirtul 0140 DR,50893,harptos_gb,2,5,140,5,05,Mir,Mirtul,2,2nd,02,DR,DR,Dale Reckoning,02/05/0140,2 Mirtul 0140,2 Mirtul 0140 DR
-28 Marpenoth 0141 DR,51437,harptos_gb,28,10,141,10,10,Mar,Marpenoth,28,28th,28,DR,DR,Dale Reckoning,28/10/0141,28 Marpenoth 0141,28 Marpenoth 0141 DR
-17 Kythorn 0144 DR,52399,harptos_gb,17,6,144,6,06,Kyt,Kythorn,17,17th,17,DR,DR,Dale Reckoning,17/06/0144,17 Kythorn 0144,17 Kythorn 0144 DR
-Midsummer 0146 DR,53174,harptos_gb,31,7,146,MS,MS,MS,Midsummer,31,31st,31,DR,DR,Dale Reckoning,MS/0146,Midsummer 0146,Midsummer 0146 DR
-21 Flamerule 0149 DR,54260,harptos_gb,21,7,149,7,07,Fla,Flamerule,21,21st,21,DR,DR,Dale Reckoning,21/07/0149,21 Flamerule 0149,21 Flamerule 0149 DR
-19 Eleint 0156 DR,56876,harptos_gb,19,9,156,9,09,Elt,Eleint,19,19th,19,DR,DR,Dale Reckoning,19/09/0156,19 Eleint 0156,19 Eleint 0156 DR
-Midsummer 0157 DR,57192,harptos_gb,31,7,157,MS,MS,MS,Midsummer,31,31st,31,DR,DR,Dale Reckoning,MS/0157,Midsummer 0157,Midsummer 0157 DR
-Shieldmeet 0164 DR,59749,harptos_gb,32,7,164,SM,SM,SM,Shieldmeet,32,32nd,32,DR,DR,Dale Reckoning,SM/0164,Shieldmeet 0164,Shieldmeet 0164 DR
-2 Alturiak 0166 DR,60299,harptos_gb,2,2,166,2,02,Alt,Alturiak,2,2nd,02,DR,DR,Dale Reckoning,02/02/0166,2 Alturiak 0166,2 Alturiak 0166 DR
-15 Nightal 0170 DR,62077,harptos_gb,15,12,170,12,12,Nig,Nightal,15,15th,15,DR,DR,Dale Reckoning,15/12/0170,15 Nightal 0170,15 Nightal 0170 DR
-18 Ches 0178 DR,64728,harptos_gb,18,3,178,3,03,Che,Ches,18,18th,18,DR,DR,Dale Reckoning,18/03/0178,18 Ches 0178,18 Ches 0178 DR
-11 Mirtul 0185 DR,67339,harptos_gb,11,5,185,5,05,Mir,Mirtul,11,11th,11,DR,DR,Dale Reckoning,11/05/0185,11 Mirtul 0185,11 Mirtul 0185 DR
-12 Uktar 0190 DR,69348,harptos_gb,12,11,190,11,11,Ukt,Uktar,12,12th,12,DR,DR,Dale Reckoning,12/11/0190,12 Uktar 0190,12 Uktar 0190 DR
-15 Flamerule 0198 DR,72151,harptos_gb,15,7,198,7,07,Fla,Flamerule,15,15th,15,DR,DR,Dale Reckoning,15/07/0198,15 Flamerule 0198,15 Flamerule 0198 DR
-7 Eleint 0205 DR,74761,harptos_gb,7,9,205,9,09,Elt,Eleint,7,7th,07,DR,DR,Dale Reckoning,07/09/0205,7 Eleint 0205,7 Eleint 0205 DR
-Highharvestide 0206 DR,75150,harptos_gb,31,9,206,HH,HH,HH,Highharvestide,31,31st,31,DR,DR,Dale Reckoning,HH/0206,Highharvestide 0206,Highharvestide 0206 DR
-19 Kythorn 0208 DR,75777,harptos_gb,19,6,208,6,06,Kyt,Kythorn,19,19th,19,DR,DR,Dale Reckoning,19/06/0208,19 Kythorn 0208,19 Kythorn 0208 DR
-Midwinter 0212 DR,77098,harptos_gb,31,1,212,MW,MW,MW,Midwinter,31,31st,31,DR,DR,Dale Reckoning,MW/0212,Midwinter 0212,Midwinter 0212 DR
-Feast of the Moon 0212 DR,77403,harptos_gb,31,11,212,FM,FM,FM,Feast of the Moon,31,31st,31,DR,DR,Dale Reckoning,FM/0212,Feast of the Moon 0212,Feast of the Moon 0212 DR
-24 Hammer 0213 DR,77457,harptos_gb,24,1,213,1,01,Ham,Hammer,24,24th,24,DR,DR,Dale Reckoning,24/01/0213,24 Hammer 0213,24 Hammer 0213 DR
-30 Nightal 0214 DR,78163,harptos_gb,30,12,214,12,12,Nig,Nightal,30,30th,30,DR,DR,Dale Reckoning,30/12/0214,30 Nightal 0214,30 Nightal 0214 DR
-16 Marpenoth 0215 DR,78453,harptos_gb,16,10,215,10,10,Mar,Marpenoth,16,16th,16,DR,DR,Dale Reckoning,16/10/0215,16 Marpenoth 0215,16 Marpenoth 0215 DR
-1 Eleint 0219 DR,79868,harptos_gb,1,9,219,9,09,Elt,Eleint,1,1st,01,DR,DR,Dale Reckoning,01/09/0219,1 Eleint 0219,1 Eleint 0219 DR
-27 Hammer 0223 DR,81112,harptos_gb,27,1,223,1,01,Ham,Hammer,27,27th,27,DR,DR,Dale Reckoning,27/01/0223,27 Hammer 0223,27 Hammer 0223 DR
-23 Alturiak 0234 DR,85157,harptos_gb,23,2,234,2,02,Alt,Alturiak,23,23rd,23,DR,DR,Dale Reckoning,23/02/0234,23 Alturiak 0234,23 Alturiak 0234 DR
-8 Flamerule 0245 DR,89311,harptos_gb,8,7,245,7,07,Fla,Flamerule,8,8th,08,DR,DR,Dale Reckoning,08/07/0245,8 Flamerule 0245,8 Flamerule 0245 DR
-23 Ches 0253 DR,92127,harptos_gb,23,3,253,3,03,Che,Ches,23,23rd,23,DR,DR,Dale Reckoning,23/03/0253,23 Ches 0253,23 Ches 0253 DR
-21 Nightal 0295 DR,107739,harptos_gb,21,12,295,12,12,Nig,Nightal,21,21st,21,DR,DR,Dale Reckoning,21/12/0295,21 Nightal 0295,21 Nightal 0295 DR
-1 Uktar 0303 DR,110610,harptos_gb,1,11,303,11,11,Ukt,Uktar,1,1st,01,DR,DR,Dale Reckoning,01/11/0303,1 Uktar 0303,1 Uktar 0303 DR
-17 Uktar 0310 DR,113183,harptos_gb,17,11,310,11,11,Ukt,Uktar,17,17th,17,DR,DR,Dale Reckoning,17/11/0310,17 Uktar 0310,17 Uktar 0310 DR
-24 Marpenoth 0314 DR,114621,harptos_gb,24,10,314,10,10,Mar,Marpenoth,24,24th,24,DR,DR,Dale Reckoning,24/10/0314,24 Marpenoth 0314,24 Marpenoth 0314 DR
-14 Eleasis 0317 DR,115646,harptos_gb,14,8,317,8,08,Els,Eleasis,14,14th,14,DR,DR,Dale Reckoning,14/08/0317,14 Eleasis 0317,14 Eleasis 0317 DR
-1 Flamerule 0318 DR,115967,harptos_gb,1,7,318,7,07,Fla,Flamerule,1,1st,01,DR,DR,Dale Reckoning,01/07/0318,1 Flamerule 0318,1 Flamerule 0318 DR
-Feast of the Moon 0331 DR,120867,harptos_gb,31,11,331,FM,FM,FM,Feast of the Moon,31,31st,31,DR,DR,Dale Reckoning,FM/0331,Feast of the Moon 0331,Feast of the Moon 0331 DR
-5 Eleasis 0336 DR,122577,harptos_gb,5,8,336,8,08,Els,Eleasis,5,5th,05,DR,DR,Dale Reckoning,05/08/0336,5 Eleasis 0336,5 Eleasis 0336 DR
-2 Ches 0340 DR,123882,harptos_gb,2,3,340,3,03,Che,Ches,2,2nd,02,DR,DR,Dale Reckoning,02/03/0340,2 Ches 0340,2 Ches 0340 DR
-Highharvestide 0341 DR,124459,harptos_gb,31,9,341,HH,HH,HH,Highharvestide,31,31st,31,DR,DR,Dale Reckoning,HH/0341,Highharvestide 0341,Highharvestide 0341 DR
-26 Uktar 0355 DR,129628,harptos_gb,26,11,355,11,11,Ukt,Uktar,26,26th,26,DR,DR,Dale Reckoning,26/11/0355,26 Uktar 0355,26 Uktar 0355 DR
-1 Ches 0356 DR,129725,harptos_gb,1,3,356,3,03,Che,Ches,1,1st,01,DR,DR,Dale Reckoning,01/03/0356,1 Ches 0356,1 Ches 0356 DR
-Highharvestide 0357 DR,130303,harptos_gb,31,9,357,HH,HH,HH,Highharvestide,31,31st,31,DR,DR,Dale Reckoning,HH/0357,Highharvestide 0357,Highharvestide 0357 DR
-29 Kythorn 0359 DR,130940,harptos_gb,29,6,359,6,06,Kyt,Kythorn,29,29th,29,DR,DR,Dale Reckoning,29/06/0359,29 Kythorn 0359,29 Kythorn 0359 DR
-2 Nightal 0362 DR,132192,harptos_gb,2,12,362,12,12,Nig,Nightal,2,2nd,02,DR,DR,Dale Reckoning,02/12/0362,2 Nightal 0362,2 Nightal 0362 DR
-4 Uktar 0363 DR,132528,harptos_gb,4,11,363,11,11,Ukt,Uktar,4,4th,04,DR,DR,Dale Reckoning,04/11/0363,4 Uktar 0363,4 Uktar 0363 DR
-18 Eleint 0365 DR,133212,harptos_gb,18,9,365,9,09,Elt,Eleint,18,18th,18,DR,DR,Dale Reckoning,18/09/0365,18 Eleint 0365,18 Eleint 0365 DR
-23 Hammer 0368 DR,134069,harptos_gb,23,1,368,1,01,Ham,Hammer,23,23rd,23,DR,DR,Dale Reckoning,23/01/0368,23 Hammer 0368,23 Hammer 0368 DR
-13 Alturiak 0387 DR,141030,harptos_gb,13,2,387,2,02,Alt,Alturiak,13,13th,13,DR,DR,Dale Reckoning,13/02/0387,13 Alturiak 0387,13 Alturiak 0387 DR
-28 Uktar 0387 DR,141318,harptos_gb,28,11,387,11,11,Ukt,Uktar,28,28th,28,DR,DR,Dale Reckoning,28/11/0387,28 Uktar 0387,28 Uktar 0387 DR
-Greengrass 0398 DR,145126,harptos_gb,31,4,398,GG,GG,GG,Greengrass,31,31st,31,DR,DR,Dale Reckoning,GG/0398,Greengrass 0398,Greengrass 0398 DR
-19 Mirtul 0400 DR,145875,harptos_gb,19,5,400,5,05,Mir,Mirtul,19,19th,19,DR,DR,Dale Reckoning,19/05/0400,19 Mirtul 0400,19 Mirtul 0400 DR
-28 Tarsakh 0403 DR,146949,harptos_gb,28,4,403,4,04,Tar,Tarsakh,28,28th,28,DR,DR,Dale Reckoning,28/04/0403,28 Tarsakh 0403,28 Tarsakh 0403 DR
-Highharvestide 0407 DR,148565,harptos_gb,31,9,407,HH,HH,HH,Highharvestide,31,31st,31,DR,DR,Dale Reckoning,HH/0407,Highharvestide 0407,Highharvestide 0407 DR
-25 Mirtul 0422 DR,153917,harptos_gb,25,5,422,5,05,Mir,Mirtul,25,25th,25,DR,DR,Dale Reckoning,25/05/0422,25 Mirtul 0422,25 Mirtul 0422 DR
-25 Marpenoth 0422 DR,154069,harptos_gb,25,10,422,10,10,Mar,Marpenoth,25,25th,25,DR,DR,Dale Reckoning,25/10/0422,25 Marpenoth 0422,25 Marpenoth 0422 DR
-29 Uktar 0422 DR,154103,harptos_gb,29,11,422,11,11,Ukt,Uktar,29,29th,29,DR,DR,Dale Reckoning,29/11/0422,29 Uktar 0422,29 Uktar 0422 DR
-24 Eleint 0424 DR,154768,harptos_gb,24,9,424,9,09,Elt,Eleint,24,24th,24,DR,DR,Dale Reckoning,24/09/0424,24 Eleint 0424,24 Eleint 0424 DR
-1 Hammer 0430 DR,156693,harptos_gb,1,1,430,1,01,Ham,Hammer,1,1st,01,DR,DR,Dale Reckoning,01/01/0430,1 Hammer 0430,1 Hammer 0430 DR
-27 Mirtul 0432 DR,157571,harptos_gb,27,5,432,5,05,Mir,Mirtul,27,27th,27,DR,DR,Dale Reckoning,27/05/0432,27 Mirtul 0432,27 Mirtul 0432 DR
-7 Uktar 0432 DR,157734,harptos_gb,7,11,432,11,11,Ukt,Uktar,7,7th,07,DR,DR,Dale Reckoning,07/11/0432,7 Uktar 0432,7 Uktar 0432 DR
-21 Marpenoth 0434 DR,158448,harptos_gb,21,10,434,10,10,Mar,Marpenoth,21,21st,21,DR,DR,Dale Reckoning,21/10/0434,21 Marpenoth 0434,21 Marpenoth 0434 DR
-5 Marpenoth 0435 DR,158797,harptos_gb,5,10,435,10,10,Mar,Marpenoth,5,5th,05,DR,DR,Dale Reckoning,05/10/0435,5 Marpenoth 0435,5 Marpenoth 0435 DR
-16 Kythorn 0439 DR,160147,harptos_gb,16,6,439,6,06,Kyt,Kythorn,16,16th,16,DR,DR,Dale Reckoning,16/06/0439,16 Kythorn 0439,16 Kythorn 0439 DR
-Feast of the Moon 0441 DR,161045,harptos_gb,31,11,441,FM,FM,FM,Feast of the Moon,31,31st,31,DR,DR,Dale Reckoning,FM/0441,Feast of the Moon 0441,Feast of the Moon 0441 DR
-5 Uktar 0445 DR,162480,harptos_gb,5,11,445,11,11,Ukt,Uktar,5,5th,05,DR,DR,Dale Reckoning,05/11/0445,5 Uktar 0445,5 Uktar 0445 DR
-2 Uktar 0454 DR,165764,harptos_gb,2,11,454,11,11,Ukt,Uktar,2,2nd,02,DR,DR,Dale Reckoning,02/11/0454,2 Uktar 0454,2 Uktar 0454 DR
-24 Nightal 0456 DR,166548,harptos_gb,24,12,456,12,12,Nig,Nightal,24,24th,24,DR,DR,Dale Reckoning,24/12/0456,24 Nightal 0456,24 Nightal 0456 DR
-1 Uktar 0457 DR,166859,harptos_gb,1,11,457,11,11,Ukt,Uktar,1,1st,01,DR,DR,Dale Reckoning,01/11/0457,1 Uktar 0457,1 Uktar 0457 DR
-8 Nightal 0457 DR,166897,harptos_gb,8,12,457,12,12,Nig,Nightal,8,8th,08,DR,DR,Dale Reckoning,08/12/0457,8 Nightal 0457,8 Nightal 0457 DR
-16 Kythorn 0463 DR,168913,harptos_gb,16,6,463,6,06,Kyt,Kythorn,16,16th,16,DR,DR,Dale Reckoning,16/06/0463,16 Kythorn 0463,16 Kythorn 0463 DR
-Midsummer 0465 DR,169689,harptos_gb,31,7,465,MS,MS,MS,Midsummer,31,31st,31,DR,DR,Dale Reckoning,MS/0465,Midsummer 0465,Midsummer 0465 DR
-6 Alturiak 0468 DR,170608,harptos_gb,6,2,468,2,02,Alt,Alturiak,6,6th,06,DR,DR,Dale Reckoning,06/02/0468,6 Alturiak 0468,6 Alturiak 0468 DR
-26 Eleint 0468 DR,170841,harptos_gb,26,9,468,9,09,Elt,Eleint,26,26th,26,DR,DR,Dale Reckoning,26/09/0468,26 Eleint 0468,26 Eleint 0468 DR
-26 Eleint 0471 DR,171936,harptos_gb,26,9,471,9,09,Elt,Eleint,26,26th,26,DR,DR,Dale Reckoning,26/09/0471,26 Eleint 0471,26 Eleint 0471 DR
-20 Alturiak 0503 DR,183406,harptos_gb,20,2,503,2,02,Alt,Alturiak,20,20th,20,DR,DR,Dale Reckoning,20/02/0503,20 Alturiak 0503,20 Alturiak 0503 DR
-1 Eleasis 0513 DR,187222,harptos_gb,1,8,513,8,08,Els,Eleasis,1,1st,01,DR,DR,Dale Reckoning,01/08/0513,1 Eleasis 0513,1 Eleasis 0513 DR
-7 Hammer 0523 DR,190667,harptos_gb,7,1,523,1,01,Ham,Hammer,7,7th,07,DR,DR,Dale Reckoning,07/01/0523,7 Hammer 0523,7 Hammer 0523 DR
-16 Marpenoth 0524 DR,191316,harptos_gb,16,10,524,10,10,Mar,Marpenoth,16,16th,16,DR,DR,Dale Reckoning,16/10/0524,16 Marpenoth 0524,16 Marpenoth 0524 DR
-24 Tarsakh 0533 DR,194428,harptos_gb,24,4,533,4,04,Tar,Tarsakh,24,24th,24,DR,DR,Dale Reckoning,24/04/0533,24 Tarsakh 0533,24 Tarsakh 0533 DR
-30 Eleasis 0535 DR,195286,harptos_gb,30,8,535,8,08,Els,Eleasis,30,30th,30,DR,DR,Dale Reckoning,30/08/0535,30 Eleasis 0535,30 Eleasis 0535 DR
-9 Hammer 0539 DR,196513,harptos_gb,9,1,539,1,01,Ham,Hammer,9,9th,09,DR,DR,Dale Reckoning,09/01/0539,9 Hammer 0539,9 Hammer 0539 DR
-Greengrass 0539 DR,196626,harptos_gb,31,4,539,GG,GG,GG,Greengrass,31,31st,31,DR,DR,Dale Reckoning,GG/0539,Greengrass 0539,Greengrass 0539 DR
-23 Nightal 0541 DR,197593,harptos_gb,23,12,541,12,12,Nig,Nightal,23,23rd,23,DR,DR,Dale Reckoning,23/12/0541,23 Nightal 0541,23 Nightal 0541 DR
-6 Tarsakh 0547 DR,199523,harptos_gb,6,4,547,4,04,Tar,Tarsakh,6,6th,06,DR,DR,Dale Reckoning,06/04/0547,6 Tarsakh 0547,6 Tarsakh 0547 DR
-17 Mirtul 0552 DR,201391,harptos_gb,17,5,552,5,05,Mir,Mirtul,17,17th,17,DR,DR,Dale Reckoning,17/05/0552,17 Mirtul 0552,17 Mirtul 0552 DR
-3 Uktar 0563 DR,205577,harptos_gb,3,11,563,11,11,Ukt,Uktar,3,3rd,03,DR,DR,Dale Reckoning,03/11/0563,3 Uktar 0563,3 Uktar 0563 DR
-11 Tarsakh 0567 DR,206833,harptos_gb,11,4,567,4,04,Tar,Tarsakh,11,11th,11,DR,DR,Dale Reckoning,11/04/0567,11 Tarsakh 0567,11 Tarsakh 0567 DR
-15 Tarsakh 0579 DR,211220,harptos_gb,15,4,579,4,04,Tar,Tarsakh,15,15th,15,DR,DR,Dale Reckoning,15/04/0579,15 Tarsakh 0579,15 Tarsakh 0579 DR
-3 Mirtul 0579 DR,211239,harptos_gb,3,5,579,5,05,Mir,Mirtul,3,3rd,03,DR,DR,Dale Reckoning,03/05/0579,3 Mirtul 0579,3 Mirtul 0579 DR
-12 Mirtul 0580 DR,211613,harptos_gb,12,5,580,5,05,Mir,Mirtul,12,12th,12,DR,DR,Dale Reckoning,12/05/0580,12 Mirtul 0580,12 Mirtul 0580 DR
-25 Tarsakh 0587 DR,214152,harptos_gb,25,4,587,4,04,Tar,Tarsakh,25,25th,25,DR,DR,Dale Reckoning,25/04/0587,25 Tarsakh 0587,25 Tarsakh 0587 DR
-18 Nightal 0593 DR,216581,harptos_gb,18,12,593,12,12,Nig,Nightal,18,18th,18,DR,DR,Dale Reckoning,18/12/0593,18 Nightal 0593,18 Nightal 0593 DR
-1 Mirtul 0594 DR,216716,harptos_gb,1,5,594,5,05,Mir,Mirtul,1,1st,01,DR,DR,Dale Reckoning,01/05/0594,1 Mirtul 0594,1 Mirtul 0594 DR
-3 Marpenoth 0594 DR,216870,harptos_gb,3,10,594,10,10,Mar,Marpenoth,3,3rd,03,DR,DR,Dale Reckoning,03/10/0594,3 Marpenoth 0594,3 Marpenoth 0594 DR
-30 Mirtul 0598 DR,218206,harptos_gb,30,5,598,5,05,Mir,Mirtul,30,30th,30,DR,DR,Dale Reckoning,30/05/0598,30 Mirtul 0598,30 Mirtul 0598 DR
-29 Eleasis 0604 DR,220488,harptos_gb,29,8,604,8,08,Els,Eleasis,29,29th,29,DR,DR,Dale Reckoning,29/08/0604,29 Eleasis 0604,29 Eleasis 0604 DR
-21 Flamerule 0606 DR,221179,harptos_gb,21,7,606,7,07,Fla,Flamerule,21,21st,21,DR,DR,Dale Reckoning,21/07/0606,21 Flamerule 0606,21 Flamerule 0606 DR
-29 Nightal 0609 DR,222436,harptos_gb,29,12,609,12,12,Nig,Nightal,29,29th,29,DR,DR,Dale Reckoning,29/12/0609,29 Nightal 0609,29 Nightal 0609 DR
-29 Alturiak 0616 DR,224688,harptos_gb,29,2,616,2,02,Alt,Alturiak,29,29th,29,DR,DR,Dale Reckoning,29/02/0616,29 Alturiak 0616,29 Alturiak 0616 DR
-23 Marpenoth 0624 DR,227848,harptos_gb,23,10,624,10,10,Mar,Marpenoth,23,23rd,23,DR,DR,Dale Reckoning,23/10/0624,23 Marpenoth 0624,23 Marpenoth 0624 DR
-15 Flamerule 0628 DR,229208,harptos_gb,15,7,628,7,07,Fla,Flamerule,15,15th,15,DR,DR,Dale Reckoning,15/07/0628,15 Flamerule 0628,15 Flamerule 0628 DR
-27 Eleasis 0629 DR,229617,harptos_gb,27,8,629,8,08,Els,Eleasis,27,27th,27,DR,DR,Dale Reckoning,27/08/0629,27 Eleasis 0629,27 Eleasis 0629 DR
-Midwinter 0631 DR,230138,harptos_gb,31,1,631,MW,MW,MW,Midwinter,31,31st,31,DR,DR,Dale Reckoning,MW/0631,Midwinter 0631,Midwinter 0631 DR
-21 Eleasis 0633 DR,231072,harptos_gb,21,8,633,8,08,Els,Eleasis,21,21st,21,DR,DR,Dale Reckoning,21/08/0633,21 Eleasis 0633,21 Eleasis 0633 DR
-28 Eleint 0638 DR,232935,harptos_gb,28,9,638,9,09,Elt,Eleint,28,28th,28,DR,DR,Dale Reckoning,28/09/0638,28 Eleint 0638,28 Eleint 0638 DR
-26 Eleasis 0640 DR,233634,harptos_gb,26,8,640,8,08,Els,Eleasis,26,26th,26,DR,DR,Dale Reckoning,26/08/0640,26 Eleasis 0640,26 Eleasis 0640 DR
-4 Nightal 0641 DR,234099,harptos_gb,4,12,641,12,12,Nig,Nightal,4,4th,04,DR,DR,Dale Reckoning,04/12/0641,4 Nightal 0641,4 Nightal 0641 DR
-4 Nightal 0642 DR,234464,harptos_gb,4,12,642,12,12,Nig,Nightal,4,4th,04,DR,DR,Dale Reckoning,04/12/0642,4 Nightal 0642,4 Nightal 0642 DR
-8 Eleasis 0644 DR,235077,harptos_gb,8,8,644,8,08,Els,Eleasis,8,8th,08,DR,DR,Dale Reckoning,08/08/0644,8 Eleasis 0644,8 Eleasis 0644 DR
-18 Tarsakh 0646 DR,235695,harptos_gb,18,4,646,4,04,Tar,Tarsakh,18,18th,18,DR,DR,Dale Reckoning,18/04/0646,18 Tarsakh 0646,18 Tarsakh 0646 DR
-3 Hammer 0653 DR,238146,harptos_gb,3,1,653,1,01,Ham,Hammer,3,3rd,03,DR,DR,Dale Reckoning,03/01/0653,3 Hammer 0653,3 Hammer 0653 DR
-4 Alturiak 0653 DR,238178,harptos_gb,4,2,653,2,02,Alt,Alturiak,4,4th,04,DR,DR,Dale Reckoning,04/02/0653,4 Alturiak 0653,4 Alturiak 0653 DR
-27 Mirtul 0662 DR,241579,harptos_gb,27,5,662,5,05,Mir,Mirtul,27,27th,27,DR,DR,Dale Reckoning,27/05/0662,27 Mirtul 0662,27 Mirtul 0662 DR
-19 Flamerule 0667 DR,243457,harptos_gb,19,7,667,7,07,Fla,Flamerule,19,19th,19,DR,DR,Dale Reckoning,19/07/0667,19 Flamerule 0667,19 Flamerule 0667 DR
-10 Flamerule 0674 DR,246005,harptos_gb,10,7,674,7,07,Fla,Flamerule,10,10th,10,DR,DR,Dale Reckoning,10/07/0674,10 Flamerule 0674,10 Flamerule 0674 DR
-2 Marpenoth 0675 DR,246454,harptos_gb,2,10,675,10,10,Mar,Marpenoth,2,2nd,02,DR,DR,Dale Reckoning,02/10/0675,2 Marpenoth 0675,2 Marpenoth 0675 DR
-9 Kythorn 0679 DR,247800,harptos_gb,9,6,679,6,06,Kyt,Kythorn,9,9th,09,DR,DR,Dale Reckoning,09/06/0679,9 Kythorn 0679,9 Kythorn 0679 DR
-2 Nightal 0685 DR,250168,harptos_gb,2,12,685,12,12,Nig,Nightal,2,2nd,02,DR,DR,Dale Reckoning,02/12/0685,2 Nightal 0685,2 Nightal 0685 DR
-29 Ches 0693 DR,252843,harptos_gb,29,3,693,3,03,Che,Ches,29,29th,29,DR,DR,Dale Reckoning,29/03/0693,29 Ches 0693,29 Ches 0693 DR
-Highharvestide 0693 DR,253027,harptos_gb,31,9,693,HH,HH,HH,Highharvestide,31,31st,31,DR,DR,Dale Reckoning,HH/0693,Highharvestide 0693,Highharvestide 0693 DR
-19 Ches 0694 DR,253198,harptos_gb,19,3,694,3,03,Che,Ches,19,19th,19,DR,DR,Dale Reckoning,19/03/0694,19 Ches 0694,19 Ches 0694 DR
-8 Kythorn 0699 DR,255104,harptos_gb,8,6,699,6,06,Kyt,Kythorn,8,8th,08,DR,DR,Dale Reckoning,08/06/0699,8 Kythorn 0699,8 Kythorn 0699 DR
-3 Kythorn 0704 DR,256925,harptos_gb,3,6,704,6,06,Kyt,Kythorn,3,3rd,03,DR,DR,Dale Reckoning,03/06/0704,3 Kythorn 0704,3 Kythorn 0704 DR
-20 Uktar 0709 DR,258921,harptos_gb,20,11,709,11,11,Ukt,Uktar,20,20th,20,DR,DR,Dale Reckoning,20/11/0709,20 Uktar 0709,20 Uktar 0709 DR
-7 Uktar 0714 DR,260734,harptos_gb,7,11,714,11,11,Ukt,Uktar,7,7th,07,DR,DR,Dale Reckoning,07/11/0714,7 Uktar 0714,7 Uktar 0714 DR
-6 Tarsakh 0715 DR,260885,harptos_gb,6,4,715,4,04,Tar,Tarsakh,6,6th,06,DR,DR,Dale Reckoning,06/04/0715,6 Tarsakh 0715,6 Tarsakh 0715 DR
-5 Marpenoth 0720 DR,262894,harptos_gb,5,10,720,10,10,Mar,Marpenoth,5,5th,05,DR,DR,Dale Reckoning,05/10/0720,5 Marpenoth 0720,5 Marpenoth 0720 DR
-13 Marpenoth 0722 DR,263632,harptos_gb,13,10,722,10,10,Mar,Marpenoth,13,13th,13,DR,DR,Dale Reckoning,13/10/0722,13 Marpenoth 0722,13 Marpenoth 0722 DR
-14 Alturiak 0727 DR,265216,harptos_gb,14,2,727,2,02,Alt,Alturiak,14,14th,14,DR,DR,Dale Reckoning,14/02/0727,14 Alturiak 0727,14 Alturiak 0727 DR
-17 Marpenoth 0729 DR,266193,harptos_gb,17,10,729,10,10,Mar,Marpenoth,17,17th,17,DR,DR,Dale Reckoning,17/10/0729,17 Marpenoth 0729,17 Marpenoth 0729 DR
-20 Ches 0733 DR,267444,harptos_gb,20,3,733,3,03,Che,Ches,20,20th,20,DR,DR,Dale Reckoning,20/03/0733,20 Ches 0733,20 Ches 0733 DR
-6 Nightal 0734 DR,268069,harptos_gb,6,12,734,12,12,Nig,Nightal,6,6th,06,DR,DR,Dale Reckoning,06/12/0734,6 Nightal 0734,6 Nightal 0734 DR
-26 Marpenoth 0736 DR,268759,harptos_gb,26,10,736,10,10,Mar,Marpenoth,26,26th,26,DR,DR,Dale Reckoning,26/10/0736,26 Marpenoth 0736,26 Marpenoth 0736 DR
-25 Hammer 0744 DR,271405,harptos_gb,25,1,744,1,01,Ham,Hammer,25,25th,25,DR,DR,Dale Reckoning,25/01/0744,25 Hammer 0744,25 Hammer 0744 DR
-5 Eleint 0749 DR,273455,harptos_gb,5,9,749,9,09,Elt,Eleint,5,5th,05,DR,DR,Dale Reckoning,05/09/0749,5 Eleint 0749,5 Eleint 0749 DR
-12 Mirtul 0750 DR,273706,harptos_gb,12,5,750,5,05,Mir,Mirtul,12,12th,12,DR,DR,Dale Reckoning,12/05/0750,12 Mirtul 0750,12 Mirtul 0750 DR
-30 Alturiak 0759 DR,276920,harptos_gb,30,2,759,2,02,Alt,Alturiak,30,30th,30,DR,DR,Dale Reckoning,30/02/0759,30 Alturiak 0759,30 Alturiak 0759 DR
-2 Marpenoth 0764 DR,278962,harptos_gb,2,10,764,10,10,Mar,Marpenoth,2,2nd,02,DR,DR,Dale Reckoning,02/10/0764,2 Marpenoth 0764,2 Marpenoth 0764 DR
-8 Flamerule 0772 DR,281797,harptos_gb,8,7,772,7,07,Fla,Flamerule,8,8th,08,DR,DR,Dale Reckoning,08/07/0772,8 Flamerule 0772,8 Flamerule 0772 DR
-23 Uktar 0774 DR,282665,harptos_gb,23,11,774,11,11,Ukt,Uktar,23,23rd,23,DR,DR,Dale Reckoning,23/11/0774,23 Uktar 0774,23 Uktar 0774 DR
-23 Nightal 0774 DR,282696,harptos_gb,23,12,774,12,12,Nig,Nightal,23,23rd,23,DR,DR,Dale Reckoning,23/12/0774,23 Nightal 0774,23 Nightal 0774 DR
-2 Tarsakh 0780 DR,284622,harptos_gb,2,4,780,4,04,Tar,Tarsakh,2,2nd,02,DR,DR,Dale Reckoning,02/04/0780,2 Tarsakh 0780,2 Tarsakh 0780 DR
-10 Hammer 0782 DR,285270,harptos_gb,10,1,782,1,01,Ham,Hammer,10,10th,10,DR,DR,Dale Reckoning,10/01/0782,10 Hammer 0782,10 Hammer 0782 DR
-21 Flamerule 0803 DR,293133,harptos_gb,21,7,803,7,07,Fla,Flamerule,21,21st,21,DR,DR,Dale Reckoning,21/07/0803,21 Flamerule 0803,21 Flamerule 0803 DR
-29 Eleasis 0813 DR,296825,harptos_gb,29,8,813,8,08,Els,Eleasis,29,29th,29,DR,DR,Dale Reckoning,29/08/0813,29 Eleasis 0813,29 Eleasis 0813 DR
-Midwinter 0814 DR,296979,harptos_gb,31,1,814,MW,MW,MW,Midwinter,31,31st,31,DR,DR,Dale Reckoning,MW/0814,Midwinter 0814,Midwinter 0814 DR
-5 Kythorn 0824 DR,300757,harptos_gb,5,6,824,6,06,Kyt,Kythorn,5,5th,05,DR,DR,Dale Reckoning,05/06/0824,5 Kythorn 0824,5 Kythorn 0824 DR
-7 Nightal 0833 DR,304230,harptos_gb,7,12,833,12,12,Nig,Nightal,7,7th,07,DR,DR,Dale Reckoning,07/12/0833,7 Nightal 0833,7 Nightal 0833 DR
-6 Alturiak 0834 DR,304290,harptos_gb,6,2,834,2,02,Alt,Alturiak,6,6th,06,DR,DR,Dale Reckoning,06/02/0834,6 Alturiak 0834,6 Alturiak 0834 DR
-8 Flamerule 0835 DR,304808,harptos_gb,8,7,835,7,07,Fla,Flamerule,8,8th,08,DR,DR,Dale Reckoning,08/07/0835,8 Flamerule 0835,8 Flamerule 0835 DR
-13 Tarsakh 0836 DR,305087,harptos_gb,13,4,836,4,04,Tar,Tarsakh,13,13th,13,DR,DR,Dale Reckoning,13/04/0836,13 Tarsakh 0836,13 Tarsakh 0836 DR
-28 Marpenoth 0840 DR,306747,harptos_gb,28,10,840,10,10,Mar,Marpenoth,28,28th,28,DR,DR,Dale Reckoning,28/10/0840,28 Marpenoth 0840,28 Marpenoth 0840 DR
-Midsummer 0847 DR,309214,harptos_gb,31,7,847,MS,MS,MS,Midsummer,31,31st,31,DR,DR,Dale Reckoning,MS/0847,Midsummer 0847,Midsummer 0847 DR
-Feast of the Moon 0848 DR,309702,harptos_gb,31,11,848,FM,FM,FM,Feast of the Moon,31,31st,31,DR,DR,Dale Reckoning,FM/0848,Feast of the Moon 0848,Feast of the Moon 0848 DR
-4 Ches 0849 DR,309797,harptos_gb,4,3,849,3,03,Che,Ches,4,4th,04,DR,DR,Dale Reckoning,04/03/0849,4 Ches 0849,4 Ches 0849 DR
-22 Hammer 0860 DR,313771,harptos_gb,22,1,860,1,01,Ham,Hammer,22,22nd,22,DR,DR,Dale Reckoning,22/01/0860,22 Hammer 0860,22 Hammer 0860 DR
-11 Eleint 0861 DR,314369,harptos_gb,11,9,861,9,09,Elt,Eleint,11,11th,11,DR,DR,Dale Reckoning,11/09/0861,11 Eleint 0861,11 Eleint 0861 DR
-17 Marpenoth 0865 DR,315867,harptos_gb,17,10,865,10,10,Mar,Marpenoth,17,17th,17,DR,DR,Dale Reckoning,17/10/0865,17 Marpenoth 0865,17 Marpenoth 0865 DR
-Highharvestide 0867 DR,316580,harptos_gb,31,9,867,HH,HH,HH,Highharvestide,31,31st,31,DR,DR,Dale Reckoning,HH/0867,Highharvestide 0867,Highharvestide 0867 DR
-29 Alturiak 0869 DR,317097,harptos_gb,29,2,869,2,02,Alt,Alturiak,29,29th,29,DR,DR,Dale Reckoning,29/02/0869,29 Alturiak 0869,29 Alturiak 0869 DR
-26 Mirtul 0870 DR,317550,harptos_gb,26,5,870,5,05,Mir,Mirtul,26,26th,26,DR,DR,Dale Reckoning,26/05/0870,26 Mirtul 0870,26 Mirtul 0870 DR
-13 Uktar 0872 DR,318450,harptos_gb,13,11,872,11,11,Ukt,Uktar,13,13th,13,DR,DR,Dale Reckoning,13/11/0872,13 Uktar 0872,13 Uktar 0872 DR
-16 Hammer 0877 DR,319975,harptos_gb,16,1,877,1,01,Ham,Hammer,16,16th,16,DR,DR,Dale Reckoning,16/01/0877,16 Hammer 0877,16 Hammer 0877 DR
-22 Uktar 0878 DR,320650,harptos_gb,22,11,878,11,11,Ukt,Uktar,22,22nd,22,DR,DR,Dale Reckoning,22/11/0878,22 Uktar 0878,22 Uktar 0878 DR
-12 Nightal 0891 DR,325419,harptos_gb,12,12,891,12,12,Nig,Nightal,12,12th,12,DR,DR,Dale Reckoning,12/12/0891,12 Nightal 0891,12 Nightal 0891 DR
-16 Nightal 0893 DR,326154,harptos_gb,16,12,893,12,12,Nig,Nightal,16,16th,16,DR,DR,Dale Reckoning,16/12/0893,16 Nightal 0893,16 Nightal 0893 DR
-2 Uktar 0895 DR,326839,harptos_gb,2,11,895,11,11,Ukt,Uktar,2,2nd,02,DR,DR,Dale Reckoning,02/11/0895,2 Uktar 0895,2 Uktar 0895 DR
-Midsummer 0896 DR,327111,harptos_gb,31,7,896,MS,MS,MS,Midsummer,31,31st,31,DR,DR,Dale Reckoning,MS/0896,Midsummer 0896,Midsummer 0896 DR
-26 Uktar 0900 DR,328690,harptos_gb,26,11,900,11,11,Ukt,Uktar,26,26th,26,DR,DR,Dale Reckoning,26/11/0900,26 Uktar 0900,26 Uktar 0900 DR
-30 Uktar 0904 DR,330155,harptos_gb,30,11,904,11,11,Ukt,Uktar,30,30th,30,DR,DR,Dale Reckoning,30/11/0904,30 Uktar 0904,30 Uktar 0904 DR
-4 Marpenoth 0909 DR,331925,harptos_gb,4,10,909,10,10,Mar,Marpenoth,4,4th,04,DR,DR,Dale Reckoning,04/10/0909,4 Marpenoth 0909,4 Marpenoth 0909 DR
-7 Kythorn 0913 DR,333267,harptos_gb,7,6,913,6,06,Kyt,Kythorn,7,7th,07,DR,DR,Dale Reckoning,07/06/0913,7 Kythorn 0913,7 Kythorn 0913 DR
-24 Uktar 0914 DR,333801,harptos_gb,24,11,914,11,11,Ukt,Uktar,24,24th,24,DR,DR,Dale Reckoning,24/11/0914,24 Uktar 0914,24 Uktar 0914 DR
-9 Uktar 0920 DR,335978,harptos_gb,9,11,920,11,11,Ukt,Uktar,9,9th,09,DR,DR,Dale Reckoning,09/11/0920,9 Uktar 0920,9 Uktar 0920 DR
-7 Nightal 0928 DR,338929,harptos_gb,7,12,928,12,12,Nig,Nightal,7,7th,07,DR,DR,Dale Reckoning,07/12/0928,7 Nightal 0928,7 Nightal 0928 DR
-Greengrass 0941 DR,343457,harptos_gb,31,4,941,GG,GG,GG,Greengrass,31,31st,31,DR,DR,Dale Reckoning,GG/0941,Greengrass 0941,Greengrass 0941 DR
-20 Ches 0942 DR,343781,harptos_gb,20,3,942,3,03,Che,Ches,20,20th,20,DR,DR,Dale Reckoning,20/03/0942,20 Ches 0942,20 Ches 0942 DR
-1 Eleasis 0944 DR,344645,harptos_gb,1,8,944,8,08,Els,Eleasis,1,1st,01,DR,DR,Dale Reckoning,01/08/0944,1 Eleasis 0944,1 Eleasis 0944 DR
-19 Ches 0945 DR,344876,harptos_gb,19,3,945,3,03,Che,Ches,19,19th,19,DR,DR,Dale Reckoning,19/03/0945,19 Ches 0945,19 Ches 0945 DR
-2 Flamerule 0946 DR,345345,harptos_gb,2,7,946,7,07,Fla,Flamerule,2,2nd,02,DR,DR,Dale Reckoning,02/07/0946,2 Flamerule 0946,2 Flamerule 0946 DR
-Feast of the Moon 0951 DR,347322,harptos_gb,31,11,951,FM,FM,FM,Feast of the Moon,31,31st,31,DR,DR,Dale Reckoning,FM/0951,Feast of the Moon 0951,Feast of the Moon 0951 DR
-5 Nightal 0958 DR,349884,harptos_gb,5,12,958,12,12,Nig,Nightal,5,5th,05,DR,DR,Dale Reckoning,05/12/0958,5 Nightal 0958,5 Nightal 0958 DR
-29 Alturiak 0963 DR,351430,harptos_gb,29,2,963,2,02,Alt,Alturiak,29,29th,29,DR,DR,Dale Reckoning,29/02/0963,29 Alturiak 0963,29 Alturiak 0963 DR
-3 Nightal 0968 DR,353535,harptos_gb,3,12,968,12,12,Nig,Nightal,3,3rd,03,DR,DR,Dale Reckoning,03/12/0968,3 Nightal 0968,3 Nightal 0968 DR
-2 Uktar 0975 DR,356059,harptos_gb,2,11,975,11,11,Ukt,Uktar,2,2nd,02,DR,DR,Dale Reckoning,02/11/0975,2 Uktar 0975,2 Uktar 0975 DR
-16 Ches 0980 DR,357656,harptos_gb,16,3,980,3,03,Che,Ches,16,16th,16,DR,DR,Dale Reckoning,16/03/0980,16 Ches 0980,16 Ches 0980 DR
-5 Flamerule 0986 DR,359958,harptos_gb,5,7,986,7,07,Fla,Flamerule,5,5th,05,DR,DR,Dale Reckoning,05/07/0986,5 Flamerule 0986,5 Flamerule 0986 DR
-13 Flamerule 0986 DR,359966,harptos_gb,13,7,986,7,07,Fla,Flamerule,13,13th,13,DR,DR,Dale Reckoning,13/07/0986,13 Flamerule 0986,13 Flamerule 0986 DR
-13 Tarsakh 0987 DR,360240,harptos_gb,13,4,987,4,04,Tar,Tarsakh,13,13th,13,DR,DR,Dale Reckoning,13/04/0987,13 Tarsakh 0987,13 Tarsakh 0987 DR
-26 Kythorn 0995 DR,363236,harptos_gb,26,6,995,6,06,Kyt,Kythorn,26,26th,26,DR,DR,Dale Reckoning,26/06/0995,26 Kythorn 0995,26 Kythorn 0995 DR
-13 Mirtul 0998 DR,364289,harptos_gb,13,5,998,5,05,Mir,Mirtul,13,13th,13,DR,DR,Dale Reckoning,13/05/0998,13 Mirtul 0998,13 Mirtul 0998 DR
-2 Tarsakh 1004 DR,366438,harptos_gb,2,4,1004,4,04,Tar,Tarsakh,2,2nd,02,DR,DR,Dale Reckoning,02/04/1004,2 Tarsakh 1004,2 Tarsakh 1004 DR
-22 Kythorn 1009 DR,368346,harptos_gb,22,6,1009,6,06,Kyt,Kythorn,22,22nd,22,DR,DR,Dale Reckoning,22/06/1009,22 Kythorn 1009,22 Kythorn 1009 DR
-28 Eleasis 1011 DR,369143,harptos_gb,28,8,1011,8,08,Els,Eleasis,28,28th,28,DR,DR,Dale Reckoning,28/08/1011,28 Eleasis 1011,28 Eleasis 1011 DR
-20 Tarsakh 1012 DR,369378,harptos_gb,20,4,1012,4,04,Tar,Tarsakh,20,20th,20,DR,DR,Dale Reckoning,20/04/1012,20 Tarsakh 1012,20 Tarsakh 1012 DR
-30 Kythorn 1016 DR,370910,harptos_gb,30,6,1016,6,06,Kyt,Kythorn,30,30th,30,DR,DR,Dale Reckoning,30/06/1016,30 Kythorn 1016,30 Kythorn 1016 DR
-15 Hammer 1029 DR,375492,harptos_gb,15,1,1029,1,01,Ham,Hammer,15,15th,15,DR,DR,Dale Reckoning,15/01/1029,15 Hammer 1029,15 Hammer 1029 DR
-Greengrass 1032 DR,376694,harptos_gb,31,4,1032,GG,GG,GG,Greengrass,31,31st,31,DR,DR,Dale Reckoning,GG/1032,Greengrass 1032,Greengrass 1032 DR
-13 Flamerule 1039 DR,379324,harptos_gb,13,7,1039,7,07,Fla,Flamerule,13,13th,13,DR,DR,Dale Reckoning,13/07/1039,13 Flamerule 1039,13 Flamerule 1039 DR
-Highharvestide 1057 DR,385978,harptos_gb,31,9,1057,HH,HH,HH,Highharvestide,31,31st,31,DR,DR,Dale Reckoning,HH/1057,Highharvestide 1057,Highharvestide 1057 DR
-4 Eleint 1058 DR,386316,harptos_gb,4,9,1058,9,09,Elt,Eleint,4,4th,04,DR,DR,Dale Reckoning,04/09/1058,4 Eleint 1058,4 Eleint 1058 DR
-12 Alturiak 1062 DR,387573,harptos_gb,12,2,1062,2,02,Alt,Alturiak,12,12th,12,DR,DR,Dale Reckoning,12/02/1062,12 Alturiak 1062,12 Alturiak 1062 DR
-30 Alturiak 1071 DR,390878,harptos_gb,30,2,1071,2,02,Alt,Alturiak,30,30th,30,DR,DR,Dale Reckoning,30/02/1071,30 Alturiak 1071,30 Alturiak 1071 DR
-17 Hammer 1072 DR,391199,harptos_gb,17,1,1072,1,01,Ham,Hammer,17,17th,17,DR,DR,Dale Reckoning,17/01/1072,17 Hammer 1072,17 Hammer 1072 DR
-29 Eleint 1073 DR,391820,harptos_gb,29,9,1073,9,09,Elt,Eleint,29,29th,29,DR,DR,Dale Reckoning,29/09/1073,29 Eleint 1073,29 Eleint 1073 DR
-11 Tarsakh 1084 DR,395667,harptos_gb,11,4,1084,4,04,Tar,Tarsakh,11,11th,11,DR,DR,Dale Reckoning,11/04/1084,11 Tarsakh 1084,11 Tarsakh 1084 DR
-9 Eleint 1086 DR,396548,harptos_gb,9,9,1086,9,09,Elt,Eleint,9,9th,09,DR,DR,Dale Reckoning,09/09/1086,9 Eleint 1086,9 Eleint 1086 DR
-28 Hammer 1094 DR,399246,harptos_gb,28,1,1094,1,01,Ham,Hammer,28,28th,28,DR,DR,Dale Reckoning,28/01/1094,28 Hammer 1094,28 Hammer 1094 DR
-Midsummer 1105 DR,403449,harptos_gb,31,7,1105,MS,MS,MS,Midsummer,31,31st,31,DR,DR,Dale Reckoning,MS/1105,Midsummer 1105,Midsummer 1105 DR
-26 Mirtul 1107 DR,404114,harptos_gb,26,5,1107,5,05,Mir,Mirtul,26,26th,26,DR,DR,Dale Reckoning,26/05/1107,26 Mirtul 1107,26 Mirtul 1107 DR
-5 Tarsakh 1120 DR,408810,harptos_gb,5,4,1120,4,04,Tar,Tarsakh,5,5th,05,DR,DR,Dale Reckoning,05/04/1120,5 Tarsakh 1120,5 Tarsakh 1120 DR
-Midsummer 1120 DR,408927,harptos_gb,31,7,1120,MS,MS,MS,Midsummer,31,31st,31,DR,DR,Dale Reckoning,MS/1120,Midsummer 1120,Midsummer 1120 DR
-27 Tarsakh 1127 DR,411389,harptos_gb,27,4,1127,4,04,Tar,Tarsakh,27,27th,27,DR,DR,Dale Reckoning,27/04/1127,27 Tarsakh 1127,27 Tarsakh 1127 DR
-27 Marpenoth 1129 DR,412303,harptos_gb,27,10,1129,10,10,Mar,Marpenoth,27,27th,27,DR,DR,Dale Reckoning,27/10/1129,27 Marpenoth 1129,27 Marpenoth 1129 DR
-8 Mirtul 1131 DR,412862,harptos_gb,8,5,1131,5,05,Mir,Mirtul,8,8th,08,DR,DR,Dale Reckoning,08/05/1131,8 Mirtul 1131,8 Mirtul 1131 DR
-8 Marpenoth 1132 DR,413380,harptos_gb,8,10,1132,10,10,Mar,Marpenoth,8,8th,08,DR,DR,Dale Reckoning,08/10/1132,8 Marpenoth 1132,8 Marpenoth 1132 DR
-19 Uktar 1142 DR,417073,harptos_gb,19,11,1142,11,11,Ukt,Uktar,19,19th,19,DR,DR,Dale Reckoning,19/11/1142,19 Uktar 1142,19 Uktar 1142 DR
-23 Eleint 1146 DR,418477,harptos_gb,23,9,1146,9,09,Elt,Eleint,23,23rd,23,DR,DR,Dale Reckoning,23/09/1146,23 Eleint 1146,23 Eleint 1146 DR
-27 Uktar 1151 DR,420368,harptos_gb,27,11,1151,11,11,Ukt,Uktar,27,27th,27,DR,DR,Dale Reckoning,27/11/1151,27 Uktar 1151,27 Uktar 1151 DR
-1 Eleint 1156 DR,422108,harptos_gb,1,9,1156,9,09,Elt,Eleint,1,1st,01,DR,DR,Dale Reckoning,01/09/1156,1 Eleint 1156,1 Eleint 1156 DR
-27 Uktar 1156 DR,422195,harptos_gb,27,11,1156,11,11,Ukt,Uktar,27,27th,27,DR,DR,Dale Reckoning,27/11/1156,27 Uktar 1156,27 Uktar 1156 DR
-20 Tarsakh 1158 DR,422705,harptos_gb,20,4,1158,4,04,Tar,Tarsakh,20,20th,20,DR,DR,Dale Reckoning,20/04/1158,20 Tarsakh 1158,20 Tarsakh 1158 DR
-14 Hammer 1160 DR,423338,harptos_gb,14,1,1160,1,01,Ham,Hammer,14,14th,14,DR,DR,Dale Reckoning,14/01/1160,14 Hammer 1160,14 Hammer 1160 DR
-20 Eleint 1161 DR,423953,harptos_gb,20,9,1161,9,09,Elt,Eleint,20,20th,20,DR,DR,Dale Reckoning,20/09/1161,20 Eleint 1161,20 Eleint 1161 DR
-11 Marpenoth 1161 DR,423975,harptos_gb,11,10,1161,10,10,Mar,Marpenoth,11,11th,11,DR,DR,Dale Reckoning,11/10/1161,11 Marpenoth 1161,11 Marpenoth 1161 DR
-18 Mirtul 1162 DR,424195,harptos_gb,18,5,1162,5,05,Mir,Mirtul,18,18th,18,DR,DR,Dale Reckoning,18/05/1162,18 Mirtul 1162,18 Mirtul 1162 DR
-23 Hammer 1163 DR,424443,harptos_gb,23,1,1163,1,01,Ham,Hammer,23,23rd,23,DR,DR,Dale Reckoning,23/01/1163,23 Hammer 1163,23 Hammer 1163 DR
-1 Hammer 1177 DR,429535,harptos_gb,1,1,1177,1,01,Ham,Hammer,1,1st,01,DR,DR,Dale Reckoning,01/01/1177,1 Hammer 1177,1 Hammer 1177 DR
-14 Ches 1183 DR,431800,harptos_gb,14,3,1183,3,03,Che,Ches,14,14th,14,DR,DR,Dale Reckoning,14/03/1183,14 Ches 1183,14 Ches 1183 DR
-Midsummer 1184 DR,432303,harptos_gb,31,7,1184,MS,MS,MS,Midsummer,31,31st,31,DR,DR,Dale Reckoning,MS/1184,Midsummer 1184,Midsummer 1184 DR
-14 Tarsakh 1189 DR,434022,harptos_gb,14,4,1189,4,04,Tar,Tarsakh,14,14th,14,DR,DR,Dale Reckoning,14/04/1189,14 Tarsakh 1189,14 Tarsakh 1189 DR
-1 Eleint 1189 DR,434161,harptos_gb,1,9,1189,9,09,Elt,Eleint,1,1st,01,DR,DR,Dale Reckoning,01/09/1189,1 Eleint 1189,1 Eleint 1189 DR
-18 Marpenoth 1191 DR,434939,harptos_gb,18,10,1191,10,10,Mar,Marpenoth,18,18th,18,DR,DR,Dale Reckoning,18/10/1191,18 Marpenoth 1191,18 Marpenoth 1191 DR
-28 Mirtul 1194 DR,435893,harptos_gb,28,5,1194,5,05,Mir,Mirtul,28,28th,28,DR,DR,Dale Reckoning,28/05/1194,28 Mirtul 1194,28 Mirtul 1194 DR
-12 Flamerule 1194 DR,435937,harptos_gb,12,7,1194,7,07,Fla,Flamerule,12,12th,12,DR,DR,Dale Reckoning,12/07/1194,12 Flamerule 1194,12 Flamerule 1194 DR
-17 Kythorn 1195 DR,436277,harptos_gb,17,6,1195,6,06,Kyt,Kythorn,17,17th,17,DR,DR,Dale Reckoning,17/06/1195,17 Kythorn 1195,17 Kythorn 1195 DR
-6 Eleasis 1196 DR,436693,harptos_gb,6,8,1196,8,08,Els,Eleasis,6,6th,06,DR,DR,Dale Reckoning,06/08/1196,6 Eleasis 1196,6 Eleasis 1196 DR
-4 Flamerule 1197 DR,437025,harptos_gb,4,7,1197,7,07,Fla,Flamerule,4,4th,04,DR,DR,Dale Reckoning,04/07/1197,4 Flamerule 1197,4 Flamerule 1197 DR
-Midwinter 1207 DR,440522,harptos_gb,31,1,1207,MW,MW,MW,Midwinter,31,31st,31,DR,DR,Dale Reckoning,MW/1207,Midwinter 1207,Midwinter 1207 DR
-2 Eleasis 1214 DR,443263,harptos_gb,2,8,1214,8,08,Els,Eleasis,2,2nd,02,DR,DR,Dale Reckoning,02/08/1214,2 Eleasis 1214,2 Eleasis 1214 DR
-27 Uktar 1215 DR,443744,harptos_gb,27,11,1215,11,11,Ukt,Uktar,27,27th,27,DR,DR,Dale Reckoning,27/11/1215,27 Uktar 1215,27 Uktar 1215 DR
-12 Eleasis 1219 DR,445099,harptos_gb,12,8,1219,8,08,Els,Eleasis,12,12th,12,DR,DR,Dale Reckoning,12/08/1219,12 Eleasis 1219,12 Eleasis 1219 DR
-18 Hammer 1230 DR,448910,harptos_gb,18,1,1230,1,01,Ham,Hammer,18,18th,18,DR,DR,Dale Reckoning,18/01/1230,18 Hammer 1230,18 Hammer 1230 DR
-10 Mirtul 1234 DR,450485,harptos_gb,10,5,1234,5,05,Mir,Mirtul,10,10th,10,DR,DR,Dale Reckoning,10/05/1234,10 Mirtul 1234,10 Mirtul 1234 DR
-Greengrass 1237 DR,451571,harptos_gb,31,4,1237,GG,GG,GG,Greengrass,31,31st,31,DR,DR,Dale Reckoning,GG/1237,Greengrass 1237,Greengrass 1237 DR
-21 Mirtul 1240 DR,452687,harptos_gb,21,5,1240,5,05,Mir,Mirtul,21,21st,21,DR,DR,Dale Reckoning,21/05/1240,21 Mirtul 1240,21 Mirtul 1240 DR
-9 Flamerule 1243 DR,453831,harptos_gb,9,7,1243,7,07,Fla,Flamerule,9,9th,09,DR,DR,Dale Reckoning,09/07/1243,9 Flamerule 1243,9 Flamerule 1243 DR
-29 Marpenoth 1243 DR,453943,harptos_gb,29,10,1243,10,10,Mar,Marpenoth,29,29th,29,DR,DR,Dale Reckoning,29/10/1243,29 Marpenoth 1243,29 Marpenoth 1243 DR
-30 Nightal 1249 DR,456197,harptos_gb,30,12,1249,12,12,Nig,Nightal,30,30th,30,DR,DR,Dale Reckoning,30/12/1249,30 Nightal 1249,30 Nightal 1249 DR
-4 Uktar 1250 DR,456505,harptos_gb,4,11,1250,11,11,Ukt,Uktar,4,4th,04,DR,DR,Dale Reckoning,04/11/1250,4 Uktar 1250,4 Uktar 1250 DR
-23 Eleasis 1252 DR,457164,harptos_gb,23,8,1252,8,08,Els,Eleasis,23,23rd,23,DR,DR,Dale Reckoning,23/08/1252,23 Eleasis 1252,23 Eleasis 1252 DR
-5 Flamerule 1295 DR,472820,harptos_gb,5,7,1295,7,07,Fla,Flamerule,5,5th,05,DR,DR,Dale Reckoning,05/07/1295,5 Flamerule 1295,5 Flamerule 1295 DR
-23 Hammer 1297 DR,473387,harptos_gb,23,1,1297,1,01,Ham,Hammer,23,23rd,23,DR,DR,Dale Reckoning,23/01/1297,23 Hammer 1297,23 Hammer 1297 DR
-16 Ches 1299 DR,474171,harptos_gb,16,3,1299,3,03,Che,Ches,16,16th,16,DR,DR,Dale Reckoning,16/03/1299,16 Ches 1299,16 Ches 1299 DR
-24 Alturiak 1308 DR,477436,harptos_gb,24,2,1308,2,02,Alt,Alturiak,24,24th,24,DR,DR,Dale Reckoning,24/02/1308,24 Alturiak 1308,24 Alturiak 1308 DR
-19 Flamerule 1320 DR,481965,harptos_gb,19,7,1320,7,07,Fla,Flamerule,19,19th,19,DR,DR,Dale Reckoning,19/07/1320,19 Flamerule 1320,19 Flamerule 1320 DR
-14 Kythorn 1325 DR,483757,harptos_gb,14,6,1325,6,06,Kyt,Kythorn,14,14th,14,DR,DR,Dale Reckoning,14/06/1325,14 Kythorn 1325,14 Kythorn 1325 DR
-22 Flamerule 1328 DR,484890,harptos_gb,22,7,1328,7,07,Fla,Flamerule,22,22nd,22,DR,DR,Dale Reckoning,22/07/1328,22 Flamerule 1328,22 Flamerule 1328 DR
-2 Hammer 1333 DR,486515,harptos_gb,2,1,1333,1,01,Ham,Hammer,2,2nd,02,DR,DR,Dale Reckoning,02/01/1333,2 Hammer 1333,2 Hammer 1333 DR
-14 Hammer 1337 DR,487988,harptos_gb,14,1,1337,1,01,Ham,Hammer,14,14th,14,DR,DR,Dale Reckoning,14/01/1337,14 Hammer 1337,14 Hammer 1337 DR
-14 Alturiak 1339 DR,488749,harptos_gb,14,2,1339,2,02,Alt,Alturiak,14,14th,14,DR,DR,Dale Reckoning,14/02/1339,14 Alturiak 1339,14 Alturiak 1339 DR
-3 Hammer 1361 DR,496743,harptos_gb,3,1,1361,1,01,Ham,Hammer,3,3rd,03,DR,DR,Dale Reckoning,03/01/1361,3 Hammer 1361,3 Hammer 1361 DR
-8 Hammer 1371 DR,500400,harptos_gb,8,1,1371,1,01,Ham,Hammer,8,8th,08,DR,DR,Dale Reckoning,08/01/1371,8 Hammer 1371,8 Hammer 1371 DR
-18 Nightal 1375 DR,502206,harptos_gb,18,12,1375,12,12,Nig,Nightal,18,18th,18,DR,DR,Dale Reckoning,18/12/1375,18 Nightal 1375,18 Nightal 1375 DR
-23 Eleint 1378 DR,503215,harptos_gb,23,9,1378,9,09,Elt,Eleint,23,23rd,23,DR,DR,Dale Reckoning,23/09/1378,23 Eleint 1378,23 Eleint 1378 DR
-1 Mirtul 1380 DR,503802,harptos_gb,1,5,1380,5,05,Mir,Mirtul,1,1st,01,DR,DR,Dale Reckoning,01/05/1380,1 Mirtul 1380,1 Mirtul 1380 DR
-11 Kythorn 1382 DR,504573,harptos_gb,11,6,1382,6,06,Kyt,Kythorn,11,11th,11,DR,DR,Dale Reckoning,11/06/1382,11 Kythorn 1382,11 Kythorn 1382 DR
-8 Hammer 1398 DR,510262,harptos_gb,8,1,1398,1,01,Ham,Hammer,8,8th,08,DR,DR,Dale Reckoning,08/01/1398,8 Hammer 1398,8 Hammer 1398 DR
-4 Alturiak 1400 DR,511019,harptos_gb,4,2,1400,2,02,Alt,Alturiak,4,4th,04,DR,DR,Dale Reckoning,04/02/1400,4 Alturiak 1400,4 Alturiak 1400 DR
-19 Nightal 1412 DR,515722,harptos_gb,19,12,1412,12,12,Nig,Nightal,19,19th,19,DR,DR,Dale Reckoning,19/12/1412,19 Nightal 1412,19 Nightal 1412 DR
-16 Tarsakh 1416 DR,516935,harptos_gb,16,4,1416,4,04,Tar,Tarsakh,16,16th,16,DR,DR,Dale Reckoning,16/04/1416,16 Tarsakh 1416,16 Tarsakh 1416 DR
-15 Eleint 1417 DR,517452,harptos_gb,15,9,1417,9,09,Elt,Eleint,15,15th,15,DR,DR,Dale Reckoning,15/09/1417,15 Eleint 1417,15 Eleint 1417 DR
-21 Alturiak 1434 DR,523455,harptos_gb,21,2,1434,2,02,Alt,Alturiak,21,21st,21,DR,DR,Dale Reckoning,21/02/1434,21 Alturiak 1434,21 Alturiak 1434 DR
-10 Nightal 1437 DR,524844,harptos_gb,10,12,1437,12,12,Nig,Nightal,10,10th,10,DR,DR,Dale Reckoning,10/12/1437,10 Nightal 1437,10 Nightal 1437 DR
-16 Alturiak 1440 DR,525641,harptos_gb,16,2,1440,2,02,Alt,Alturiak,16,16th,16,DR,DR,Dale Reckoning,16/02/1440,16 Alturiak 1440,16 Alturiak 1440 DR
-2 Nightal 1441 DR,526297,harptos_gb,2,12,1441,12,12,Nig,Nightal,2,2nd,02,DR,DR,Dale Reckoning,02/12/1441,2 Nightal 1441,2 Nightal 1441 DR
-26 Nightal 1457 DR,532165,harptos_gb,26,12,1457,12,12,Nig,Nightal,26,26th,26,DR,DR,Dale Reckoning,26/12/1457,26 Nightal 1457,26 Nightal 1457 DR
-Midwinter 1462 DR,533661,harptos_gb,31,1,1462,MW,MW,MW,Midwinter,31,31st,31,DR,DR,Dale Reckoning,MW/1462,Midwinter 1462,Midwinter 1462 DR
-Greengrass 1463 DR,534117,harptos_gb,31,4,1463,GG,GG,GG,Greengrass,31,31st,31,DR,DR,Dale Reckoning,GG/1463,Greengrass 1463,Greengrass 1463 DR
-20 Kythorn 1467 DR,535628,harptos_gb,20,6,1467,6,06,Kyt,Kythorn,20,20th,20,DR,DR,Dale Reckoning,20/06/1467,20 Kythorn 1467,20 Kythorn 1467 DR
-11 Eleasis 1473 DR,537872,harptos_gb,11,8,1473,8,08,Els,Eleasis,11,11th,11,DR,DR,Dale Reckoning,11/08/1473,11 Eleasis 1473,11 Eleasis 1473 DR
-8 Mirtul 1477 DR,539239,harptos_gb,8,5,1477,5,05,Mir,Mirtul,8,8th,08,DR,DR,Dale Reckoning,08/05/1477,8 Mirtul 1477,8 Mirtul 1477 DR
-14 Eleasis 1478 DR,539701,harptos_gb,14,8,1478,8,08,Els,Eleasis,14,14th,14,DR,DR,Dale Reckoning,14/08/1478,14 Eleasis 1478,14 Eleasis 1478 DR
-23 Uktar 1481 DR,540897,harptos_gb,23,11,1481,11,11,Ukt,Uktar,23,23rd,23,DR,DR,Dale Reckoning,23/11/1481,23 Uktar 1481,23 Uktar 1481 DR
-13 Hammer 1484 DR,541678,harptos_gb,13,1,1484,1,01,Ham,Hammer,13,13th,13,DR,DR,Dale Reckoning,13/01/1484,13 Hammer 1484,13 Hammer 1484 DR
-12 Tarsakh 1495 DR,545786,harptos_gb,12,4,1495,4,04,Tar,Tarsakh,12,12th,12,DR,DR,Dale Reckoning,12/04/1495,12 Tarsakh 1495,12 Tarsakh 1495 DR
-22 Tarsakh 1509 DR,550910,harptos_gb,22,4,1509,4,04,Tar,Tarsakh,22,22nd,22,DR,DR,Dale Reckoning,22/04/1509,22 Tarsakh 1509,22 Tarsakh 1509 DR
-19 Nightal 1514 DR,552977,harptos_gb,19,12,1514,12,12,Nig,Nightal,19,19th,19,DR,DR,Dale Reckoning,19/12/1514,19 Nightal 1514,19 Nightal 1514 DR
-18 Mirtul 1515 DR,553128,harptos_gb,18,5,1515,5,05,Mir,Mirtul,18,18th,18,DR,DR,Dale Reckoning,18/05/1515,18 Mirtul 1515,18 Mirtul 1515 DR
-18 Tarsakh 1525 DR,556750,harptos_gb,18,4,1525,4,04,Tar,Tarsakh,18,18th,18,DR,DR,Dale Reckoning,18/04/1525,18 Tarsakh 1525,18 Tarsakh 1525 DR
-21 Mirtul 1527 DR,557514,harptos_gb,21,5,1527,5,05,Mir,Mirtul,21,21st,21,DR,DR,Dale Reckoning,21/05/1527,21 Mirtul 1527,21 Mirtul 1527 DR
-30 Alturiak 1529 DR,558163,harptos_gb,30,2,1529,2,02,Alt,Alturiak,30,30th,30,DR,DR,Dale Reckoning,30/02/1529,30 Alturiak 1529,30 Alturiak 1529 DR
-21 Eleint 1531 DR,559096,harptos_gb,21,9,1531,9,09,Elt,Eleint,21,21st,21,DR,DR,Dale Reckoning,21/09/1531,21 Eleint 1531,21 Eleint 1531 DR
-24 Eleint 1540 DR,562387,harptos_gb,24,9,1540,9,09,Elt,Eleint,24,24th,24,DR,DR,Dale Reckoning,24/09/1540,24 Eleint 1540,24 Eleint 1540 DR
-25 Marpenoth 1546 DR,564610,harptos_gb,25,10,1546,10,10,Mar,Marpenoth,25,25th,25,DR,DR,Dale Reckoning,25/10/1546,25 Marpenoth 1546,25 Marpenoth 1546 DR
-4 Eleasis 1551 DR,566354,harptos_gb,4,8,1551,8,08,Els,Eleasis,4,4th,04,DR,DR,Dale Reckoning,04/08/1551,4 Eleasis 1551,4 Eleasis 1551 DR
-10 Hammer 1554 DR,567243,harptos_gb,10,1,1554,1,01,Ham,Hammer,10,10th,10,DR,DR,Dale Reckoning,10/01/1554,10 Hammer 1554,10 Hammer 1554 DR
-2 Nightal 1562 DR,570492,harptos_gb,2,12,1562,12,12,Nig,Nightal,2,2nd,02,DR,DR,Dale Reckoning,02/12/1562,2 Nightal 1562,2 Nightal 1562 DR
-30 Eleasis 1563 DR,570763,harptos_gb,30,8,1563,8,08,Els,Eleasis,30,30th,30,DR,DR,Dale Reckoning,30/08/1563,30 Eleasis 1563,30 Eleasis 1563 DR
-25 Flamerule 1566 DR,571823,harptos_gb,25,7,1566,7,07,Fla,Flamerule,25,25th,25,DR,DR,Dale Reckoning,25/07/1566,25 Flamerule 1566,25 Flamerule 1566 DR
-29 Kythorn 1567 DR,572162,harptos_gb,29,6,1567,6,06,Kyt,Kythorn,29,29th,29,DR,DR,Dale Reckoning,29/06/1567,29 Kythorn 1567,29 Kythorn 1567 DR
-12 Ches 1569 DR,572785,harptos_gb,12,3,1569,3,03,Che,Ches,12,12th,12,DR,DR,Dale Reckoning,12/03/1569,12 Ches 1569,12 Ches 1569 DR
-4 Ches 1570 DR,573142,harptos_gb,4,3,1570,3,03,Che,Ches,4,4th,04,DR,DR,Dale Reckoning,04/03/1570,4 Ches 1570,4 Ches 1570 DR
-19 Tarsakh 1576 DR,575378,harptos_gb,19,4,1576,4,04,Tar,Tarsakh,19,19th,19,DR,DR,Dale Reckoning,19/04/1576,19 Tarsakh 1576,19 Tarsakh 1576 DR
-14 Uktar 1580 DR,577048,harptos_gb,14,11,1580,11,11,Ukt,Uktar,14,14th,14,DR,DR,Dale Reckoning,14/11/1580,14 Uktar 1580,14 Uktar 1580 DR
-30 Eleint 1584 DR,578464,harptos_gb,30,9,1584,9,09,Elt,Eleint,30,30th,30,DR,DR,Dale Reckoning,30/09/1584,30 Eleint 1584,30 Eleint 1584 DR
-5 Marpenoth 1588 DR,579931,harptos_gb,5,10,1588,10,10,Mar,Marpenoth,5,5th,05,DR,DR,Dale Reckoning,05/10/1588,5 Marpenoth 1588,5 Marpenoth 1588 DR
-30 Tarsakh 1601 DR,584521,harptos_gb,30,4,1601,4,04,Tar,Tarsakh,30,30th,30,DR,DR,Dale Reckoning,30/04/1601,30 Tarsakh 1601,30 Tarsakh 1601 DR
-4 Eleint 1603 DR,585377,harptos_gb,4,9,1603,9,09,Elt,Eleint,4,4th,04,DR,DR,Dale Reckoning,04/09/1603,4 Eleint 1603,4 Eleint 1603 DR
-15 Alturiak 1608 DR,587002,harptos_gb,15,2,1608,2,02,Alt,Alturiak,15,15th,15,DR,DR,Dale Reckoning,15/02/1608,15 Alturiak 1608,15 Alturiak 1608 DR
-3 Eleint 1608 DR,587203,harptos_gb,3,9,1608,9,09,Elt,Eleint,3,3rd,03,DR,DR,Dale Reckoning,03/09/1608,3 Eleint 1608,3 Eleint 1608 DR
-23 Hammer 1616 DR,589901,harptos_gb,23,1,1616,1,01,Ham,Hammer,23,23rd,23,DR,DR,Dale Reckoning,23/01/1616,23 Hammer 1616,23 Hammer 1616 DR
-14 Uktar 1620 DR,591658,harptos_gb,14,11,1620,11,11,Ukt,Uktar,14,14th,14,DR,DR,Dale Reckoning,14/11/1620,14 Uktar 1620,14 Uktar 1620 DR
-27 Alturiak 1626 DR,593589,harptos_gb,27,2,1626,2,02,Alt,Alturiak,27,27th,27,DR,DR,Dale Reckoning,27/02/1626,27 Alturiak 1626,27 Alturiak 1626 DR
-2 Marpenoth 1630 DR,595268,harptos_gb,2,10,1630,10,10,Mar,Marpenoth,2,2nd,02,DR,DR,Dale Reckoning,02/10/1630,2 Marpenoth 1630,2 Marpenoth 1630 DR
-11 Kythorn 1642 DR,599538,harptos_gb,11,6,1642,6,06,Kyt,Kythorn,11,11th,11,DR,DR,Dale Reckoning,11/06/1642,11 Kythorn 1642,11 Kythorn 1642 DR
-18 Kythorn 1642 DR,599545,harptos_gb,18,6,1642,6,06,Kyt,Kythorn,18,18th,18,DR,DR,Dale Reckoning,18/06/1642,18 Kythorn 1642,18 Kythorn 1642 DR
-26 Eleasis 1649 DR,602171,harptos_gb,26,8,1649,8,08,Els,Eleasis,26,26th,26,DR,DR,Dale Reckoning,26/08/1649,26 Eleasis 1649,26 Eleasis 1649 DR
-29 Marpenoth 1649 DR,602235,harptos_gb,29,10,1649,10,10,Mar,Marpenoth,29,29th,29,DR,DR,Dale Reckoning,29/10/1649,29 Marpenoth 1649,29 Marpenoth 1649 DR
-Highharvestide 1656 DR,604763,harptos_gb,31,9,1656,HH,HH,HH,Highharvestide,31,31st,31,DR,DR,Dale Reckoning,HH/1656,Highharvestide 1656,Highharvestide 1656 DR
-1 Alturiak 1657 DR,604886,harptos_gb,1,2,1657,2,02,Alt,Alturiak,1,1st,01,DR,DR,Dale Reckoning,01/02/1657,1 Alturiak 1657,1 Alturiak 1657 DR
-12 Marpenoth 1667 DR,608792,harptos_gb,12,10,1667,10,10,Mar,Marpenoth,12,12th,12,DR,DR,Dale Reckoning,12/10/1667,12 Marpenoth 1667,12 Marpenoth 1667 DR
-7 Eleint 1668 DR,609122,harptos_gb,7,9,1668,9,09,Elt,Eleint,7,7th,07,DR,DR,Dale Reckoning,07/09/1668,7 Eleint 1668,7 Eleint 1668 DR
-10 Uktar 1671 DR,610281,harptos_gb,10,11,1671,11,11,Ukt,Uktar,10,10th,10,DR,DR,Dale Reckoning,10/11/1671,10 Uktar 1671,10 Uktar 1671 DR
-1 Eleasis 1675 DR,611642,harptos_gb,1,8,1675,8,08,Els,Eleasis,1,1st,01,DR,DR,Dale Reckoning,01/08/1675,1 Eleasis 1675,1 Eleasis 1675 DR
-29 Eleasis 1677 DR,612401,harptos_gb,29,8,1677,8,08,Els,Eleasis,29,29th,29,DR,DR,Dale Reckoning,29/08/1677,29 Eleasis 1677,29 Eleasis 1677 DR
-12 Eleint 1682 DR,614240,harptos_gb,12,9,1682,9,09,Elt,Eleint,12,12th,12,DR,DR,Dale Reckoning,12/09/1682,12 Eleint 1682,12 Eleint 1682 DR
-14 Alturiak 1684 DR,614760,harptos_gb,14,2,1684,2,02,Alt,Alturiak,14,14th,14,DR,DR,Dale Reckoning,14/02/1684,14 Alturiak 1684,14 Alturiak 1684 DR
-21 Marpenoth 1691 DR,617567,harptos_gb,21,10,1691,10,10,Mar,Marpenoth,21,21st,21,DR,DR,Dale Reckoning,21/10/1691,21 Marpenoth 1691,21 Marpenoth 1691 DR
-26 Eleasis 1706 DR,622990,harptos_gb,26,8,1706,8,08,Els,Eleasis,26,26th,26,DR,DR,Dale Reckoning,26/08/1706,26 Eleasis 1706,26 Eleasis 1706 DR
-26 Mirtul 1722 DR,628743,harptos_gb,26,5,1722,5,05,Mir,Mirtul,26,26th,26,DR,DR,Dale Reckoning,26/05/1722,26 Mirtul 1722,26 Mirtul 1722 DR
-8 Kythorn 1724 DR,629485,harptos_gb,8,6,1724,6,06,Kyt,Kythorn,8,8th,08,DR,DR,Dale Reckoning,08/06/1724,8 Kythorn 1724,8 Kythorn 1724 DR
-23 Hammer 1729 DR,631175,harptos_gb,23,1,1729,1,01,Ham,Hammer,23,23rd,23,DR,DR,Dale Reckoning,23/01/1729,23 Hammer 1729,23 Hammer 1729 DR
-20 Marpenoth 1730 DR,631811,harptos_gb,20,10,1730,10,10,Mar,Marpenoth,20,20th,20,DR,DR,Dale Reckoning,20/10/1730,20 Marpenoth 1730,20 Marpenoth 1730 DR
-17 Tarsakh 1744 DR,636738,harptos_gb,17,4,1744,4,04,Tar,Tarsakh,17,17th,17,DR,DR,Dale Reckoning,17/04/1744,17 Tarsakh 1744,17 Tarsakh 1744 DR
-Midsummer 1752 DR,639765,harptos_gb,31,7,1752,MS,MS,MS,Midsummer,31,31st,31,DR,DR,Dale Reckoning,MS/1752,Midsummer 1752,Midsummer 1752 DR
-12 Tarsakh 1756 DR,641116,harptos_gb,12,4,1756,4,04,Tar,Tarsakh,12,12th,12,DR,DR,Dale Reckoning,12/04/1756,12 Tarsakh 1756,12 Tarsakh 1756 DR
-4 Hammer 1758 DR,641748,harptos_gb,4,1,1758,1,01,Ham,Hammer,4,4th,04,DR,DR,Dale Reckoning,04/01/1758,4 Hammer 1758,4 Hammer 1758 DR
-2 Ches 1769 DR,645825,harptos_gb,2,3,1769,3,03,Che,Ches,2,2nd,02,DR,DR,Dale Reckoning,02/03/1769,2 Ches 1769,2 Ches 1769 DR
-18 Flamerule 1769 DR,645962,harptos_gb,18,7,1769,7,07,Fla,Flamerule,18,18th,18,DR,DR,Dale Reckoning,18/07/1769,18 Flamerule 1769,18 Flamerule 1769 DR
-2 Uktar 1771 DR,646798,harptos_gb,2,11,1771,11,11,Ukt,Uktar,2,2nd,02,DR,DR,Dale Reckoning,02/11/1771,2 Uktar 1771,2 Uktar 1771 DR
-29 Eleint 1774 DR,647860,harptos_gb,29,9,1774,9,09,Elt,Eleint,29,29th,29,DR,DR,Dale Reckoning,29/09/1774,29 Eleint 1774,29 Eleint 1774 DR
-16 Eleint 1776 DR,648578,harptos_gb,16,9,1776,9,09,Elt,Eleint,16,16th,16,DR,DR,Dale Reckoning,16/09/1776,16 Eleint 1776,16 Eleint 1776 DR
-20 Eleint 1786 DR,652234,harptos_gb,20,9,1786,9,09,Elt,Eleint,20,20th,20,DR,DR,Dale Reckoning,20/09/1786,20 Eleint 1786,20 Eleint 1786 DR
-17 Eleasis 1790 DR,653662,harptos_gb,17,8,1790,8,08,Els,Eleasis,17,17th,17,DR,DR,Dale Reckoning,17/08/1790,17 Eleasis 1790,17 Eleasis 1790 DR
-21 Flamerule 1794 DR,655096,harptos_gb,21,7,1794,7,07,Fla,Flamerule,21,21st,21,DR,DR,Dale Reckoning,21/07/1794,21 Flamerule 1794,21 Flamerule 1794 DR
-22 Marpenoth 1797 DR,656285,harptos_gb,22,10,1797,10,10,Mar,Marpenoth,22,22nd,22,DR,DR,Dale Reckoning,22/10/1797,22 Marpenoth 1797,22 Marpenoth 1797 DR
-13 Kythorn 1798 DR,656519,harptos_gb,13,6,1798,6,06,Kyt,Kythorn,13,13th,13,DR,DR,Dale Reckoning,13/06/1798,13 Kythorn 1798,13 Kythorn 1798 DR
-27 Kythorn 1799 DR,656898,harptos_gb,27,6,1799,6,06,Kyt,Kythorn,27,27th,27,DR,DR,Dale Reckoning,27/06/1799,27 Kythorn 1799,27 Kythorn 1799 DR
-22 Alturiak 1801 DR,657503,harptos_gb,22,2,1801,2,02,Alt,Alturiak,22,22nd,22,DR,DR,Dale Reckoning,22/02/1801,22 Alturiak 1801,22 Alturiak 1801 DR
-20 Marpenoth 1803 DR,658474,harptos_gb,20,10,1803,10,10,Mar,Marpenoth,20,20th,20,DR,DR,Dale Reckoning,20/10/1803,20 Marpenoth 1803,20 Marpenoth 1803 DR
-4 Nightal 1811 DR,661441,harptos_gb,4,12,1811,12,12,Nig,Nightal,4,4th,04,DR,DR,Dale Reckoning,04/12/1811,4 Nightal 1811,4 Nightal 1811 DR
-17 Mirtul 1812 DR,661606,harptos_gb,17,5,1812,5,05,Mir,Mirtul,17,17th,17,DR,DR,Dale Reckoning,17/05/1812,17 Mirtul 1812,17 Mirtul 1812 DR
-11 Eleint 1813 DR,662087,harptos_gb,11,9,1813,9,09,Elt,Eleint,11,11th,11,DR,DR,Dale Reckoning,11/09/1813,11 Eleint 1813,11 Eleint 1813 DR
-5 Uktar 1816 DR,663238,harptos_gb,5,11,1816,11,11,Ukt,Uktar,5,5th,05,DR,DR,Dale Reckoning,05/11/1816,5 Uktar 1816,5 Uktar 1816 DR
-4 Kythorn 1827 DR,667102,harptos_gb,4,6,1827,6,06,Kyt,Kythorn,4,4th,04,DR,DR,Dale Reckoning,04/06/1827,4 Kythorn 1827,4 Kythorn 1827 DR
-7 Eleint 1836 DR,670484,harptos_gb,7,9,1836,9,09,Elt,Eleint,7,7th,07,DR,DR,Dale Reckoning,07/09/1836,7 Eleint 1836,7 Eleint 1836 DR
-23 Eleasis 1841 DR,672296,harptos_gb,23,8,1841,8,08,Els,Eleasis,23,23rd,23,DR,DR,Dale Reckoning,23/08/1841,23 Eleasis 1841,23 Eleasis 1841 DR
-18 Kythorn 1844 DR,673325,harptos_gb,18,6,1844,6,06,Kyt,Kythorn,18,18th,18,DR,DR,Dale Reckoning,18/06/1844,18 Kythorn 1844,18 Kythorn 1844 DR
-Greengrass 1848 DR,674738,harptos_gb,31,4,1848,GG,GG,GG,Greengrass,31,31st,31,DR,DR,Dale Reckoning,GG/1848,Greengrass 1848,Greengrass 1848 DR
-15 Alturiak 1850 DR,675393,harptos_gb,15,2,1850,2,02,Alt,Alturiak,15,15th,15,DR,DR,Dale Reckoning,15/02/1850,15 Alturiak 1850,15 Alturiak 1850 DR
-27 Mirtul 1853 DR,676592,harptos_gb,27,5,1853,5,05,Mir,Mirtul,27,27th,27,DR,DR,Dale Reckoning,27/05/1853,27 Mirtul 1853,27 Mirtul 1853 DR
-11 Uktar 1854 DR,677123,harptos_gb,11,11,1854,11,11,Ukt,Uktar,11,11th,11,DR,DR,Dale Reckoning,11/11/1854,11 Uktar 1854,11 Uktar 1854 DR
-Feast of the Moon 1854 DR,677143,harptos_gb,31,11,1854,FM,FM,FM,Feast of the Moon,31,31st,31,DR,DR,Dale Reckoning,FM/1854,Feast of the Moon 1854,Feast of the Moon 1854 DR
-3 Eleasis 1855 DR,677389,harptos_gb,3,8,1855,8,08,Els,Eleasis,3,3rd,03,DR,DR,Dale Reckoning,03/08/1855,3 Eleasis 1855,3 Eleasis 1855 DR
-30 Marpenoth 1860 DR,679304,harptos_gb,30,10,1860,10,10,Mar,Marpenoth,30,30th,30,DR,DR,Dale Reckoning,30/10/1860,30 Marpenoth 1860,30 Marpenoth 1860 DR
-21 Mirtul 1869 DR,682430,harptos_gb,21,5,1869,5,05,Mir,Mirtul,21,21st,21,DR,DR,Dale Reckoning,21/05/1869,21 Mirtul 1869,21 Mirtul 1869 DR
-23 Hammer 1880 DR,686327,harptos_gb,23,1,1880,1,01,Ham,Hammer,23,23rd,23,DR,DR,Dale Reckoning,23/01/1880,23 Hammer 1880,23 Hammer 1880 DR
-6 Marpenoth 1881 DR,686950,harptos_gb,6,10,1881,10,10,Mar,Marpenoth,6,6th,06,DR,DR,Dale Reckoning,06/10/1881,6 Marpenoth 1881,6 Marpenoth 1881 DR
-29 Eleasis 1882 DR,687277,harptos_gb,29,8,1882,8,08,Els,Eleasis,29,29th,29,DR,DR,Dale Reckoning,29/08/1882,29 Eleasis 1882,29 Eleasis 1882 DR
-20 Alturiak 1883 DR,687451,harptos_gb,20,2,1883,2,02,Alt,Alturiak,20,20th,20,DR,DR,Dale Reckoning,20/02/1883,20 Alturiak 1883,20 Alturiak 1883 DR
-Midwinter 1893 DR,691084,harptos_gb,31,1,1893,MW,MW,MW,Midwinter,31,31st,31,DR,DR,Dale Reckoning,MW/1893,Midwinter 1893,Midwinter 1893 DR
-13 Hammer 1896 DR,692161,harptos_gb,13,1,1896,1,01,Ham,Hammer,13,13th,13,DR,DR,Dale Reckoning,13/01/1896,13 Hammer 1896,13 Hammer 1896 DR
-Midwinter 1897 DR,692545,harptos_gb,31,1,1897,MW,MW,MW,Midwinter,31,31st,31,DR,DR,Dale Reckoning,MW/1897,Midwinter 1897,Midwinter 1897 DR
-12 Flamerule 1903 DR,694899,harptos_gb,12,7,1903,7,07,Fla,Flamerule,12,12th,12,DR,DR,Dale Reckoning,12/07/1903,12 Flamerule 1903,12 Flamerule 1903 DR
-21 Nightal 1903 DR,695061,harptos_gb,21,12,1903,12,12,Nig,Nightal,21,21st,21,DR,DR,Dale Reckoning,21/12/1903,21 Nightal 1903,21 Nightal 1903 DR
-23 Hammer 1921 DR,701303,harptos_gb,23,1,1921,1,01,Ham,Hammer,23,23rd,23,DR,DR,Dale Reckoning,23/01/1921,23 Hammer 1921,23 Hammer 1921 DR
-12 Nightal 1921 DR,701627,harptos_gb,12,12,1921,12,12,Nig,Nightal,12,12th,12,DR,DR,Dale Reckoning,12/12/1921,12 Nightal 1921,12 Nightal 1921 DR
-13 Hammer 1924 DR,702388,harptos_gb,13,1,1924,1,01,Ham,Hammer,13,13th,13,DR,DR,Dale Reckoning,13/01/1924,13 Hammer 1924,13 Hammer 1924 DR
-12 Marpenoth 1930 DR,704853,harptos_gb,12,10,1930,10,10,Mar,Marpenoth,12,12th,12,DR,DR,Dale Reckoning,12/10/1930,12 Marpenoth 1930,12 Marpenoth 1930 DR
-29 Marpenoth 1936 DR,707062,harptos_gb,29,10,1936,10,10,Mar,Marpenoth,29,29th,29,DR,DR,Dale Reckoning,29/10/1936,29 Marpenoth 1936,29 Marpenoth 1936 DR
-22 Eleasis 1937 DR,707359,harptos_gb,22,8,1937,8,08,Els,Eleasis,22,22nd,22,DR,DR,Dale Reckoning,22/08/1937,22 Eleasis 1937,22 Eleasis 1937 DR
-3 Hammer 1941 DR,708588,harptos_gb,3,1,1941,1,01,Ham,Hammer,3,3rd,03,DR,DR,Dale Reckoning,03/01/1941,3 Hammer 1941,3 Hammer 1941 DR
-3 Eleint 1941 DR,708831,harptos_gb,3,9,1941,9,09,Elt,Eleint,3,3rd,03,DR,DR,Dale Reckoning,03/09/1941,3 Eleint 1941,3 Eleint 1941 DR
-15 Kythorn 1947 DR,710943,harptos_gb,15,6,1947,6,06,Kyt,Kythorn,15,15th,15,DR,DR,Dale Reckoning,15/06/1947,15 Kythorn 1947,15 Kythorn 1947 DR
-7 Flamerule 1950 DR,712061,harptos_gb,7,7,1950,7,07,Fla,Flamerule,7,7th,07,DR,DR,Dale Reckoning,07/07/1950,7 Flamerule 1950,7 Flamerule 1950 DR
-25 Mirtul 1966 DR,717863,harptos_gb,25,5,1966,5,05,Mir,Mirtul,25,25th,25,DR,DR,Dale Reckoning,25/05/1966,25 Mirtul 1966,25 Mirtul 1966 DR
-29 Kythorn 1967 DR,718262,harptos_gb,29,6,1967,6,06,Kyt,Kythorn,29,29th,29,DR,DR,Dale Reckoning,29/06/1967,29 Kythorn 1967,29 Kythorn 1967 DR
-5 Hammer 1968 DR,718451,harptos_gb,5,1,1968,1,01,Ham,Hammer,5,5th,05,DR,DR,Dale Reckoning,05/01/1968,5 Hammer 1968,5 Hammer 1968 DR
-21 Eleint 1969 DR,719076,harptos_gb,21,9,1969,9,09,Elt,Eleint,21,21st,21,DR,DR,Dale Reckoning,21/09/1969,21 Eleint 1969,21 Eleint 1969 DR
-29 Eleint 1970 DR,719449,harptos_gb,29,9,1970,9,09,Elt,Eleint,29,29th,29,DR,DR,Dale Reckoning,29/09/1970,29 Eleint 1970,29 Eleint 1970 DR
-17 Nightal 1979 DR,722816,harptos_gb,17,12,1979,12,12,Nig,Nightal,17,17th,17,DR,DR,Dale Reckoning,17/12/1979,17 Nightal 1979,17 Nightal 1979 DR
-18 Uktar 1994 DR,728265,harptos_gb,18,11,1994,11,11,Ukt,Uktar,18,18th,18,DR,DR,Dale Reckoning,18/11/1994,18 Uktar 1994,18 Uktar 1994 DR
-2 Marpenoth 1995 DR,728584,harptos_gb,2,10,1995,10,10,Mar,Marpenoth,2,2nd,02,DR,DR,Dale Reckoning,02/10/1995,2 Marpenoth 1995,2 Marpenoth 1995 DR
-20 Uktar 1997 DR,729363,harptos_gb,20,11,1997,11,11,Ukt,Uktar,20,20th,20,DR,DR,Dale Reckoning,20/11/1997,20 Uktar 1997,20 Uktar 1997 DR
+description,daystamp,locale,day,month,year,y,YYYY,M,MM,MMM,MMMM,D,Do,DD,N,NN,NNN,L,LL,LLL
+Greengrass 0003 DR,852,harptos_gb,31,4,3,3,0003,GG,GG,GG,Greengrass,,,,DR,DR,Dale Reckoning,GG/0003,Greengrass 0003,Greengrass 0003 DR
+12 Hammer 0004 DR,1107,harptos_gb,12,1,4,4,0004,1,01,Ham,Hammer,12,12th,12,DR,DR,Dale Reckoning,12/01/0004,12 Hammer 0004,12 Hammer 0004 DR
+17 Uktar 0006 DR,2147,harptos_gb,17,11,6,6,0006,11,11,Ukt,Uktar,17,17th,17,DR,DR,Dale Reckoning,17/11/0006,17 Uktar 0006,17 Uktar 0006 DR
+18 Nightal 0007 DR,2544,harptos_gb,18,12,7,7,0007,12,12,Nig,Nightal,18,18th,18,DR,DR,Dale Reckoning,18/12/0007,18 Nightal 0007,18 Nightal 0007 DR
+23 Hammer 0016 DR,5501,harptos_gb,23,1,16,16,0016,1,01,Ham,Hammer,23,23rd,23,DR,DR,Dale Reckoning,23/01/0016,23 Hammer 0016,23 Hammer 0016 DR
+17 Nightal 0025 DR,9118,harptos_gb,17,12,25,25,0025,12,12,Nig,Nightal,17,17th,17,DR,DR,Dale Reckoning,17/12/0025,17 Nightal 0025,17 Nightal 0025 DR
+25 Flamerule 0030 DR,10799,harptos_gb,25,7,30,30,0030,7,07,Fla,Flamerule,25,25th,25,DR,DR,Dale Reckoning,25/07/0030,25 Flamerule 0030,25 Flamerule 0030 DR
+Midwinter 0031 DR,10988,harptos_gb,31,1,31,31,0031,MW,MW,MW,Midwinter,,,,DR,DR,Dale Reckoning,MW/0031,Midwinter 0031,Midwinter 0031 DR
+18 Uktar 0037 DR,13471,harptos_gb,18,11,37,37,0037,11,11,Ukt,Uktar,18,18th,18,DR,DR,Dale Reckoning,18/11/0037,18 Uktar 0037,18 Uktar 0037 DR
+11 Flamerule 0040 DR,14437,harptos_gb,11,7,40,40,0040,7,07,Fla,Flamerule,11,11th,11,DR,DR,Dale Reckoning,11/07/0040,11 Flamerule 0040,11 Flamerule 0040 DR
+17 Marpenoth 0044 DR,15997,harptos_gb,17,10,44,44,0044,10,10,Mar,Marpenoth,17,17th,17,DR,DR,Dale Reckoning,17/10/0044,17 Marpenoth 0044,17 Marpenoth 0044 DR
+4 Hammer 0045 DR,16075,harptos_gb,4,1,45,45,0045,1,01,Ham,Hammer,4,4th,04,DR,DR,Dale Reckoning,04/01/0045,4 Hammer 0045,4 Hammer 0045 DR
+9 Hammer 0045 DR,16080,harptos_gb,9,1,45,45,0045,1,01,Ham,Hammer,9,9th,09,DR,DR,Dale Reckoning,09/01/0045,9 Hammer 0045,9 Hammer 0045 DR
+14 Hammer 0060 DR,21563,harptos_gb,14,1,60,60,0060,1,01,Ham,Hammer,14,14th,14,DR,DR,Dale Reckoning,14/01/0060,14 Hammer 0060,14 Hammer 0060 DR
+Highharvestide 0062 DR,22554,harptos_gb,31,9,62,62,0062,HH,HH,HH,Highharvestide,,,,DR,DR,Dale Reckoning,HH/0062,Highharvestide 0062,Highharvestide 0062 DR
+22 Flamerule 0063 DR,22849,harptos_gb,22,7,63,63,0063,7,07,Fla,Flamerule,22,22nd,22,DR,DR,Dale Reckoning,22/07/0063,22 Flamerule 0063,22 Flamerule 0063 DR
+11 Eleasis 0065 DR,23600,harptos_gb,11,8,65,65,0065,8,08,Els,Eleasis,11,11th,11,DR,DR,Dale Reckoning,11/08/0065,11 Eleasis 0065,11 Eleasis 0065 DR
+7 Uktar 0072 DR,26244,harptos_gb,7,11,72,72,0072,11,11,Ukt,Uktar,7,7th,07,DR,DR,Dale Reckoning,07/11/0072,7 Uktar 0072,7 Uktar 0072 DR
+15 Marpenoth 0073 DR,26587,harptos_gb,15,10,73,73,0073,10,10,Mar,Marpenoth,15,15th,15,DR,DR,Dale Reckoning,15/10/0073,15 Marpenoth 0073,15 Marpenoth 0073 DR
+2 Eleasis 0078 DR,28339,harptos_gb,2,8,78,78,0078,8,08,Els,Eleasis,2,2nd,02,DR,DR,Dale Reckoning,02/08/0078,2 Eleasis 0078,2 Eleasis 0078 DR
+28 Marpenoth 0080 DR,29157,harptos_gb,28,10,80,80,0080,10,10,Mar,Marpenoth,28,28th,28,DR,DR,Dale Reckoning,28/10/0080,28 Marpenoth 0080,28 Marpenoth 0080 DR
+10 Mirtul 0086 DR,31178,harptos_gb,10,5,86,86,0086,5,05,Mir,Mirtul,10,10th,10,DR,DR,Dale Reckoning,10/05/0086,10 Mirtul 0086,10 Mirtul 0086 DR
+11 Flamerule 0087 DR,31604,harptos_gb,11,7,87,87,0087,7,07,Fla,Flamerule,11,11th,11,DR,DR,Dale Reckoning,11/07/0087,11 Flamerule 0087,11 Flamerule 0087 DR
+13 Alturiak 0096 DR,34742,harptos_gb,13,2,96,96,0096,2,02,Alt,Alturiak,13,13th,13,DR,DR,Dale Reckoning,13/02/0096,13 Alturiak 0096,13 Alturiak 0096 DR
+Midwinter 0097 DR,35095,harptos_gb,31,1,97,97,0097,MW,MW,MW,Midwinter,,,,DR,DR,Dale Reckoning,MW/0097,Midwinter 0097,Midwinter 0097 DR
+21 Eleint 0097 DR,35328,harptos_gb,21,9,97,97,0097,9,09,Elt,Eleint,21,21st,21,DR,DR,Dale Reckoning,21/09/0097,21 Eleint 0097,21 Eleint 0097 DR
+5 Eleasis 0113 DR,41126,harptos_gb,5,8,113,113,0113,8,08,Els,Eleasis,5,5th,05,DR,DR,Dale Reckoning,05/08/0113,5 Eleasis 0113,5 Eleasis 0113 DR
+25 Ches 0131 DR,47568,harptos_gb,25,3,131,131,0131,3,03,Che,Ches,25,25th,25,DR,DR,Dale Reckoning,25/03/0131,25 Ches 0131,25 Ches 0131 DR
+4 Nightal 0142 DR,51839,harptos_gb,4,12,142,142,0142,12,12,Nig,Nightal,4,4th,04,DR,DR,Dale Reckoning,04/12/0142,4 Nightal 0142,4 Nightal 0142 DR
+23 Uktar 0147 DR,53653,harptos_gb,23,11,147,147,0147,11,11,Ukt,Uktar,23,23rd,23,DR,DR,Dale Reckoning,23/11/0147,23 Uktar 0147,23 Uktar 0147 DR
+4 Kythorn 0150 DR,54578,harptos_gb,4,6,150,150,0150,6,06,Kyt,Kythorn,4,4th,04,DR,DR,Dale Reckoning,04/06/0150,4 Kythorn 0150,4 Kythorn 0150 DR
+21 Tarsakh 0154 DR,55995,harptos_gb,21,4,154,154,0154,4,04,Tar,Tarsakh,21,21st,21,DR,DR,Dale Reckoning,21/04/0154,21 Tarsakh 0154,21 Tarsakh 0154 DR
+27 Hammer 0158 DR,57371,harptos_gb,27,1,158,158,0158,1,01,Ham,Hammer,27,27th,27,DR,DR,Dale Reckoning,27/01/0158,27 Hammer 0158,27 Hammer 0158 DR
+26 Eleasis 0158 DR,57583,harptos_gb,26,8,158,158,0158,8,08,Els,Eleasis,26,26th,26,DR,DR,Dale Reckoning,26/08/0158,26 Eleasis 0158,26 Eleasis 0158 DR
+19 Uktar 0161 DR,58763,harptos_gb,19,11,161,161,0161,11,11,Ukt,Uktar,19,19th,19,DR,DR,Dale Reckoning,19/11/0161,19 Uktar 0161,19 Uktar 0161 DR
+17 Nightal 0162 DR,59157,harptos_gb,17,12,162,162,0162,12,12,Nig,Nightal,17,17th,17,DR,DR,Dale Reckoning,17/12/0162,17 Nightal 0162,17 Nightal 0162 DR
+21 Hammer 0166 DR,60287,harptos_gb,21,1,166,166,0166,1,01,Ham,Hammer,21,21st,21,DR,DR,Dale Reckoning,21/01/0166,21 Hammer 0166,21 Hammer 0166 DR
+20 Eleint 0167 DR,60894,harptos_gb,20,9,167,167,0167,9,09,Elt,Eleint,20,20th,20,DR,DR,Dale Reckoning,20/09/0167,20 Eleint 0167,20 Eleint 0167 DR
+1 Ches 0192 DR,69824,harptos_gb,1,3,192,192,0192,3,03,Che,Ches,1,1st,01,DR,DR,Dale Reckoning,01/03/0192,1 Ches 0192,1 Ches 0192 DR
+13 Tarsakh 0195 DR,70962,harptos_gb,13,4,195,195,0195,4,04,Tar,Tarsakh,13,13th,13,DR,DR,Dale Reckoning,13/04/0195,13 Tarsakh 0195,13 Tarsakh 0195 DR
+Greengrass 0203 DR,73902,harptos_gb,31,4,203,203,0203,GG,GG,GG,Greengrass,,,,DR,DR,Dale Reckoning,GG/0203,Greengrass 0203,Greengrass 0203 DR
+4 Marpenoth 0219 DR,79902,harptos_gb,4,10,219,219,0219,10,10,Mar,Marpenoth,4,4th,04,DR,DR,Dale Reckoning,04/10/0219,4 Marpenoth 0219,4 Marpenoth 0219 DR
+8 Flamerule 0221 DR,80545,harptos_gb,8,7,221,221,0221,7,07,Fla,Flamerule,8,8th,08,DR,DR,Dale Reckoning,08/07/0221,8 Flamerule 0221,8 Flamerule 0221 DR
+Feast of the Moon 0221 DR,80690,harptos_gb,31,11,221,221,0221,FM,FM,FM,Feast of the Moon,,,,DR,DR,Dale Reckoning,FM/0221,Feast of the Moon 0221,Feast of the Moon 0221 DR
+16 Uktar 0226 DR,82501,harptos_gb,16,11,226,226,0226,11,11,Ukt,Uktar,16,16th,16,DR,DR,Dale Reckoning,16/11/0226,16 Uktar 0226,16 Uktar 0226 DR
+19 Uktar 0228 DR,83235,harptos_gb,19,11,228,228,0228,11,11,Ukt,Uktar,19,19th,19,DR,DR,Dale Reckoning,19/11/0228,19 Uktar 0228,19 Uktar 0228 DR
+18 Tarsakh 0238 DR,86673,harptos_gb,18,4,238,238,0238,4,04,Tar,Tarsakh,18,18th,18,DR,DR,Dale Reckoning,18/04/0238,18 Tarsakh 0238,18 Tarsakh 0238 DR
+Highharvestide 0241 DR,87934,harptos_gb,31,9,241,241,0241,HH,HH,HH,Highharvestide,,,,DR,DR,Dale Reckoning,HH/0241,Highharvestide 0241,Highharvestide 0241 DR
+3 Alturiak 0243 DR,88424,harptos_gb,3,2,243,243,0243,2,02,Alt,Alturiak,3,3rd,03,DR,DR,Dale Reckoning,03/02/0243,3 Alturiak 0243,3 Alturiak 0243 DR
+27 Marpenoth 0244 DR,89057,harptos_gb,27,10,244,244,0244,10,10,Mar,Marpenoth,27,27th,27,DR,DR,Dale Reckoning,27/10/0244,27 Marpenoth 0244,27 Marpenoth 0244 DR
+24 Eleasis 0250 DR,91184,harptos_gb,24,8,250,250,0250,8,08,Els,Eleasis,24,24th,24,DR,DR,Dale Reckoning,24/08/0250,24 Eleasis 0250,24 Eleasis 0250 DR
+27 Marpenoth 0253 DR,92344,harptos_gb,27,10,253,253,0253,10,10,Mar,Marpenoth,27,27th,27,DR,DR,Dale Reckoning,27/10/0253,27 Marpenoth 0253,27 Marpenoth 0253 DR
+12 Hammer 0256 DR,93150,harptos_gb,12,1,256,256,0256,1,01,Ham,Hammer,12,12th,12,DR,DR,Dale Reckoning,12/01/0256,12 Hammer 0256,12 Hammer 0256 DR
+9 Kythorn 0268 DR,97682,harptos_gb,9,6,268,268,0268,6,06,Kyt,Kythorn,9,9th,09,DR,DR,Dale Reckoning,09/06/0268,9 Kythorn 0268,9 Kythorn 0268 DR
+5 Kythorn 0270 DR,98409,harptos_gb,5,6,270,270,0270,6,06,Kyt,Kythorn,5,5th,05,DR,DR,Dale Reckoning,05/06/0270,5 Kythorn 0270,5 Kythorn 0270 DR
+16 Flamerule 0273 DR,99546,harptos_gb,16,7,273,273,0273,7,07,Fla,Flamerule,16,16th,16,DR,DR,Dale Reckoning,16/07/0273,16 Flamerule 0273,16 Flamerule 0273 DR
+22 Mirtul 0282 DR,102779,harptos_gb,22,5,282,282,0282,5,05,Mir,Mirtul,22,22nd,22,DR,DR,Dale Reckoning,22/05/0282,22 Mirtul 0282,22 Mirtul 0282 DR
+15 Eleint 0282 DR,102893,harptos_gb,15,9,282,282,0282,9,09,Elt,Eleint,15,15th,15,DR,DR,Dale Reckoning,15/09/0282,15 Eleint 0282,15 Eleint 0282 DR
+7 Nightal 0283 DR,103342,harptos_gb,7,12,283,283,0283,12,12,Nig,Nightal,7,7th,07,DR,DR,Dale Reckoning,07/12/0283,7 Nightal 0283,7 Nightal 0283 DR
+2 Kythorn 0294 DR,107172,harptos_gb,2,6,294,294,0294,6,06,Kyt,Kythorn,2,2nd,02,DR,DR,Dale Reckoning,02/06/0294,2 Kythorn 0294,2 Kythorn 0294 DR
+1 Eleint 0297 DR,108358,harptos_gb,1,9,297,297,0297,9,09,Elt,Eleint,1,1st,01,DR,DR,Dale Reckoning,01/09/0297,1 Eleint 0297,1 Eleint 0297 DR
+12 Hammer 0298 DR,108491,harptos_gb,12,1,298,298,0298,1,01,Ham,Hammer,12,12th,12,DR,DR,Dale Reckoning,12/01/0298,12 Hammer 0298,12 Hammer 0298 DR
+6 Uktar 0298 DR,108789,harptos_gb,6,11,298,298,0298,11,11,Ukt,Uktar,6,6th,06,DR,DR,Dale Reckoning,06/11/0298,6 Uktar 0298,6 Uktar 0298 DR
+11 Alturiak 0299 DR,108886,harptos_gb,11,2,299,299,0299,2,02,Alt,Alturiak,11,11th,11,DR,DR,Dale Reckoning,11/02/0299,11 Alturiak 0299,11 Alturiak 0299 DR
+26 Uktar 0302 DR,110270,harptos_gb,26,11,302,302,0302,11,11,Ukt,Uktar,26,26th,26,DR,DR,Dale Reckoning,26/11/0302,26 Uktar 0302,26 Uktar 0302 DR
+10 Marpenoth 0303 DR,110589,harptos_gb,10,10,303,303,0303,10,10,Mar,Marpenoth,10,10th,10,DR,DR,Dale Reckoning,10/10/0303,10 Marpenoth 0303,10 Marpenoth 0303 DR
+19 Eleasis 0311 DR,113459,harptos_gb,19,8,311,311,0311,8,08,Els,Eleasis,19,19th,19,DR,DR,Dale Reckoning,19/08/0311,19 Eleasis 0311,19 Eleasis 0311 DR
+7 Eleint 0317 DR,115669,harptos_gb,7,9,317,317,0317,9,09,Elt,Eleint,7,7th,07,DR,DR,Dale Reckoning,07/09/0317,7 Eleint 0317,7 Eleint 0317 DR
+22 Ches 0323 DR,117693,harptos_gb,22,3,323,323,0323,3,03,Che,Ches,22,22nd,22,DR,DR,Dale Reckoning,22/03/0323,22 Ches 0323,22 Ches 0323 DR
+23 Marpenoth 0323 DR,117907,harptos_gb,23,10,323,323,0323,10,10,Mar,Marpenoth,23,23rd,23,DR,DR,Dale Reckoning,23/10/0323,23 Marpenoth 0323,23 Marpenoth 0323 DR
+6 Uktar 0324 DR,118286,harptos_gb,6,11,324,324,0324,11,11,Ukt,Uktar,6,6th,06,DR,DR,Dale Reckoning,06/11/0324,6 Uktar 0324,6 Uktar 0324 DR
+16 Ches 0329 DR,119879,harptos_gb,16,3,329,329,0329,3,03,Che,Ches,16,16th,16,DR,DR,Dale Reckoning,16/03/0329,16 Ches 0329,16 Ches 0329 DR
+14 Kythorn 0348 DR,126907,harptos_gb,14,6,348,348,0348,6,06,Kyt,Kythorn,14,14th,14,DR,DR,Dale Reckoning,14/06/0348,14 Kythorn 0348,14 Kythorn 0348 DR
+29 Flamerule 0356 DR,129874,harptos_gb,29,7,356,356,0356,7,07,Fla,Flamerule,29,29th,29,DR,DR,Dale Reckoning,29/07/0356,29 Flamerule 0356,29 Flamerule 0356 DR
+20 Hammer 0360 DR,131144,harptos_gb,20,1,360,360,0360,1,01,Ham,Hammer,20,20th,20,DR,DR,Dale Reckoning,20/01/0360,20 Hammer 0360,20 Hammer 0360 DR
+30 Ches 0362 DR,131946,harptos_gb,30,3,362,362,0362,3,03,Che,Ches,30,30th,30,DR,DR,Dale Reckoning,30/03/0362,30 Ches 0362,30 Ches 0362 DR
+22 Marpenoth 0364 DR,132882,harptos_gb,22,10,364,364,0364,10,10,Mar,Marpenoth,22,22nd,22,DR,DR,Dale Reckoning,22/10/0364,22 Marpenoth 0364,22 Marpenoth 0364 DR
+6 Hammer 0370 DR,134783,harptos_gb,6,1,370,370,0370,1,01,Ham,Hammer,6,6th,06,DR,DR,Dale Reckoning,06/01/0370,6 Hammer 0370,6 Hammer 0370 DR
+9 Marpenoth 0374 DR,136521,harptos_gb,9,10,374,374,0374,10,10,Mar,Marpenoth,9,9th,09,DR,DR,Dale Reckoning,09/10/0374,9 Marpenoth 0374,9 Marpenoth 0374 DR
+30 Marpenoth 0378 DR,138003,harptos_gb,30,10,378,378,0378,10,10,Mar,Marpenoth,30,30th,30,DR,DR,Dale Reckoning,30/10/0378,30 Marpenoth 0378,30 Marpenoth 0378 DR
+25 Eleint 0387 DR,141254,harptos_gb,25,9,387,387,0387,9,09,Elt,Eleint,25,25th,25,DR,DR,Dale Reckoning,25/09/0387,25 Eleint 0387,25 Eleint 0387 DR
+13 Ches 0398 DR,145078,harptos_gb,13,3,398,398,0398,3,03,Che,Ches,13,13th,13,DR,DR,Dale Reckoning,13/03/0398,13 Ches 0398,13 Ches 0398 DR
+1 Hammer 0407 DR,148292,harptos_gb,1,1,407,407,0407,1,01,Ham,Hammer,1,1st,01,DR,DR,Dale Reckoning,01/01/0407,1 Hammer 0407,1 Hammer 0407 DR
+29 Marpenoth 0414 DR,151151,harptos_gb,29,10,414,414,0414,10,10,Mar,Marpenoth,29,29th,29,DR,DR,Dale Reckoning,29/10/0414,29 Marpenoth 0414,29 Marpenoth 0414 DR
+21 Ches 0420 DR,153121,harptos_gb,21,3,420,420,0420,3,03,Che,Ches,21,21st,21,DR,DR,Dale Reckoning,21/03/0420,21 Ches 0420,21 Ches 0420 DR
+9 Ches 0422 DR,153840,harptos_gb,9,3,422,422,0422,3,03,Che,Ches,9,9th,09,DR,DR,Dale Reckoning,09/03/0422,9 Ches 0422,9 Ches 0422 DR
+11 Tarsakh 0423 DR,154237,harptos_gb,11,4,423,423,0423,4,04,Tar,Tarsakh,11,11th,11,DR,DR,Dale Reckoning,11/04/0423,11 Tarsakh 0423,11 Tarsakh 0423 DR
+27 Nightal 0423 DR,154497,harptos_gb,27,12,423,423,0423,12,12,Nig,Nightal,27,27th,27,DR,DR,Dale Reckoning,27/12/0423,27 Nightal 0423,27 Nightal 0423 DR
+20 Alturiak 0431 DR,157108,harptos_gb,20,2,431,431,0431,2,02,Alt,Alturiak,20,20th,20,DR,DR,Dale Reckoning,20/02/0431,20 Alturiak 0431,20 Alturiak 0431 DR
+1 Tarsakh 0432 DR,157514,harptos_gb,1,4,432,432,0432,4,04,Tar,Tarsakh,1,1st,01,DR,DR,Dale Reckoning,01/04/0432,1 Tarsakh 0432,1 Tarsakh 0432 DR
+Midsummer 0433 DR,158001,harptos_gb,31,7,433,433,0433,MS,MS,MS,Midsummer,,,,DR,DR,Dale Reckoning,MS/0433,Midsummer 0433,Midsummer 0433 DR
+6 Nightal 0439 DR,160320,harptos_gb,6,12,439,439,0439,12,12,Nig,Nightal,6,6th,06,DR,DR,Dale Reckoning,06/12/0439,6 Nightal 0439,6 Nightal 0439 DR
+27 Marpenoth 0444 DR,162107,harptos_gb,27,10,444,444,0444,10,10,Mar,Marpenoth,27,27th,27,DR,DR,Dale Reckoning,27/10/0444,27 Marpenoth 0444,27 Marpenoth 0444 DR
+Highharvestide 0446 DR,162810,harptos_gb,31,9,446,446,0446,HH,HH,HH,Highharvestide,,,,DR,DR,Dale Reckoning,HH/0446,Highharvestide 0446,Highharvestide 0446 DR
+12 Marpenoth 0454 DR,165744,harptos_gb,12,10,454,454,0454,10,10,Mar,Marpenoth,12,12th,12,DR,DR,Dale Reckoning,12/10/0454,12 Marpenoth 0454,12 Marpenoth 0454 DR
+5 Ches 0455 DR,165889,harptos_gb,5,3,455,455,0455,3,03,Che,Ches,5,5th,05,DR,DR,Dale Reckoning,05/03/0455,5 Ches 0455,5 Ches 0455 DR
+22 Kythorn 0462 DR,168554,harptos_gb,22,6,462,462,0462,6,06,Kyt,Kythorn,22,22nd,22,DR,DR,Dale Reckoning,22/06/0462,22 Kythorn 0462,22 Kythorn 0462 DR
+Midsummer 0468 DR,170784,harptos_gb,31,7,468,468,0468,MS,MS,MS,Midsummer,,,,DR,DR,Dale Reckoning,MS/0468,Midsummer 0468,Midsummer 0468 DR
+29 Ches 0472 DR,172122,harptos_gb,29,3,472,472,0472,3,03,Che,Ches,29,29th,29,DR,DR,Dale Reckoning,29/03/0472,29 Ches 0472,29 Ches 0472 DR
+27 Uktar 0474 DR,173094,harptos_gb,27,11,474,474,0474,11,11,Ukt,Uktar,27,27th,27,DR,DR,Dale Reckoning,27/11/0474,27 Uktar 0474,27 Uktar 0474 DR
+24 Alturiak 0477 DR,173914,harptos_gb,24,2,477,477,0477,2,02,Alt,Alturiak,24,24th,24,DR,DR,Dale Reckoning,24/02/0477,24 Alturiak 0477,24 Alturiak 0477 DR
+5 Nightal 0480 DR,175295,harptos_gb,5,12,480,480,0480,12,12,Nig,Nightal,5,5th,05,DR,DR,Dale Reckoning,05/12/0480,5 Nightal 0480,5 Nightal 0480 DR
+14 Flamerule 0485 DR,176977,harptos_gb,14,7,485,485,0485,7,07,Fla,Flamerule,14,14th,14,DR,DR,Dale Reckoning,14/07/0485,14 Flamerule 0485,14 Flamerule 0485 DR
+19 Ches 0486 DR,177226,harptos_gb,19,3,486,486,0486,3,03,Che,Ches,19,19th,19,DR,DR,Dale Reckoning,19/03/0486,19 Ches 0486,19 Ches 0486 DR
+11 Ches 0499 DR,181966,harptos_gb,11,3,499,499,0499,3,03,Che,Ches,11,11th,11,DR,DR,Dale Reckoning,11/03/0499,11 Ches 0499,11 Ches 0499 DR
+20 Uktar 0501 DR,182949,harptos_gb,20,11,501,501,0501,11,11,Ukt,Uktar,20,20th,20,DR,DR,Dale Reckoning,20/11/0501,20 Uktar 0501,20 Uktar 0501 DR
+9 Mirtul 0503 DR,183486,harptos_gb,9,5,503,503,0503,5,05,Mir,Mirtul,9,9th,09,DR,DR,Dale Reckoning,09/05/0503,9 Mirtul 0503,9 Mirtul 0503 DR
+5 Tarsakh 0504 DR,183816,harptos_gb,5,4,504,504,0504,4,04,Tar,Tarsakh,5,5th,05,DR,DR,Dale Reckoning,05/04/0504,5 Tarsakh 0504,5 Tarsakh 0504 DR
+21 Hammer 0509 DR,185568,harptos_gb,21,1,509,509,0509,1,01,Ham,Hammer,21,21st,21,DR,DR,Dale Reckoning,21/01/0509,21 Hammer 0509,21 Hammer 0509 DR
+25 Marpenoth 0510 DR,186211,harptos_gb,25,10,510,510,0510,10,10,Mar,Marpenoth,25,25th,25,DR,DR,Dale Reckoning,25/10/0510,25 Marpenoth 0510,25 Marpenoth 0510 DR
+Greengrass 0513 DR,187130,harptos_gb,31,4,513,513,0513,GG,GG,GG,Greengrass,,,,DR,DR,Dale Reckoning,GG/0513,Greengrass 0513,Greengrass 0513 DR
+27 Eleasis 0513 DR,187248,harptos_gb,27,8,513,513,0513,8,08,Els,Eleasis,27,27th,27,DR,DR,Dale Reckoning,27/08/0513,27 Eleasis 0513,27 Eleasis 0513 DR
+30 Tarsakh 0517 DR,188590,harptos_gb,30,4,517,517,0517,4,04,Tar,Tarsakh,30,30th,30,DR,DR,Dale Reckoning,30/04/0517,30 Tarsakh 0517,30 Tarsakh 0517 DR
+9 Kythorn 0517 DR,188630,harptos_gb,9,6,517,517,0517,6,06,Kyt,Kythorn,9,9th,09,DR,DR,Dale Reckoning,09/06/0517,9 Kythorn 0517,9 Kythorn 0517 DR
+5 Flamerule 0524 DR,191212,harptos_gb,5,7,524,524,0524,7,07,Fla,Flamerule,5,5th,05,DR,DR,Dale Reckoning,05/07/0524,5 Flamerule 0524,5 Flamerule 0524 DR
+12 Uktar 0527 DR,192437,harptos_gb,12,11,527,527,0527,11,11,Ukt,Uktar,12,12th,12,DR,DR,Dale Reckoning,12/11/0527,12 Uktar 0527,12 Uktar 0527 DR
+9 Kythorn 0529 DR,193013,harptos_gb,9,6,529,529,0529,6,06,Kyt,Kythorn,9,9th,09,DR,DR,Dale Reckoning,09/06/0529,9 Kythorn 0529,9 Kythorn 0529 DR
+26 Nightal 0530 DR,193578,harptos_gb,26,12,530,530,0530,12,12,Nig,Nightal,26,26th,26,DR,DR,Dale Reckoning,26/12/0530,26 Nightal 0530,26 Nightal 0530 DR
+7 Ches 0532 DR,194015,harptos_gb,7,3,532,532,0532,3,03,Che,Ches,7,7th,07,DR,DR,Dale Reckoning,07/03/0532,7 Ches 0532,7 Ches 0532 DR
+26 Tarsakh 0534 DR,194795,harptos_gb,26,4,534,534,0534,4,04,Tar,Tarsakh,26,26th,26,DR,DR,Dale Reckoning,26/04/0534,26 Tarsakh 0534,26 Tarsakh 0534 DR
+27 Flamerule 0534 DR,194887,harptos_gb,27,7,534,534,0534,7,07,Fla,Flamerule,27,27th,27,DR,DR,Dale Reckoning,27/07/0534,27 Flamerule 0534,27 Flamerule 0534 DR
+20 Eleasis 0534 DR,194911,harptos_gb,20,8,534,534,0534,8,08,Els,Eleasis,20,20th,20,DR,DR,Dale Reckoning,20/08/0534,20 Eleasis 0534,20 Eleasis 0534 DR
+11 Tarsakh 0536 DR,195510,harptos_gb,11,4,536,536,0536,4,04,Tar,Tarsakh,11,11th,11,DR,DR,Dale Reckoning,11/04/0536,11 Tarsakh 0536,11 Tarsakh 0536 DR
+21 Tarsakh 0543 DR,198077,harptos_gb,21,4,543,543,0543,4,04,Tar,Tarsakh,21,21st,21,DR,DR,Dale Reckoning,21/04/0543,21 Tarsakh 0543,21 Tarsakh 0543 DR
+12 Kythorn 0543 DR,198129,harptos_gb,12,6,543,543,0543,6,06,Kyt,Kythorn,12,12th,12,DR,DR,Dale Reckoning,12/06/0543,12 Kythorn 0543,12 Kythorn 0543 DR
+3 Flamerule 0543 DR,198150,harptos_gb,3,7,543,543,0543,7,07,Fla,Flamerule,3,3rd,03,DR,DR,Dale Reckoning,03/07/0543,3 Flamerule 0543,3 Flamerule 0543 DR
+11 Uktar 0546 DR,199376,harptos_gb,11,11,546,546,0546,11,11,Ukt,Uktar,11,11th,11,DR,DR,Dale Reckoning,11/11/0546,11 Uktar 0546,11 Uktar 0546 DR
+10 Marpenoth 0553 DR,201902,harptos_gb,10,10,553,553,0553,10,10,Mar,Marpenoth,10,10th,10,DR,DR,Dale Reckoning,10/10/0553,10 Marpenoth 0553,10 Marpenoth 0553 DR
+5 Alturiak 0556 DR,202749,harptos_gb,5,2,556,556,0556,2,02,Alt,Alturiak,5,5th,05,DR,DR,Dale Reckoning,05/02/0556,5 Alturiak 0556,5 Alturiak 0556 DR
+17 Mirtul 0556 DR,202852,harptos_gb,17,5,556,556,0556,5,05,Mir,Mirtul,17,17th,17,DR,DR,Dale Reckoning,17/05/0556,17 Mirtul 0556,17 Mirtul 0556 DR
+18 Hammer 0573 DR,208941,harptos_gb,18,1,573,573,0573,1,01,Ham,Hammer,18,18th,18,DR,DR,Dale Reckoning,18/01/0573,18 Hammer 0573,18 Hammer 0573 DR
+27 Marpenoth 0582 DR,212511,harptos_gb,27,10,582,582,0582,10,10,Mar,Marpenoth,27,27th,27,DR,DR,Dale Reckoning,27/10/0582,27 Marpenoth 0582,27 Marpenoth 0582 DR
+Midsummer 0590 DR,215345,harptos_gb,31,7,590,590,0590,MS,MS,MS,Midsummer,,,,DR,DR,Dale Reckoning,MS/0590,Midsummer 0590,Midsummer 0590 DR
+12 Eleasis 0590 DR,215357,harptos_gb,12,8,590,590,0590,8,08,Els,Eleasis,12,12th,12,DR,DR,Dale Reckoning,12/08/0590,12 Eleasis 0590,12 Eleasis 0590 DR
+5 Flamerule 0591 DR,215684,harptos_gb,5,7,591,591,0591,7,07,Fla,Flamerule,5,5th,05,DR,DR,Dale Reckoning,05/07/0591,5 Flamerule 0591,5 Flamerule 0591 DR
+3 Marpenoth 0593 DR,216505,harptos_gb,3,10,593,593,0593,10,10,Mar,Marpenoth,3,3rd,03,DR,DR,Dale Reckoning,03/10/0593,3 Marpenoth 0593,3 Marpenoth 0593 DR
+12 Eleint 0594 DR,216848,harptos_gb,12,9,594,594,0594,9,09,Elt,Eleint,12,12th,12,DR,DR,Dale Reckoning,12/09/0594,12 Eleint 0594,12 Eleint 0594 DR
+Highharvestide 0596 DR,217598,harptos_gb,31,9,596,596,0596,HH,HH,HH,Highharvestide,,,,DR,DR,Dale Reckoning,HH/0596,Highharvestide 0596,Highharvestide 0596 DR
+7 Mirtul 0603 DR,220009,harptos_gb,7,5,603,603,0603,5,05,Mir,Mirtul,7,7th,07,DR,DR,Dale Reckoning,07/05/0603,7 Mirtul 0603,7 Mirtul 0603 DR
+25 Ches 0608 DR,221792,harptos_gb,25,3,608,608,0608,3,03,Che,Ches,25,25th,25,DR,DR,Dale Reckoning,25/03/0608,25 Ches 0608,25 Ches 0608 DR
+26 Marpenoth 0615 DR,224563,harptos_gb,26,10,615,615,0615,10,10,Mar,Marpenoth,26,26th,26,DR,DR,Dale Reckoning,26/10/0615,26 Marpenoth 0615,26 Marpenoth 0615 DR
+Highharvestide 0618 DR,225633,harptos_gb,31,9,618,618,0618,HH,HH,HH,Highharvestide,,,,DR,DR,Dale Reckoning,HH/0618,Highharvestide 0618,Highharvestide 0618 DR
+4 Marpenoth 0631 DR,230385,harptos_gb,4,10,631,631,0631,10,10,Mar,Marpenoth,4,4th,04,DR,DR,Dale Reckoning,04/10/0631,4 Marpenoth 0631,4 Marpenoth 0631 DR
+29 Alturiak 0634 DR,231263,harptos_gb,29,2,634,634,0634,2,02,Alt,Alturiak,29,29th,29,DR,DR,Dale Reckoning,29/02/0634,29 Alturiak 0634,29 Alturiak 0634 DR
+25 Mirtul 0634 DR,231350,harptos_gb,25,5,634,634,0634,5,05,Mir,Mirtul,25,25th,25,DR,DR,Dale Reckoning,25/05/0634,25 Mirtul 0634,25 Mirtul 0634 DR
+9 Nightal 0637 DR,232643,harptos_gb,9,12,637,637,0637,12,12,Nig,Nightal,9,9th,09,DR,DR,Dale Reckoning,09/12/0637,9 Nightal 0637,9 Nightal 0637 DR
+Feast of the Moon 0639 DR,233364,harptos_gb,31,11,639,639,0639,FM,FM,FM,Feast of the Moon,,,,DR,DR,Dale Reckoning,FM/0639,Feast of the Moon 0639,Feast of the Moon 0639 DR
+Shieldmeet 0640 DR,233608,harptos_gb,32,7,640,640,0640,SM,SM,SM,Shieldmeet,,,,DR,DR,Dale Reckoning,SM/0640,Shieldmeet 0640,Shieldmeet 0640 DR
+8 Uktar 0646 DR,235898,harptos_gb,8,11,646,646,0646,11,11,Ukt,Uktar,8,8th,08,DR,DR,Dale Reckoning,08/11/0646,8 Uktar 0646,8 Uktar 0646 DR
+Greengrass 0649 DR,236804,harptos_gb,31,4,649,649,0649,GG,GG,GG,Greengrass,,,,DR,DR,Dale Reckoning,GG/0649,Greengrass 0649,Greengrass 0649 DR
+3 Marpenoth 0650 DR,237324,harptos_gb,3,10,650,650,0650,10,10,Mar,Marpenoth,3,3rd,03,DR,DR,Dale Reckoning,03/10/0650,3 Marpenoth 0650,3 Marpenoth 0650 DR
+15 Hammer 0659 DR,240349,harptos_gb,15,1,659,659,0659,1,01,Ham,Hammer,15,15th,15,DR,DR,Dale Reckoning,15/01/0659,15 Hammer 0659,15 Hammer 0659 DR
+Midsummer 0661 DR,241278,harptos_gb,31,7,661,661,0661,MS,MS,MS,Midsummer,,,,DR,DR,Dale Reckoning,MS/0661,Midsummer 0661,Midsummer 0661 DR
+9 Eleint 0692 DR,252640,harptos_gb,9,9,692,692,0692,9,09,Elt,Eleint,9,9th,09,DR,DR,Dale Reckoning,09/09/0692,9 Eleint 0692,9 Eleint 0692 DR
+4 Uktar 0692 DR,252696,harptos_gb,4,11,692,692,0692,11,11,Ukt,Uktar,4,4th,04,DR,DR,Dale Reckoning,04/11/0692,4 Uktar 0692,4 Uktar 0692 DR
+21 Ches 0693 DR,252835,harptos_gb,21,3,693,693,0693,3,03,Che,Ches,21,21st,21,DR,DR,Dale Reckoning,21/03/0693,21 Ches 0693,21 Ches 0693 DR
+28 Kythorn 0696 DR,254028,harptos_gb,28,6,696,696,0696,6,06,Kyt,Kythorn,28,28th,28,DR,DR,Dale Reckoning,28/06/0696,28 Kythorn 0696,28 Kythorn 0696 DR
+2 Kythorn 0697 DR,254368,harptos_gb,2,6,697,697,0697,6,06,Kyt,Kythorn,2,2nd,02,DR,DR,Dale Reckoning,02/06/0697,2 Kythorn 0697,2 Kythorn 0697 DR
+28 Eleint 0697 DR,254485,harptos_gb,28,9,697,697,0697,9,09,Elt,Eleint,28,28th,28,DR,DR,Dale Reckoning,28/09/0697,28 Eleint 0697,28 Eleint 0697 DR
+8 Flamerule 0707 DR,258056,harptos_gb,8,7,707,707,0707,7,07,Fla,Flamerule,8,8th,08,DR,DR,Dale Reckoning,08/07/0707,8 Flamerule 0707,8 Flamerule 0707 DR
+24 Marpenoth 0707 DR,258164,harptos_gb,24,10,707,707,0707,10,10,Mar,Marpenoth,24,24th,24,DR,DR,Dale Reckoning,24/10/0707,24 Marpenoth 0707,24 Marpenoth 0707 DR
+24 Alturiak 0713 DR,260113,harptos_gb,24,2,713,713,0713,2,02,Alt,Alturiak,24,24th,24,DR,DR,Dale Reckoning,24/02/0713,24 Alturiak 0713,24 Alturiak 0713 DR
+8 Eleasis 0717 DR,261740,harptos_gb,8,8,717,717,0717,8,08,Els,Eleasis,8,8th,08,DR,DR,Dale Reckoning,08/08/0717,8 Eleasis 0717,8 Eleasis 0717 DR
+26 Uktar 0722 DR,263675,harptos_gb,26,11,722,722,0722,11,11,Ukt,Uktar,26,26th,26,DR,DR,Dale Reckoning,26/11/0722,26 Uktar 0722,26 Uktar 0722 DR
+23 Alturiak 0729 DR,265956,harptos_gb,23,2,729,729,0729,2,02,Alt,Alturiak,23,23rd,23,DR,DR,Dale Reckoning,23/02/0729,23 Alturiak 0729,23 Alturiak 0729 DR
+21 Eleasis 0749 DR,273441,harptos_gb,21,8,749,749,0749,8,08,Els,Eleasis,21,21st,21,DR,DR,Dale Reckoning,21/08/0749,21 Eleasis 0749,21 Eleasis 0749 DR
+9 Mirtul 0750 DR,273703,harptos_gb,9,5,750,750,0750,5,05,Mir,Mirtul,9,9th,09,DR,DR,Dale Reckoning,09/05/0750,9 Mirtul 0750,9 Mirtul 0750 DR
+Highharvestide 0751 DR,274211,harptos_gb,31,9,751,751,0751,HH,HH,HH,Highharvestide,,,,DR,DR,Dale Reckoning,HH/0751,Highharvestide 0751,Highharvestide 0751 DR
+7 Tarsakh 0764 DR,278783,harptos_gb,7,4,764,764,0764,4,04,Tar,Tarsakh,7,7th,07,DR,DR,Dale Reckoning,07/04/0764,7 Tarsakh 0764,7 Tarsakh 0764 DR
+18 Kythorn 0765 DR,279221,harptos_gb,18,6,765,765,0765,6,06,Kyt,Kythorn,18,18th,18,DR,DR,Dale Reckoning,18/06/0765,18 Kythorn 0765,18 Kythorn 0765 DR
+12 Hammer 0767 DR,279793,harptos_gb,12,1,767,767,0767,1,01,Ham,Hammer,12,12th,12,DR,DR,Dale Reckoning,12/01/0767,12 Hammer 0767,12 Hammer 0767 DR
+25 Alturiak 0767 DR,279837,harptos_gb,25,2,767,767,0767,2,02,Alt,Alturiak,25,25th,25,DR,DR,Dale Reckoning,25/02/0767,25 Alturiak 0767,25 Alturiak 0767 DR
+9 Tarsakh 0767 DR,279881,harptos_gb,9,4,767,767,0767,4,04,Tar,Tarsakh,9,9th,09,DR,DR,Dale Reckoning,09/04/0767,9 Tarsakh 0767,9 Tarsakh 0767 DR
+15 Ches 0775 DR,282779,harptos_gb,15,3,775,775,0775,3,03,Che,Ches,15,15th,15,DR,DR,Dale Reckoning,15/03/0775,15 Ches 0775,15 Ches 0775 DR
+20 Alturiak 0777 DR,283485,harptos_gb,20,2,777,777,0777,2,02,Alt,Alturiak,20,20th,20,DR,DR,Dale Reckoning,20/02/0777,20 Alturiak 0777,20 Alturiak 0777 DR
+28 Eleasis 0781 DR,285136,harptos_gb,28,8,781,781,0781,8,08,Els,Eleasis,28,28th,28,DR,DR,Dale Reckoning,28/08/0781,28 Eleasis 0781,28 Eleasis 0781 DR
+16 Alturiak 0787 DR,287133,harptos_gb,16,2,787,787,0787,2,02,Alt,Alturiak,16,16th,16,DR,DR,Dale Reckoning,16/02/0787,16 Alturiak 0787,16 Alturiak 0787 DR
+22 Mirtul 0788 DR,287595,harptos_gb,22,5,788,788,0788,5,05,Mir,Mirtul,22,22nd,22,DR,DR,Dale Reckoning,22/05/0788,22 Mirtul 0788,22 Mirtul 0788 DR
+14 Alturiak 0790 DR,288227,harptos_gb,14,2,790,790,0790,2,02,Alt,Alturiak,14,14th,14,DR,DR,Dale Reckoning,14/02/0790,14 Alturiak 0790,14 Alturiak 0790 DR
+Greengrass 0796 DR,290495,harptos_gb,31,4,796,796,0796,GG,GG,GG,Greengrass,,,,DR,DR,Dale Reckoning,GG/0796,Greengrass 0796,Greengrass 0796 DR
+19 Kythorn 0798 DR,291275,harptos_gb,19,6,798,798,0798,6,06,Kyt,Kythorn,19,19th,19,DR,DR,Dale Reckoning,19/06/0798,19 Kythorn 0798,19 Kythorn 0798 DR
+18 Uktar 0800 DR,292157,harptos_gb,18,11,800,800,0800,11,11,Ukt,Uktar,18,18th,18,DR,DR,Dale Reckoning,18/11/0800,18 Uktar 0800,18 Uktar 0800 DR
+27 Tarsakh 0801 DR,292318,harptos_gb,27,4,801,801,0801,4,04,Tar,Tarsakh,27,27th,27,DR,DR,Dale Reckoning,27/04/0801,27 Tarsakh 0801,27 Tarsakh 0801 DR
+24 Hammer 0814 DR,296972,harptos_gb,24,1,814,814,0814,1,01,Ham,Hammer,24,24th,24,DR,DR,Dale Reckoning,24/01/0814,24 Hammer 0814,24 Hammer 0814 DR
+12 Alturiak 0821 DR,299548,harptos_gb,12,2,821,821,0821,2,02,Alt,Alturiak,12,12th,12,DR,DR,Dale Reckoning,12/02/0821,12 Alturiak 0821,12 Alturiak 0821 DR
+19 Mirtul 0826 DR,301472,harptos_gb,19,5,826,826,0826,5,05,Mir,Mirtul,19,19th,19,DR,DR,Dale Reckoning,19/05/0826,19 Mirtul 0826,19 Mirtul 0826 DR
+9 Mirtul 0829 DR,302558,harptos_gb,9,5,829,829,0829,5,05,Mir,Mirtul,9,9th,09,DR,DR,Dale Reckoning,09/05/0829,9 Mirtul 0829,9 Mirtul 0829 DR
+Midwinter 0845 DR,308302,harptos_gb,31,1,845,845,0845,MW,MW,MW,Midwinter,,,,DR,DR,Dale Reckoning,MW/0845,Midwinter 0845,Midwinter 0845 DR
+28 Flamerule 0853 DR,311403,harptos_gb,28,7,853,853,0853,7,07,Fla,Flamerule,28,28th,28,DR,DR,Dale Reckoning,28/07/0853,28 Flamerule 0853,28 Flamerule 0853 DR
+15 Marpenoth 0855 DR,312212,harptos_gb,15,10,855,855,0855,10,10,Mar,Marpenoth,15,15th,15,DR,DR,Dale Reckoning,15/10/0855,15 Marpenoth 0855,15 Marpenoth 0855 DR
+21 Alturiak 0865 DR,315628,harptos_gb,21,2,865,865,0865,2,02,Alt,Alturiak,21,21st,21,DR,DR,Dale Reckoning,21/02/0865,21 Alturiak 0865,21 Alturiak 0865 DR
+Midwinter 0866 DR,315972,harptos_gb,31,1,866,866,0866,MW,MW,MW,Midwinter,,,,DR,DR,Dale Reckoning,MW/0866,Midwinter 0866,Midwinter 0866 DR
+Midsummer 0871 DR,317980,harptos_gb,31,7,871,871,0871,MS,MS,MS,Midsummer,,,,DR,DR,Dale Reckoning,MS/0871,Midsummer 0871,Midsummer 0871 DR
+23 Flamerule 0877 DR,320164,harptos_gb,23,7,877,877,0877,7,07,Fla,Flamerule,23,23rd,23,DR,DR,Dale Reckoning,23/07/0877,23 Flamerule 0877,23 Flamerule 0877 DR
+22 Kythorn 0921 DR,336204,harptos_gb,22,6,921,921,0921,6,06,Kyt,Kythorn,22,22nd,22,DR,DR,Dale Reckoning,22/06/0921,22 Kythorn 0921,22 Kythorn 0921 DR
+1 Kythorn 0924 DR,337278,harptos_gb,1,6,924,924,0924,6,06,Kyt,Kythorn,1,1st,01,DR,DR,Dale Reckoning,01/06/0924,1 Kythorn 0924,1 Kythorn 0924 DR
+7 Flamerule 0926 DR,338045,harptos_gb,7,7,926,926,0926,7,07,Fla,Flamerule,7,7th,07,DR,DR,Dale Reckoning,07/07/0926,7 Flamerule 0926,7 Flamerule 0926 DR
+30 Kythorn 0930 DR,339499,harptos_gb,30,6,930,930,0930,6,06,Kyt,Kythorn,30,30th,30,DR,DR,Dale Reckoning,30/06/0930,30 Kythorn 0930,30 Kythorn 0930 DR
+25 Eleint 0931 DR,339950,harptos_gb,25,9,931,931,0931,9,09,Elt,Eleint,25,25th,25,DR,DR,Dale Reckoning,25/09/0931,25 Eleint 0931,25 Eleint 0931 DR
+8 Eleasis 0934 DR,340999,harptos_gb,8,8,934,934,0934,8,08,Els,Eleasis,8,8th,08,DR,DR,Dale Reckoning,08/08/0934,8 Eleasis 0934,8 Eleasis 0934 DR
+13 Eleasis 0940 DR,343196,harptos_gb,13,8,940,940,0940,8,08,Els,Eleasis,13,13th,13,DR,DR,Dale Reckoning,13/08/0940,13 Eleasis 0940,13 Eleasis 0940 DR
+16 Nightal 0940 DR,343321,harptos_gb,16,12,940,940,0940,12,12,Nig,Nightal,16,16th,16,DR,DR,Dale Reckoning,16/12/0940,16 Nightal 0940,16 Nightal 0940 DR
+29 Uktar 0941 DR,343668,harptos_gb,29,11,941,941,0941,11,11,Ukt,Uktar,29,29th,29,DR,DR,Dale Reckoning,29/11/0941,29 Uktar 0941,29 Uktar 0941 DR
+25 Alturiak 0948 DR,345947,harptos_gb,25,2,948,948,0948,2,02,Alt,Alturiak,25,25th,25,DR,DR,Dale Reckoning,25/02/0948,25 Alturiak 0948,25 Alturiak 0948 DR
+9 Flamerule 0949 DR,346448,harptos_gb,9,7,949,949,0949,7,07,Fla,Flamerule,9,9th,09,DR,DR,Dale Reckoning,09/07/0949,9 Flamerule 0949,9 Flamerule 0949 DR
+6 Flamerule 0954 DR,348271,harptos_gb,6,7,954,954,0954,7,07,Fla,Flamerule,6,6th,06,DR,DR,Dale Reckoning,06/07/0954,6 Flamerule 0954,6 Flamerule 0954 DR
+Midwinter 0963 DR,351401,harptos_gb,31,1,963,963,0963,MW,MW,MW,Midwinter,,,,DR,DR,Dale Reckoning,MW/0963,Midwinter 0963,Midwinter 0963 DR
+6 Kythorn 0965 DR,352259,harptos_gb,6,6,965,965,0965,6,06,Kyt,Kythorn,6,6th,06,DR,DR,Dale Reckoning,06/06/0965,6 Kythorn 0965,6 Kythorn 0965 DR
+10 Kythorn 0974 DR,355550,harptos_gb,10,6,974,974,0974,6,06,Kyt,Kythorn,10,10th,10,DR,DR,Dale Reckoning,10/06/0974,10 Kythorn 0974,10 Kythorn 0974 DR
+9 Flamerule 0977 DR,356675,harptos_gb,9,7,977,977,0977,7,07,Fla,Flamerule,9,9th,09,DR,DR,Dale Reckoning,09/07/0977,9 Flamerule 0977,9 Flamerule 0977 DR
+11 Eleint 0985 DR,359660,harptos_gb,11,9,985,985,0985,9,09,Elt,Eleint,11,11th,11,DR,DR,Dale Reckoning,11/09/0985,11 Eleint 0985,11 Eleint 0985 DR
+5 Ches 0988 DR,360567,harptos_gb,5,3,988,988,0988,3,03,Che,Ches,5,5th,05,DR,DR,Dale Reckoning,05/03/0988,5 Ches 0988,5 Ches 0988 DR
+17 Alturiak 0990 DR,361280,harptos_gb,17,2,990,990,0990,2,02,Alt,Alturiak,17,17th,17,DR,DR,Dale Reckoning,17/02/0990,17 Alturiak 0990,17 Alturiak 0990 DR
+Midsummer 0991 DR,361810,harptos_gb,31,7,991,991,0991,MS,MS,MS,Midsummer,,,,DR,DR,Dale Reckoning,MS/0991,Midsummer 0991,Midsummer 0991 DR
+24 Marpenoth 0992 DR,362261,harptos_gb,24,10,992,992,0992,10,10,Mar,Marpenoth,24,24th,24,DR,DR,Dale Reckoning,24/10/0992,24 Marpenoth 0992,24 Marpenoth 0992 DR
+Feast of the Moon 0993 DR,362663,harptos_gb,31,11,993,993,0993,FM,FM,FM,Feast of the Moon,,,,DR,DR,Dale Reckoning,FM/0993,Feast of the Moon 0993,Feast of the Moon 0993 DR
+10 Nightal 1001 DR,365595,harptos_gb,10,12,1001,1001,1001,12,12,Nig,Nightal,10,10th,10,DR,DR,Dale Reckoning,10/12/1001,10 Nightal 1001,10 Nightal 1001 DR
+29 Eleasis 1011 DR,369144,harptos_gb,29,8,1011,1011,1011,8,08,Els,Eleasis,29,29th,29,DR,DR,Dale Reckoning,29/08/1011,29 Eleasis 1011,29 Eleasis 1011 DR
+30 Marpenoth 1011 DR,369206,harptos_gb,30,10,1011,1011,1011,10,10,Mar,Marpenoth,30,30th,30,DR,DR,Dale Reckoning,30/10/1011,30 Marpenoth 1011,30 Marpenoth 1011 DR
+1 Kythorn 1015 DR,370516,harptos_gb,1,6,1015,1015,1015,6,06,Kyt,Kythorn,1,1st,01,DR,DR,Dale Reckoning,01/06/1015,1 Kythorn 1015,1 Kythorn 1015 DR
+7 Flamerule 1021 DR,372744,harptos_gb,7,7,1021,1021,1021,7,07,Fla,Flamerule,7,7th,07,DR,DR,Dale Reckoning,07/07/1021,7 Flamerule 1021,7 Flamerule 1021 DR
+20 Hammer 1026 DR,374401,harptos_gb,20,1,1026,1026,1026,1,01,Ham,Hammer,20,20th,20,DR,DR,Dale Reckoning,20/01/1026,20 Hammer 1026,20 Hammer 1026 DR
+24 Mirtul 1033 DR,377084,harptos_gb,24,5,1033,1033,1033,5,05,Mir,Mirtul,24,24th,24,DR,DR,Dale Reckoning,24/05/1033,24 Mirtul 1033,24 Mirtul 1033 DR
+7 Kythorn 1052 DR,384036,harptos_gb,7,6,1052,1052,1052,6,06,Kyt,Kythorn,7,7th,07,DR,DR,Dale Reckoning,07/06/1052,7 Kythorn 1052,7 Kythorn 1052 DR
+7 Tarsakh 1059 DR,386532,harptos_gb,7,4,1059,1059,1059,4,04,Tar,Tarsakh,7,7th,07,DR,DR,Dale Reckoning,07/04/1059,7 Tarsakh 1059,7 Tarsakh 1059 DR
+25 Hammer 1060 DR,386824,harptos_gb,25,1,1060,1060,1060,1,01,Ham,Hammer,25,25th,25,DR,DR,Dale Reckoning,25/01/1060,25 Hammer 1060,25 Hammer 1060 DR
+20 Alturiak 1077 DR,393060,harptos_gb,20,2,1077,1077,1077,2,02,Alt,Alturiak,20,20th,20,DR,DR,Dale Reckoning,20/02/1077,20 Alturiak 1077,20 Alturiak 1077 DR
+24 Ches 1083 DR,395285,harptos_gb,24,3,1083,1083,1083,3,03,Che,Ches,24,24th,24,DR,DR,Dale Reckoning,24/03/1083,24 Ches 1083,24 Ches 1083 DR
+27 Hammer 1089 DR,397419,harptos_gb,27,1,1089,1089,1089,1,01,Ham,Hammer,27,27th,27,DR,DR,Dale Reckoning,27/01/1089,27 Hammer 1089,27 Hammer 1089 DR
+17 Flamerule 1089 DR,397591,harptos_gb,17,7,1089,1089,1089,7,07,Fla,Flamerule,17,17th,17,DR,DR,Dale Reckoning,17/07/1089,17 Flamerule 1089,17 Flamerule 1089 DR
+23 Flamerule 1090 DR,397962,harptos_gb,23,7,1090,1090,1090,7,07,Fla,Flamerule,23,23rd,23,DR,DR,Dale Reckoning,23/07/1090,23 Flamerule 1090,23 Flamerule 1090 DR
+1 Flamerule 1101 DR,401958,harptos_gb,1,7,1101,1101,1101,7,07,Fla,Flamerule,1,1st,01,DR,DR,Dale Reckoning,01/07/1101,1 Flamerule 1101,1 Flamerule 1101 DR
+15 Flamerule 1113 DR,406355,harptos_gb,15,7,1113,1113,1113,7,07,Fla,Flamerule,15,15th,15,DR,DR,Dale Reckoning,15/07/1113,15 Flamerule 1113,15 Flamerule 1113 DR
+9 Hammer 1116 DR,407262,harptos_gb,9,1,1116,1116,1116,1,01,Ham,Hammer,9,9th,09,DR,DR,Dale Reckoning,09/01/1116,9 Hammer 1116,9 Hammer 1116 DR
+Greengrass 1117 DR,407741,harptos_gb,31,4,1117,1117,1117,GG,GG,GG,Greengrass,,,,DR,DR,Dale Reckoning,GG/1117,Greengrass 1117,Greengrass 1117 DR
+29 Eleasis 1119 DR,408591,harptos_gb,29,8,1119,1119,1119,8,08,Els,Eleasis,29,29th,29,DR,DR,Dale Reckoning,29/08/1119,29 Eleasis 1119,29 Eleasis 1119 DR
+29 Uktar 1133 DR,413796,harptos_gb,29,11,1133,1133,1133,11,11,Ukt,Uktar,29,29th,29,DR,DR,Dale Reckoning,29/11/1133,29 Uktar 1133,29 Uktar 1133 DR
+19 Eleasis 1134 DR,414060,harptos_gb,19,8,1134,1134,1134,8,08,Els,Eleasis,19,19th,19,DR,DR,Dale Reckoning,19/08/1134,19 Eleasis 1134,19 Eleasis 1134 DR
+Midwinter 1146 DR,418242,harptos_gb,31,1,1146,1146,1146,MW,MW,MW,Midwinter,,,,DR,DR,Dale Reckoning,MW/1146,Midwinter 1146,Midwinter 1146 DR
+25 Eleasis 1150 DR,419910,harptos_gb,25,8,1150,1150,1150,8,08,Els,Eleasis,25,25th,25,DR,DR,Dale Reckoning,25/08/1150,25 Eleasis 1150,25 Eleasis 1150 DR
+23 Flamerule 1154 DR,421338,harptos_gb,23,7,1154,1154,1154,7,07,Fla,Flamerule,23,23rd,23,DR,DR,Dale Reckoning,23/07/1154,23 Flamerule 1154,23 Flamerule 1154 DR
+27 Nightal 1156 DR,422226,harptos_gb,27,12,1156,1156,1156,12,12,Nig,Nightal,27,27th,27,DR,DR,Dale Reckoning,27/12/1156,27 Nightal 1156,27 Nightal 1156 DR
+27 Nightal 1165 DR,425513,harptos_gb,27,12,1165,1165,1165,12,12,Nig,Nightal,27,27th,27,DR,DR,Dale Reckoning,27/12/1165,27 Nightal 1165,27 Nightal 1165 DR
+12 Kythorn 1167 DR,426045,harptos_gb,12,6,1167,1167,1167,6,06,Kyt,Kythorn,12,12th,12,DR,DR,Dale Reckoning,12/06/1167,12 Kythorn 1167,12 Kythorn 1167 DR
+22 Ches 1169 DR,426695,harptos_gb,22,3,1169,1169,1169,3,03,Che,Ches,22,22nd,22,DR,DR,Dale Reckoning,22/03/1169,22 Ches 1169,22 Ches 1169 DR
+6 Marpenoth 1170 DR,427257,harptos_gb,6,10,1170,1170,1170,10,10,Mar,Marpenoth,6,6th,06,DR,DR,Dale Reckoning,06/10/1170,6 Marpenoth 1170,6 Marpenoth 1170 DR
+21 Mirtul 1171 DR,427485,harptos_gb,21,5,1171,1171,1171,5,05,Mir,Mirtul,21,21st,21,DR,DR,Dale Reckoning,21/05/1171,21 Mirtul 1171,21 Mirtul 1171 DR
+27 Mirtul 1171 DR,427491,harptos_gb,27,5,1171,1171,1171,5,05,Mir,Mirtul,27,27th,27,DR,DR,Dale Reckoning,27/05/1171,27 Mirtul 1171,27 Mirtul 1171 DR
+13 Eleint 1171 DR,427598,harptos_gb,13,9,1171,1171,1171,9,09,Elt,Eleint,13,13th,13,DR,DR,Dale Reckoning,13/09/1171,13 Eleint 1171,13 Eleint 1171 DR
+4 Nightal 1176 DR,429508,harptos_gb,4,12,1176,1176,1176,12,12,Nig,Nightal,4,4th,04,DR,DR,Dale Reckoning,04/12/1176,4 Nightal 1176,4 Nightal 1176 DR
+27 Marpenoth 1183 DR,432026,harptos_gb,27,10,1183,1183,1183,10,10,Mar,Marpenoth,27,27th,27,DR,DR,Dale Reckoning,27/10/1183,27 Marpenoth 1183,27 Marpenoth 1183 DR
+25 Eleint 1188 DR,433820,harptos_gb,25,9,1188,1188,1188,9,09,Elt,Eleint,25,25th,25,DR,DR,Dale Reckoning,25/09/1188,25 Eleint 1188,25 Eleint 1188 DR
+23 Hammer 1192 DR,435035,harptos_gb,23,1,1192,1192,1192,1,01,Ham,Hammer,23,23rd,23,DR,DR,Dale Reckoning,23/01/1192,23 Hammer 1192,23 Hammer 1192 DR
+27 Alturiak 1202 DR,438723,harptos_gb,27,2,1202,1202,1202,2,02,Alt,Alturiak,27,27th,27,DR,DR,Dale Reckoning,27/02/1202,27 Alturiak 1202,27 Alturiak 1202 DR
+Highharvestide 1202 DR,438939,harptos_gb,31,9,1202,1202,1202,HH,HH,HH,Highharvestide,,,,DR,DR,Dale Reckoning,HH/1202,Highharvestide 1202,Highharvestide 1202 DR
+1 Tarsakh 1204 DR,439487,harptos_gb,1,4,1204,1204,1204,4,04,Tar,Tarsakh,1,1st,01,DR,DR,Dale Reckoning,01/04/1204,1 Tarsakh 1204,1 Tarsakh 1204 DR
+6 Marpenoth 1206 DR,440406,harptos_gb,6,10,1206,1206,1206,10,10,Mar,Marpenoth,6,6th,06,DR,DR,Dale Reckoning,06/10/1206,6 Marpenoth 1206,6 Marpenoth 1206 DR
+19 Flamerule 1214 DR,443249,harptos_gb,19,7,1214,1214,1214,7,07,Fla,Flamerule,19,19th,19,DR,DR,Dale Reckoning,19/07/1214,19 Flamerule 1214,19 Flamerule 1214 DR
+21 Nightal 1214 DR,443404,harptos_gb,21,12,1214,1214,1214,12,12,Nig,Nightal,21,21st,21,DR,DR,Dale Reckoning,21/12/1214,21 Nightal 1214,21 Nightal 1214 DR
+24 Marpenoth 1221 DR,445903,harptos_gb,24,10,1221,1221,1221,10,10,Mar,Marpenoth,24,24th,24,DR,DR,Dale Reckoning,24/10/1221,24 Marpenoth 1221,24 Marpenoth 1221 DR
+23 Uktar 1245 DR,454698,harptos_gb,23,11,1245,1245,1245,11,11,Ukt,Uktar,23,23rd,23,DR,DR,Dale Reckoning,23/11/1245,23 Uktar 1245,23 Uktar 1245 DR
+14 Alturiak 1246 DR,454781,harptos_gb,14,2,1246,1246,1246,2,02,Alt,Alturiak,14,14th,14,DR,DR,Dale Reckoning,14/02/1246,14 Alturiak 1246,14 Alturiak 1246 DR
+28 Marpenoth 1255 DR,458325,harptos_gb,28,10,1255,1255,1255,10,10,Mar,Marpenoth,28,28th,28,DR,DR,Dale Reckoning,28/10/1255,28 Marpenoth 1255,28 Marpenoth 1255 DR
+28 Kythorn 1258 DR,459299,harptos_gb,28,6,1258,1258,1258,6,06,Kyt,Kythorn,28,28th,28,DR,DR,Dale Reckoning,28/06/1258,28 Kythorn 1258,28 Kythorn 1258 DR
+3 Eleasis 1268 DR,462988,harptos_gb,3,8,1268,1268,1268,8,08,Els,Eleasis,3,3rd,03,DR,DR,Dale Reckoning,03/08/1268,3 Eleasis 1268,3 Eleasis 1268 DR
+13 Mirtul 1275 DR,465463,harptos_gb,13,5,1275,1275,1275,5,05,Mir,Mirtul,13,13th,13,DR,DR,Dale Reckoning,13/05/1275,13 Mirtul 1275,13 Mirtul 1275 DR
+5 Eleint 1279 DR,467037,harptos_gb,5,9,1279,1279,1279,9,09,Elt,Eleint,5,5th,05,DR,DR,Dale Reckoning,05/09/1279,5 Eleint 1279,5 Eleint 1279 DR
+29 Uktar 1279 DR,467122,harptos_gb,29,11,1279,1279,1279,11,11,Ukt,Uktar,29,29th,29,DR,DR,Dale Reckoning,29/11/1279,29 Uktar 1279,29 Uktar 1279 DR
+13 Tarsakh 1280 DR,467258,harptos_gb,13,4,1280,1280,1280,4,04,Tar,Tarsakh,13,13th,13,DR,DR,Dale Reckoning,13/04/1280,13 Tarsakh 1280,13 Tarsakh 1280 DR
+14 Tarsakh 1281 DR,467625,harptos_gb,14,4,1281,1281,1281,4,04,Tar,Tarsakh,14,14th,14,DR,DR,Dale Reckoning,14/04/1281,14 Tarsakh 1281,14 Tarsakh 1281 DR
+24 Alturiak 1296 DR,473053,harptos_gb,24,2,1296,1296,1296,2,02,Alt,Alturiak,24,24th,24,DR,DR,Dale Reckoning,24/02/1296,24 Alturiak 1296,24 Alturiak 1296 DR
+Midwinter 1298 DR,473760,harptos_gb,31,1,1298,1298,1298,MW,MW,MW,Midwinter,,,,DR,DR,Dale Reckoning,MW/1298,Midwinter 1298,Midwinter 1298 DR
+15 Nightal 1299 DR,474444,harptos_gb,15,12,1299,1299,1299,12,12,Nig,Nightal,15,15th,15,DR,DR,Dale Reckoning,15/12/1299,15 Nightal 1299,15 Nightal 1299 DR
+7 Kythorn 1301 DR,474984,harptos_gb,7,6,1301,1301,1301,6,06,Kyt,Kythorn,7,7th,07,DR,DR,Dale Reckoning,07/06/1301,7 Kythorn 1301,7 Kythorn 1301 DR
+18 Mirtul 1306 DR,476791,harptos_gb,18,5,1306,1306,1306,5,05,Mir,Mirtul,18,18th,18,DR,DR,Dale Reckoning,18/05/1306,18 Mirtul 1306,18 Mirtul 1306 DR
+30 Flamerule 1306 DR,476863,harptos_gb,30,7,1306,1306,1306,7,07,Fla,Flamerule,30,30th,30,DR,DR,Dale Reckoning,30/07/1306,30 Flamerule 1306,30 Flamerule 1306 DR
+26 Mirtul 1308 DR,477529,harptos_gb,26,5,1308,1308,1308,5,05,Mir,Mirtul,26,26th,26,DR,DR,Dale Reckoning,26/05/1308,26 Mirtul 1308,26 Mirtul 1308 DR
+13 Mirtul 1312 DR,478977,harptos_gb,13,5,1312,1312,1312,5,05,Mir,Mirtul,13,13th,13,DR,DR,Dale Reckoning,13/05/1312,13 Mirtul 1312,13 Mirtul 1312 DR
+Feast of the Moon 1339 DR,489039,harptos_gb,31,11,1339,1339,1339,FM,FM,FM,Feast of the Moon,,,,DR,DR,Dale Reckoning,FM/1339,Feast of the Moon 1339,Feast of the Moon 1339 DR
+16 Alturiak 1344 DR,490577,harptos_gb,16,2,1344,1344,1344,2,02,Alt,Alturiak,16,16th,16,DR,DR,Dale Reckoning,16/02/1344,16 Alturiak 1344,16 Alturiak 1344 DR
+19 Flamerule 1344 DR,490731,harptos_gb,19,7,1344,1344,1344,7,07,Fla,Flamerule,19,19th,19,DR,DR,Dale Reckoning,19/07/1344,19 Flamerule 1344,19 Flamerule 1344 DR
+13 Alturiak 1349 DR,492401,harptos_gb,13,2,1349,1349,1349,2,02,Alt,Alturiak,13,13th,13,DR,DR,Dale Reckoning,13/02/1349,13 Alturiak 1349,13 Alturiak 1349 DR
+14 Flamerule 1355 DR,494744,harptos_gb,14,7,1355,1355,1355,7,07,Fla,Flamerule,14,14th,14,DR,DR,Dale Reckoning,14/07/1355,14 Flamerule 1355,14 Flamerule 1355 DR
+27 Kythorn 1356 DR,495092,harptos_gb,27,6,1356,1356,1356,6,06,Kyt,Kythorn,27,27th,27,DR,DR,Dale Reckoning,27/06/1356,27 Kythorn 1356,27 Kythorn 1356 DR
+21 Marpenoth 1363 DR,497765,harptos_gb,21,10,1363,1363,1363,10,10,Mar,Marpenoth,21,21st,21,DR,DR,Dale Reckoning,21/10/1363,21 Marpenoth 1363,21 Marpenoth 1363 DR
+Highharvestide 1370 DR,500301,harptos_gb,31,9,1370,1370,1370,HH,HH,HH,Highharvestide,,,,DR,DR,Dale Reckoning,HH/1370,Highharvestide 1370,Highharvestide 1370 DR
+11 Ches 1374 DR,501560,harptos_gb,11,3,1374,1374,1374,3,03,Che,Ches,11,11th,11,DR,DR,Dale Reckoning,11/03/1374,11 Ches 1374,11 Ches 1374 DR
+3 Flamerule 1383 DR,504960,harptos_gb,3,7,1383,1383,1383,7,07,Fla,Flamerule,3,3rd,03,DR,DR,Dale Reckoning,03/07/1383,3 Flamerule 1383,3 Flamerule 1383 DR
+17 Ches 1384 DR,505218,harptos_gb,17,3,1384,1384,1384,3,03,Che,Ches,17,17th,17,DR,DR,Dale Reckoning,17/03/1384,17 Ches 1384,17 Ches 1384 DR
+11 Tarsakh 1389 DR,507069,harptos_gb,11,4,1389,1389,1389,4,04,Tar,Tarsakh,11,11th,11,DR,DR,Dale Reckoning,11/04/1389,11 Tarsakh 1389,11 Tarsakh 1389 DR
+18 Eleint 1393 DR,508689,harptos_gb,18,9,1393,1393,1393,9,09,Elt,Eleint,18,18th,18,DR,DR,Dale Reckoning,18/09/1393,18 Eleint 1393,18 Eleint 1393 DR
+1 Uktar 1397 DR,510194,harptos_gb,1,11,1397,1397,1397,11,11,Ukt,Uktar,1,1st,01,DR,DR,Dale Reckoning,01/11/1397,1 Uktar 1397,1 Uktar 1397 DR
+Greengrass 1398 DR,510376,harptos_gb,31,4,1398,1398,1398,GG,GG,GG,Greengrass,,,,DR,DR,Dale Reckoning,GG/1398,Greengrass 1398,Greengrass 1398 DR
+12 Uktar 1399 DR,510935,harptos_gb,12,11,1399,1399,1399,11,11,Ukt,Uktar,12,12th,12,DR,DR,Dale Reckoning,12/11/1399,12 Uktar 1399,12 Uktar 1399 DR
+20 Alturiak 1400 DR,511035,harptos_gb,20,2,1400,1400,1400,2,02,Alt,Alturiak,20,20th,20,DR,DR,Dale Reckoning,20/02/1400,20 Alturiak 1400,20 Alturiak 1400 DR
+29 Flamerule 1403 DR,512291,harptos_gb,29,7,1403,1403,1403,7,07,Fla,Flamerule,29,29th,29,DR,DR,Dale Reckoning,29/07/1403,29 Flamerule 1403,29 Flamerule 1403 DR
+Highharvestide 1412 DR,515642,harptos_gb,31,9,1412,1412,1412,HH,HH,HH,Highharvestide,,,,DR,DR,Dale Reckoning,HH/1412,Highharvestide 1412,Highharvestide 1412 DR
+30 Tarsakh 1415 DR,516584,harptos_gb,30,4,1415,1415,1415,4,04,Tar,Tarsakh,30,30th,30,DR,DR,Dale Reckoning,30/04/1415,30 Tarsakh 1415,30 Tarsakh 1415 DR
+24 Hammer 1416 DR,516852,harptos_gb,24,1,1416,1416,1416,1,01,Ham,Hammer,24,24th,24,DR,DR,Dale Reckoning,24/01/1416,24 Hammer 1416,24 Hammer 1416 DR
+30 Nightal 1417 DR,517559,harptos_gb,30,12,1417,1417,1417,12,12,Nig,Nightal,30,30th,30,DR,DR,Dale Reckoning,30/12/1417,30 Nightal 1417,30 Nightal 1417 DR
+13 Ches 1418 DR,517633,harptos_gb,13,3,1418,1418,1418,3,03,Che,Ches,13,13th,13,DR,DR,Dale Reckoning,13/03/1418,13 Ches 1418,13 Ches 1418 DR
+22 Tarsakh 1418 DR,517672,harptos_gb,22,4,1418,1418,1418,4,04,Tar,Tarsakh,22,22nd,22,DR,DR,Dale Reckoning,22/04/1418,22 Tarsakh 1418,22 Tarsakh 1418 DR
+10 Tarsakh 1419 DR,518025,harptos_gb,10,4,1419,1419,1419,4,04,Tar,Tarsakh,10,10th,10,DR,DR,Dale Reckoning,10/04/1419,10 Tarsakh 1419,10 Tarsakh 1419 DR
+2 Uktar 1423 DR,519691,harptos_gb,2,11,1423,1423,1423,11,11,Ukt,Uktar,2,2nd,02,DR,DR,Dale Reckoning,02/11/1423,2 Uktar 1423,2 Uktar 1423 DR
+4 Nightal 1423 DR,519724,harptos_gb,4,12,1423,1423,1423,12,12,Nig,Nightal,4,4th,04,DR,DR,Dale Reckoning,04/12/1423,4 Nightal 1423,4 Nightal 1423 DR
+2 Flamerule 1424 DR,519934,harptos_gb,2,7,1424,1424,1424,7,07,Fla,Flamerule,2,2nd,02,DR,DR,Dale Reckoning,02/07/1424,2 Flamerule 1424,2 Flamerule 1424 DR
+8 Flamerule 1431 DR,522497,harptos_gb,8,7,1431,1431,1431,7,07,Fla,Flamerule,8,8th,08,DR,DR,Dale Reckoning,08/07/1431,8 Flamerule 1431,8 Flamerule 1431 DR
+4 Uktar 1432 DR,522981,harptos_gb,4,11,1432,1432,1432,11,11,Ukt,Uktar,4,4th,04,DR,DR,Dale Reckoning,04/11/1432,4 Uktar 1432,4 Uktar 1432 DR
+16 Kythorn 1433 DR,523206,harptos_gb,16,6,1433,1433,1433,6,06,Kyt,Kythorn,16,16th,16,DR,DR,Dale Reckoning,16/06/1433,16 Kythorn 1433,16 Kythorn 1433 DR
+Feast of the Moon 1433 DR,523373,harptos_gb,31,11,1433,1433,1433,FM,FM,FM,Feast of the Moon,,,,DR,DR,Dale Reckoning,FM/1433,Feast of the Moon 1433,Feast of the Moon 1433 DR
+3 Alturiak 1443 DR,526724,harptos_gb,3,2,1443,1443,1443,2,02,Alt,Alturiak,3,3rd,03,DR,DR,Dale Reckoning,03/02/1443,3 Alturiak 1443,3 Alturiak 1443 DR
+13 Nightal 1445 DR,527769,harptos_gb,13,12,1445,1445,1445,12,12,Nig,Nightal,13,13th,13,DR,DR,Dale Reckoning,13/12/1445,13 Nightal 1445,13 Nightal 1445 DR
+19 Kythorn 1451 DR,529783,harptos_gb,19,6,1451,1451,1451,6,06,Kyt,Kythorn,19,19th,19,DR,DR,Dale Reckoning,19/06/1451,19 Kythorn 1451,19 Kythorn 1451 DR
+16 Hammer 1456 DR,531454,harptos_gb,16,1,1456,1456,1456,1,01,Ham,Hammer,16,16th,16,DR,DR,Dale Reckoning,16/01/1456,16 Hammer 1456,16 Hammer 1456 DR
+26 Hammer 1456 DR,531464,harptos_gb,26,1,1456,1456,1456,1,01,Ham,Hammer,26,26th,26,DR,DR,Dale Reckoning,26/01/1456,26 Hammer 1456,26 Hammer 1456 DR
+18 Mirtul 1459 DR,532674,harptos_gb,18,5,1459,1459,1459,5,05,Mir,Mirtul,18,18th,18,DR,DR,Dale Reckoning,18/05/1459,18 Mirtul 1459,18 Mirtul 1459 DR
+3 Uktar 1459 DR,532841,harptos_gb,3,11,1459,1459,1459,11,11,Ukt,Uktar,3,3rd,03,DR,DR,Dale Reckoning,03/11/1459,3 Uktar 1459,3 Uktar 1459 DR
+17 Nightal 1460 DR,533252,harptos_gb,17,12,1460,1460,1460,12,12,Nig,Nightal,17,17th,17,DR,DR,Dale Reckoning,17/12/1460,17 Nightal 1460,17 Nightal 1460 DR
+30 Hammer 1466 DR,535121,harptos_gb,30,1,1466,1466,1466,1,01,Ham,Hammer,30,30th,30,DR,DR,Dale Reckoning,30/01/1466,30 Hammer 1466,30 Hammer 1466 DR
+21 Tarsakh 1467 DR,535568,harptos_gb,21,4,1467,1467,1467,4,04,Tar,Tarsakh,21,21st,21,DR,DR,Dale Reckoning,21/04/1467,21 Tarsakh 1467,21 Tarsakh 1467 DR
+28 Ches 1468 DR,535910,harptos_gb,28,3,1468,1468,1468,3,03,Che,Ches,28,28th,28,DR,DR,Dale Reckoning,28/03/1468,28 Ches 1468,28 Ches 1468 DR
+12 Eleasis 1484 DR,541891,harptos_gb,12,8,1484,1484,1484,8,08,Els,Eleasis,12,12th,12,DR,DR,Dale Reckoning,12/08/1484,12 Eleasis 1484,12 Eleasis 1484 DR
+16 Tarsakh 1488 DR,543233,harptos_gb,16,4,1488,1488,1488,4,04,Tar,Tarsakh,16,16th,16,DR,DR,Dale Reckoning,16/04/1488,16 Tarsakh 1488,16 Tarsakh 1488 DR
+7 Marpenoth 1491 DR,544503,harptos_gb,7,10,1491,1491,1491,10,10,Mar,Marpenoth,7,7th,07,DR,DR,Dale Reckoning,07/10/1491,7 Marpenoth 1491,7 Marpenoth 1491 DR
+Greengrass 1506 DR,549823,harptos_gb,31,4,1506,1506,1506,GG,GG,GG,Greengrass,,,,DR,DR,Dale Reckoning,GG/1506,Greengrass 1506,Greengrass 1506 DR
+24 Kythorn 1507 DR,550242,harptos_gb,24,6,1507,1507,1507,6,06,Kyt,Kythorn,24,24th,24,DR,DR,Dale Reckoning,24/06/1507,24 Kythorn 1507,24 Kythorn 1507 DR
+30 Hammer 1517 DR,553749,harptos_gb,30,1,1517,1517,1517,1,01,Ham,Hammer,30,30th,30,DR,DR,Dale Reckoning,30/01/1517,30 Hammer 1517,30 Hammer 1517 DR
+26 Eleint 1520 DR,555084,harptos_gb,26,9,1520,1520,1520,9,09,Elt,Eleint,26,26th,26,DR,DR,Dale Reckoning,26/09/1520,26 Eleint 1520,26 Eleint 1520 DR
+30 Alturiak 1529 DR,558163,harptos_gb,30,2,1529,1529,1529,2,02,Alt,Alturiak,30,30th,30,DR,DR,Dale Reckoning,30/02/1529,30 Alturiak 1529,30 Alturiak 1529 DR
+16 Uktar 1531 DR,559152,harptos_gb,16,11,1531,1531,1531,11,11,Ukt,Uktar,16,16th,16,DR,DR,Dale Reckoning,16/11/1531,16 Uktar 1531,16 Uktar 1531 DR
+20 Kythorn 1535 DR,560465,harptos_gb,20,6,1535,1535,1535,6,06,Kyt,Kythorn,20,20th,20,DR,DR,Dale Reckoning,20/06/1535,20 Kythorn 1535,20 Kythorn 1535 DR
+25 Flamerule 1539 DR,561961,harptos_gb,25,7,1539,1539,1539,7,07,Fla,Flamerule,25,25th,25,DR,DR,Dale Reckoning,25/07/1539,25 Flamerule 1539,25 Flamerule 1539 DR
+26 Uktar 1539 DR,562084,harptos_gb,26,11,1539,1539,1539,11,11,Ukt,Uktar,26,26th,26,DR,DR,Dale Reckoning,26/11/1539,26 Uktar 1539,26 Uktar 1539 DR
+10 Ches 1542 DR,562921,harptos_gb,10,3,1542,1542,1542,3,03,Che,Ches,10,10th,10,DR,DR,Dale Reckoning,10/03/1542,10 Ches 1542,10 Ches 1542 DR
+6 Hammer 1555 DR,567604,harptos_gb,6,1,1555,1555,1555,1,01,Ham,Hammer,6,6th,06,DR,DR,Dale Reckoning,06/01/1555,6 Hammer 1555,6 Hammer 1555 DR
+24 Eleint 1557 DR,568596,harptos_gb,24,9,1557,1557,1557,9,09,Elt,Eleint,24,24th,24,DR,DR,Dale Reckoning,24/09/1557,24 Eleint 1557,24 Eleint 1557 DR
+13 Mirtul 1558 DR,568829,harptos_gb,13,5,1558,1558,1558,5,05,Mir,Mirtul,13,13th,13,DR,DR,Dale Reckoning,13/05/1558,13 Mirtul 1558,13 Mirtul 1558 DR
+5 Alturiak 1560 DR,569460,harptos_gb,5,2,1560,1560,1560,2,02,Alt,Alturiak,5,5th,05,DR,DR,Dale Reckoning,05/02/1560,5 Alturiak 1560,5 Alturiak 1560 DR
+22 Kythorn 1562 DR,570329,harptos_gb,22,6,1562,1562,1562,6,06,Kyt,Kythorn,22,22nd,22,DR,DR,Dale Reckoning,22/06/1562,22 Kythorn 1562,22 Kythorn 1562 DR
+20 Eleint 1562 DR,570418,harptos_gb,20,9,1562,1562,1562,9,09,Elt,Eleint,20,20th,20,DR,DR,Dale Reckoning,20/09/1562,20 Eleint 1562,20 Eleint 1562 DR
+26 Flamerule 1565 DR,571459,harptos_gb,26,7,1565,1565,1565,7,07,Fla,Flamerule,26,26th,26,DR,DR,Dale Reckoning,26/07/1565,26 Flamerule 1565,26 Flamerule 1565 DR
+26 Mirtul 1567 DR,572129,harptos_gb,26,5,1567,1567,1567,5,05,Mir,Mirtul,26,26th,26,DR,DR,Dale Reckoning,26/05/1567,26 Mirtul 1567,26 Mirtul 1567 DR
+1 Hammer 1570 DR,573078,harptos_gb,1,1,1570,1570,1570,1,01,Ham,Hammer,1,1st,01,DR,DR,Dale Reckoning,01/01/1570,1 Hammer 1570,1 Hammer 1570 DR
+19 Tarsakh 1575 DR,575013,harptos_gb,19,4,1575,1575,1575,4,04,Tar,Tarsakh,19,19th,19,DR,DR,Dale Reckoning,19/04/1575,19 Tarsakh 1575,19 Tarsakh 1575 DR
+14 Uktar 1583 DR,578143,harptos_gb,14,11,1583,1583,1583,11,11,Ukt,Uktar,14,14th,14,DR,DR,Dale Reckoning,14/11/1583,14 Uktar 1583,14 Uktar 1583 DR
+13 Ches 1587 DR,579360,harptos_gb,13,3,1587,1587,1587,3,03,Che,Ches,13,13th,13,DR,DR,Dale Reckoning,13/03/1587,13 Ches 1587,13 Ches 1587 DR
+2 Hammer 1591 DR,580749,harptos_gb,2,1,1591,1591,1591,1,01,Ham,Hammer,2,2nd,02,DR,DR,Dale Reckoning,02/01/1591,2 Hammer 1591,2 Hammer 1591 DR
+18 Alturiak 1592 DR,581161,harptos_gb,18,2,1592,1592,1592,2,02,Alt,Alturiak,18,18th,18,DR,DR,Dale Reckoning,18/02/1592,18 Alturiak 1592,18 Alturiak 1592 DR
+2 Flamerule 1595 DR,582392,harptos_gb,2,7,1595,1595,1595,7,07,Fla,Flamerule,2,2nd,02,DR,DR,Dale Reckoning,02/07/1595,2 Flamerule 1595,2 Flamerule 1595 DR
+28 Marpenoth 1598 DR,583606,harptos_gb,28,10,1598,1598,1598,10,10,Mar,Marpenoth,28,28th,28,DR,DR,Dale Reckoning,28/10/1598,28 Marpenoth 1598,28 Marpenoth 1598 DR
+25 Nightal 1608 DR,587317,harptos_gb,25,12,1608,1608,1608,12,12,Nig,Nightal,25,25th,25,DR,DR,Dale Reckoning,25/12/1608,25 Nightal 1608,25 Nightal 1608 DR
+16 Alturiak 1614 DR,589195,harptos_gb,16,2,1614,1614,1614,2,02,Alt,Alturiak,16,16th,16,DR,DR,Dale Reckoning,16/02/1614,16 Alturiak 1614,16 Alturiak 1614 DR
+Highharvestide 1621 DR,591979,harptos_gb,31,9,1621,1621,1621,HH,HH,HH,Highharvestide,,,,DR,DR,Dale Reckoning,HH/1621,Highharvestide 1621,Highharvestide 1621 DR
+19 Eleint 1650 DR,602559,harptos_gb,19,9,1650,1650,1650,9,09,Elt,Eleint,19,19th,19,DR,DR,Dale Reckoning,19/09/1650,19 Eleint 1650,19 Eleint 1650 DR
+10 Hammer 1656 DR,604498,harptos_gb,10,1,1656,1656,1656,1,01,Ham,Hammer,10,10th,10,DR,DR,Dale Reckoning,10/01/1656,10 Hammer 1656,10 Hammer 1656 DR
+16 Kythorn 1658 DR,605387,harptos_gb,16,6,1658,1658,1658,6,06,Kyt,Kythorn,16,16th,16,DR,DR,Dale Reckoning,16/06/1658,16 Kythorn 1658,16 Kythorn 1658 DR
+30 Tarsakh 1660 DR,606070,harptos_gb,30,4,1660,1660,1660,4,04,Tar,Tarsakh,30,30th,30,DR,DR,Dale Reckoning,30/04/1660,30 Tarsakh 1660,30 Tarsakh 1660 DR
+10 Kythorn 1662 DR,606842,harptos_gb,10,6,1662,1662,1662,6,06,Kyt,Kythorn,10,10th,10,DR,DR,Dale Reckoning,10/06/1662,10 Kythorn 1662,10 Kythorn 1662 DR
+23 Marpenoth 1665 DR,608073,harptos_gb,23,10,1665,1665,1665,10,10,Mar,Marpenoth,23,23rd,23,DR,DR,Dale Reckoning,23/10/1665,23 Marpenoth 1665,23 Marpenoth 1665 DR
+Midsummer 1676 DR,612006,harptos_gb,31,7,1676,1676,1676,MS,MS,MS,Midsummer,,,,DR,DR,Dale Reckoning,MS/1676,Midsummer 1676,Midsummer 1676 DR
+18 Ches 1678 DR,612603,harptos_gb,18,3,1678,1678,1678,3,03,Che,Ches,18,18th,18,DR,DR,Dale Reckoning,18/03/1678,18 Ches 1678,18 Ches 1678 DR
+8 Tarsakh 1682 DR,614084,harptos_gb,8,4,1682,1682,1682,4,04,Tar,Tarsakh,8,8th,08,DR,DR,Dale Reckoning,08/04/1682,8 Tarsakh 1682,8 Tarsakh 1682 DR
+9 Tarsakh 1686 DR,615546,harptos_gb,9,4,1686,1686,1686,4,04,Tar,Tarsakh,9,9th,09,DR,DR,Dale Reckoning,09/04/1686,9 Tarsakh 1686,9 Tarsakh 1686 DR
+16 Eleint 1686 DR,615705,harptos_gb,16,9,1686,1686,1686,9,09,Elt,Eleint,16,16th,16,DR,DR,Dale Reckoning,16/09/1686,16 Eleint 1686,16 Eleint 1686 DR
+2 Kythorn 1696 DR,619252,harptos_gb,2,6,1696,1696,1696,6,06,Kyt,Kythorn,2,2nd,02,DR,DR,Dale Reckoning,02/06/1696,2 Kythorn 1696,2 Kythorn 1696 DR
+2 Hammer 1698 DR,619831,harptos_gb,2,1,1698,1698,1698,1,01,Ham,Hammer,2,2nd,02,DR,DR,Dale Reckoning,02/01/1698,2 Hammer 1698,2 Hammer 1698 DR
+30 Eleasis 1698 DR,620072,harptos_gb,30,8,1698,1698,1698,8,08,Els,Eleasis,30,30th,30,DR,DR,Dale Reckoning,30/08/1698,30 Eleasis 1698,30 Eleasis 1698 DR
+26 Flamerule 1699 DR,620402,harptos_gb,26,7,1699,1699,1699,7,07,Fla,Flamerule,26,26th,26,DR,DR,Dale Reckoning,26/07/1699,26 Flamerule 1699,26 Flamerule 1699 DR
+22 Alturiak 1729 DR,631205,harptos_gb,22,2,1729,1729,1729,2,02,Alt,Alturiak,22,22nd,22,DR,DR,Dale Reckoning,22/02/1729,22 Alturiak 1729,22 Alturiak 1729 DR
+Feast of the Moon 1730 DR,631852,harptos_gb,31,11,1730,1730,1730,FM,FM,FM,Feast of the Moon,,,,DR,DR,Dale Reckoning,FM/1730,Feast of the Moon 1730,Feast of the Moon 1730 DR
+Greengrass 1733 DR,632735,harptos_gb,31,4,1733,1733,1733,GG,GG,GG,Greengrass,,,,DR,DR,Dale Reckoning,GG/1733,Greengrass 1733,Greengrass 1733 DR
+11 Kythorn 1742 DR,636063,harptos_gb,11,6,1742,1742,1742,6,06,Kyt,Kythorn,11,11th,11,DR,DR,Dale Reckoning,11/06/1742,11 Kythorn 1742,11 Kythorn 1742 DR
+3 Kythorn 1745 DR,637151,harptos_gb,3,6,1745,1745,1745,6,06,Kyt,Kythorn,3,3rd,03,DR,DR,Dale Reckoning,03/06/1745,3 Kythorn 1745,3 Kythorn 1745 DR
+13 Uktar 1749 DR,638774,harptos_gb,13,11,1749,1749,1749,11,11,Ukt,Uktar,13,13th,13,DR,DR,Dale Reckoning,13/11/1749,13 Uktar 1749,13 Uktar 1749 DR
+15 Flamerule 1761 DR,643037,harptos_gb,15,7,1761,1761,1761,7,07,Fla,Flamerule,15,15th,15,DR,DR,Dale Reckoning,15/07/1761,15 Flamerule 1761,15 Flamerule 1761 DR
+30 Flamerule 1761 DR,643052,harptos_gb,30,7,1761,1761,1761,7,07,Fla,Flamerule,30,30th,30,DR,DR,Dale Reckoning,30/07/1761,30 Flamerule 1761,30 Flamerule 1761 DR
+11 Kythorn 1768 DR,645559,harptos_gb,11,6,1768,1768,1768,6,06,Kyt,Kythorn,11,11th,11,DR,DR,Dale Reckoning,11/06/1768,11 Kythorn 1768,11 Kythorn 1768 DR
+6 Kythorn 1781 DR,650303,harptos_gb,6,6,1781,1781,1781,6,06,Kyt,Kythorn,6,6th,06,DR,DR,Dale Reckoning,06/06/1781,6 Kythorn 1781,6 Kythorn 1781 DR
+16 Uktar 1781 DR,650465,harptos_gb,16,11,1781,1781,1781,11,11,Ukt,Uktar,16,16th,16,DR,DR,Dale Reckoning,16/11/1781,16 Uktar 1781,16 Uktar 1781 DR
+24 Flamerule 1783 DR,651081,harptos_gb,24,7,1783,1783,1783,7,07,Fla,Flamerule,24,24th,24,DR,DR,Dale Reckoning,24/07/1783,24 Flamerule 1783,24 Flamerule 1783 DR
+Midwinter 1785 DR,651637,harptos_gb,31,1,1785,1785,1785,MW,MW,MW,Midwinter,,,,DR,DR,Dale Reckoning,MW/1785,Midwinter 1785,Midwinter 1785 DR
+19 Tarsakh 1786 DR,652081,harptos_gb,19,4,1786,1786,1786,4,04,Tar,Tarsakh,19,19th,19,DR,DR,Dale Reckoning,19/04/1786,19 Tarsakh 1786,19 Tarsakh 1786 DR
+17 Flamerule 1787 DR,652535,harptos_gb,17,7,1787,1787,1787,7,07,Fla,Flamerule,17,17th,17,DR,DR,Dale Reckoning,17/07/1787,17 Flamerule 1787,17 Flamerule 1787 DR
+29 Marpenoth 1788 DR,653005,harptos_gb,29,10,1788,1788,1788,10,10,Mar,Marpenoth,29,29th,29,DR,DR,Dale Reckoning,29/10/1788,29 Marpenoth 1788,29 Marpenoth 1788 DR
+Midwinter 1799 DR,656750,harptos_gb,31,1,1799,1799,1799,MW,MW,MW,Midwinter,,,,DR,DR,Dale Reckoning,MW/1799,Midwinter 1799,Midwinter 1799 DR
+Highharvestide 1800 DR,657359,harptos_gb,31,9,1800,1800,1800,HH,HH,HH,Highharvestide,,,,DR,DR,Dale Reckoning,HH/1800,Highharvestide 1800,Highharvestide 1800 DR
+18 Flamerule 1806 DR,659476,harptos_gb,18,7,1806,1806,1806,7,07,Fla,Flamerule,18,18th,18,DR,DR,Dale Reckoning,18/07/1806,18 Flamerule 1806,18 Flamerule 1806 DR
+11 Ches 1809 DR,660444,harptos_gb,11,3,1809,1809,1809,3,03,Che,Ches,11,11th,11,DR,DR,Dale Reckoning,11/03/1809,11 Ches 1809,11 Ches 1809 DR
+3 Mirtul 1812 DR,661592,harptos_gb,3,5,1812,1812,1812,5,05,Mir,Mirtul,3,3rd,03,DR,DR,Dale Reckoning,03/05/1812,3 Mirtul 1812,3 Mirtul 1812 DR
+27 Kythorn 1814 DR,662377,harptos_gb,27,6,1814,1814,1814,6,06,Kyt,Kythorn,27,27th,27,DR,DR,Dale Reckoning,27/06/1814,27 Kythorn 1814,27 Kythorn 1814 DR
+12 Flamerule 1818 DR,663853,harptos_gb,12,7,1818,1818,1818,7,07,Fla,Flamerule,12,12th,12,DR,DR,Dale Reckoning,12/07/1818,12 Flamerule 1818,12 Flamerule 1818 DR
+8 Hammer 1822 DR,665128,harptos_gb,8,1,1822,1822,1822,1,01,Ham,Hammer,8,8th,08,DR,DR,Dale Reckoning,08/01/1822,8 Hammer 1822,8 Hammer 1822 DR
+25 Alturiak 1851 DR,675768,harptos_gb,25,2,1851,1851,1851,2,02,Alt,Alturiak,25,25th,25,DR,DR,Dale Reckoning,25/02/1851,25 Alturiak 1851,25 Alturiak 1851 DR
+Highharvestide 1859 DR,678908,harptos_gb,31,9,1859,1859,1859,HH,HH,HH,Highharvestide,,,,DR,DR,Dale Reckoning,HH/1859,Highharvestide 1859,Highharvestide 1859 DR
+7 Eleint 1861 DR,679615,harptos_gb,7,9,1861,1861,1861,9,09,Elt,Eleint,7,7th,07,DR,DR,Dale Reckoning,07/09/1861,7 Eleint 1861,7 Eleint 1861 DR
+20 Alturiak 1864 DR,680511,harptos_gb,20,2,1864,1864,1864,2,02,Alt,Alturiak,20,20th,20,DR,DR,Dale Reckoning,20/02/1864,20 Alturiak 1864,20 Alturiak 1864 DR
+7 Ches 1869 DR,682355,harptos_gb,7,3,1869,1869,1869,3,03,Che,Ches,7,7th,07,DR,DR,Dale Reckoning,07/03/1869,7 Ches 1869,7 Ches 1869 DR
+26 Flamerule 1872 DR,683590,harptos_gb,26,7,1872,1872,1872,7,07,Fla,Flamerule,26,26th,26,DR,DR,Dale Reckoning,26/07/1872,26 Flamerule 1872,26 Flamerule 1872 DR
+9 Kythorn 1874 DR,684274,harptos_gb,9,6,1874,1874,1874,6,06,Kyt,Kythorn,9,9th,09,DR,DR,Dale Reckoning,09/06/1874,9 Kythorn 1874,9 Kythorn 1874 DR
+3 Alturiak 1875 DR,684512,harptos_gb,3,2,1875,1875,1875,2,02,Alt,Alturiak,3,3rd,03,DR,DR,Dale Reckoning,03/02/1875,3 Alturiak 1875,3 Alturiak 1875 DR
+Feast of the Moon 1882 DR,687370,harptos_gb,31,11,1882,1882,1882,FM,FM,FM,Feast of the Moon,,,,DR,DR,Dale Reckoning,FM/1882,Feast of the Moon 1882,Feast of the Moon 1882 DR
+24 Ches 1890 DR,690042,harptos_gb,24,3,1890,1890,1890,3,03,Che,Ches,24,24th,24,DR,DR,Dale Reckoning,24/03/1890,24 Ches 1890,24 Ches 1890 DR
+25 Alturiak 1896 DR,692204,harptos_gb,25,2,1896,1896,1896,2,02,Alt,Alturiak,25,25th,25,DR,DR,Dale Reckoning,25/02/1896,25 Alturiak 1896,25 Alturiak 1896 DR
+7 Ches 1897 DR,692582,harptos_gb,7,3,1897,1897,1897,3,03,Che,Ches,7,7th,07,DR,DR,Dale Reckoning,07/03/1897,7 Ches 1897,7 Ches 1897 DR
+14 Eleasis 1899 DR,693471,harptos_gb,14,8,1899,1899,1899,8,08,Els,Eleasis,14,14th,14,DR,DR,Dale Reckoning,14/08/1899,14 Eleasis 1899,14 Eleasis 1899 DR
+18 Ches 1901 DR,694054,harptos_gb,18,3,1901,1901,1901,3,03,Che,Ches,18,18th,18,DR,DR,Dale Reckoning,18/03/1901,18 Ches 1901,18 Ches 1901 DR
+24 Uktar 1904 DR,695399,harptos_gb,24,11,1904,1904,1904,11,11,Ukt,Uktar,24,24th,24,DR,DR,Dale Reckoning,24/11/1904,24 Uktar 1904,24 Uktar 1904 DR
+10 Mirtul 1910 DR,697394,harptos_gb,10,5,1910,1910,1910,5,05,Mir,Mirtul,10,10th,10,DR,DR,Dale Reckoning,10/05/1910,10 Mirtul 1910,10 Mirtul 1910 DR
+9 Flamerule 1917 DR,700010,harptos_gb,9,7,1917,1917,1917,7,07,Fla,Flamerule,9,9th,09,DR,DR,Dale Reckoning,09/07/1917,9 Flamerule 1917,9 Flamerule 1917 DR
+8 Alturiak 1926 DR,703145,harptos_gb,8,2,1926,1926,1926,2,02,Alt,Alturiak,8,8th,08,DR,DR,Dale Reckoning,08/02/1926,8 Alturiak 1926,8 Alturiak 1926 DR
+24 Tarsakh 1928 DR,703951,harptos_gb,24,4,1928,1928,1928,4,04,Tar,Tarsakh,24,24th,24,DR,DR,Dale Reckoning,24/04/1928,24 Tarsakh 1928,24 Tarsakh 1928 DR
+6 Mirtul 1930 DR,704695,harptos_gb,6,5,1930,1930,1930,5,05,Mir,Mirtul,6,6th,06,DR,DR,Dale Reckoning,06/05/1930,6 Mirtul 1930,6 Mirtul 1930 DR
+2 Eleasis 1935 DR,706608,harptos_gb,2,8,1935,1935,1935,8,08,Els,Eleasis,2,2nd,02,DR,DR,Dale Reckoning,02/08/1935,2 Eleasis 1935,2 Eleasis 1935 DR
+14 Flamerule 1939 DR,708050,harptos_gb,14,7,1939,1939,1939,7,07,Fla,Flamerule,14,14th,14,DR,DR,Dale Reckoning,14/07/1939,14 Flamerule 1939,14 Flamerule 1939 DR
+Feast of the Moon 1944 DR,710016,harptos_gb,31,11,1944,1944,1944,FM,FM,FM,Feast of the Moon,,,,DR,DR,Dale Reckoning,FM/1944,Feast of the Moon 1944,Feast of the Moon 1944 DR
+11 Marpenoth 1945 DR,710331,harptos_gb,11,10,1945,1945,1945,10,10,Mar,Marpenoth,11,11th,11,DR,DR,Dale Reckoning,11/10/1945,11 Marpenoth 1945,11 Marpenoth 1945 DR
+22 Tarsakh 1950 DR,711985,harptos_gb,22,4,1950,1950,1950,4,04,Tar,Tarsakh,22,22nd,22,DR,DR,Dale Reckoning,22/04/1950,22 Tarsakh 1950,22 Tarsakh 1950 DR
+24 Uktar 1958 DR,715122,harptos_gb,24,11,1958,1958,1958,11,11,Ukt,Uktar,24,24th,24,DR,DR,Dale Reckoning,24/11/1958,24 Uktar 1958,24 Uktar 1958 DR
+30 Kythorn 1959 DR,715341,harptos_gb,30,6,1959,1959,1959,6,06,Kyt,Kythorn,30,30th,30,DR,DR,Dale Reckoning,30/06/1959,30 Kythorn 1959,30 Kythorn 1959 DR
+9 Eleasis 1959 DR,715381,harptos_gb,9,8,1959,1959,1959,8,08,Els,Eleasis,9,9th,09,DR,DR,Dale Reckoning,09/08/1959,9 Eleasis 1959,9 Eleasis 1959 DR
+7 Nightal 1959 DR,715501,harptos_gb,7,12,1959,1959,1959,12,12,Nig,Nightal,7,7th,07,DR,DR,Dale Reckoning,07/12/1959,7 Nightal 1959,7 Nightal 1959 DR
+28 Nightal 1971 DR,719905,harptos_gb,28,12,1971,1971,1971,12,12,Nig,Nightal,28,28th,28,DR,DR,Dale Reckoning,28/12/1971,28 Nightal 1971,28 Nightal 1971 DR
+18 Ches 1972 DR,719986,harptos_gb,18,3,1972,1972,1972,3,03,Che,Ches,18,18th,18,DR,DR,Dale Reckoning,18/03/1972,18 Ches 1972,18 Ches 1972 DR
+30 Flamerule 1972 DR,720119,harptos_gb,30,7,1972,1972,1972,7,07,Fla,Flamerule,30,30th,30,DR,DR,Dale Reckoning,30/07/1972,30 Flamerule 1972,30 Flamerule 1972 DR
+5 Nightal 1973 DR,720613,harptos_gb,5,12,1973,1973,1973,12,12,Nig,Nightal,5,5th,05,DR,DR,Dale Reckoning,05/12/1973,5 Nightal 1973,5 Nightal 1973 DR
+5 Eleint 1974 DR,720886,harptos_gb,5,9,1974,1974,1974,9,09,Elt,Eleint,5,5th,05,DR,DR,Dale Reckoning,05/09/1974,5 Eleint 1974,5 Eleint 1974 DR
+Midsummer 1975 DR,721216,harptos_gb,31,7,1975,1975,1975,MS,MS,MS,Midsummer,,,,DR,DR,Dale Reckoning,MS/1975,Midsummer 1975,Midsummer 1975 DR
+5 Mirtul 1980 DR,722956,harptos_gb,5,5,1980,1980,1980,5,05,Mir,Mirtul,5,5th,05,DR,DR,Dale Reckoning,05/05/1980,5 Mirtul 1980,5 Mirtul 1980 DR
+27 Eleasis 1985 DR,724896,harptos_gb,27,8,1985,1985,1985,8,08,Els,Eleasis,27,27th,27,DR,DR,Dale Reckoning,27/08/1985,27 Eleasis 1985,27 Eleasis 1985 DR
+18 Uktar 1985 DR,724978,harptos_gb,18,11,1985,1985,1985,11,11,Ukt,Uktar,18,18th,18,DR,DR,Dale Reckoning,18/11/1985,18 Uktar 1985,18 Uktar 1985 DR
+12 Eleint 1997 DR,729294,harptos_gb,12,9,1997,1997,1997,9,09,Elt,Eleint,12,12th,12,DR,DR,Dale Reckoning,12/09/1997,12 Eleint 1997,12 Eleint 1997 DR

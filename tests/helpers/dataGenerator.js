@@ -1523,16 +1523,24 @@ class StandardTranslator
 
     D(year, month, day)
     {
-        return day + '';
+        return day > 30 ? '' : day + '';
     }
 
     Do(year, month, day)
     {
+        if (day > 30) {
+            return '';
+        }
+
         return this.nths[day - 1];
     }
 
     DD(year, month, day)
     {
+        if (day > 30) {
+            return '';
+        }
+
         return pad(day, 2);
     }
 
@@ -1844,7 +1852,7 @@ class Translate1131 extends StandardTranslator
 
 const data = [];
 
-const columns = ['description', 'daystamp', 'locale', 'day', 'month', 'year', 'M', 'MM', 'MMM', 'MMMM', 'D', 'Do', 'DD', 'N', 'NN', 'NNN', 'L', 'LL', 'LLL'];
+const columns = ['description', 'daystamp', 'locale', 'day', 'month', 'year', 'y', 'YYYY', 'M', 'MM', 'MMM', 'MMMM', 'D', 'Do', 'DD', 'N', 'NN', 'NNN', 'L', 'LL', 'LLL'];
 
 const addRow = (year, month, day) => {
     const translator = StandardTranslator.factory(month, day);
